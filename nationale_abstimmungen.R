@@ -136,7 +136,7 @@ for (i in 1:length(vorlagen_short)) {
     ###Storybuilder
     
     #Textvorlagen laden
-    Textbausteine <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
+    Textbausteine <- as.data.frame(read_excel(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
                                               sheet = vorlagen_short[i]))
     cat("Textvorlagen geladen\n\n")
 
@@ -183,7 +183,7 @@ for (i in 1:length(vorlagen_short)) {
 
 #Texte speichern
 #library(xlsx)
-#write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
+#write.xlsx(results,paste0("./Texte/vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
   
   ###Output generieren für Datawrapper
   

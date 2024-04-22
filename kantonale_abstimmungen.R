@@ -73,7 +73,7 @@ for (k in 1:length(kantonal_short) ) {
     }
     
     #Textvorlagen laden
-    Textbausteine <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
+    Textbausteine <- as.data.frame(read_excel(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
                                               sheet = kantonal_short[k]))
 
     cat("Textvorlagen geladen\n\n")
@@ -102,7 +102,7 @@ for (k in 1:length(kantonal_short) ) {
 
 #Texte speichern
 #library(xlsx)
-#write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
+#write.xlsx(results,paste0("./Texte/kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   #Output Abstimmungen Gemeinde

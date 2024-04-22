@@ -25,14 +25,12 @@ DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240609-eidgAbstimmung.json")
 json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
-
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240609-kantAbstimmung.json")
 json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
-
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
-excel_sheets <- excel_sheets(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"))
+excel_sheets <- excel_sheets(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"))
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
 vorlagen_short <- excel_sheets[2:3]
 
