@@ -178,7 +178,7 @@ if (is.na(Vorlagen_Info$Vorlage_d) == FALSE) {
                 data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                  gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                  "/master/Output_Cantons/",kantonal_short[k],"_dw_",sprachen[1],".csv")),
-                visualize=list("hide-empty-regions" = TRUE))
+                visualize=list("mapView" = "crop"))
   
   dw_publish_chart(data_chart$id)
   metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
@@ -206,7 +206,7 @@ if (is.na(Vorlagen_Info$Vorlage_f) == FALSE) {
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                    "/master/Output_Cantons/",kantonal_short[k],"_dw_",sprachen[2],".csv")),
-                  visualize=list("hide-empty-regions" = TRUE))
+                  visualize=list("mapView" = "crop"))
     
     dw_publish_chart(data_chart$id)
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
@@ -234,7 +234,7 @@ if (is.na(Vorlagen_Info$Vorlage_i) == FALSE) {
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                    "/master/Output_Cantons/",kantonal_short[k],"_dw_",sprachen[3],".csv")),
-                  visualize=list("hide-empty-regions" = TRUE))
+                  visualize=list("mapView" = "crop"))
     
     dw_publish_chart(data_chart$id)
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
@@ -322,7 +322,7 @@ for (v in 1:length(vorlagen_short)) {
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                    "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_de.csv")),
-                  visualize=list("hide-empty-regions" = TRUE))
+                  visualize=list("mapView" = "crop"))
     dw_publish_chart(data_chart$id)
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
     
@@ -347,7 +347,7 @@ for (v in 1:length(vorlagen_short)) {
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                    "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_fr.csv")),
-                  visualize=list("hide-empty-regions" = TRUE))
+                  visualize=list("mapView" = "crop"))
     dw_publish_chart(data_chart$id)
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
     
@@ -372,7 +372,7 @@ for (v in 1:length(vorlagen_short)) {
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
                                                    "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_it.csv")),
-                  visualize=list("hide-empty-regions" = TRUE))
+                  visualize=list("mapView" = "crop"))
     
     dw_publish_chart(data_chart$id)
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
@@ -391,6 +391,7 @@ for (v in 1:length(vorlagen_short)) {
 }
 }
 
+View(grafiken_uebersicht)
 #Daten Speichern
 grafiken_uebersicht <- grafiken_uebersicht[-1,]
 library(xlsx)
