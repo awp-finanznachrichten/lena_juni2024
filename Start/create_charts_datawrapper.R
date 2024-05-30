@@ -1,14 +1,16 @@
 #Working Directory definieren
-setwd("C:/Users/simon/OneDrive/LENA_Project/202400609_LENA_Abstimmungen")
-
-###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
-source("CONFIG.R",encoding = "UTF-8")
+setwd("C:/Users/sw/OneDrive/LENA_Project/20240609_LENA_Abstimmungen")
 
 ###Funktionen laden
 source("./Funktionen/functions_readin.R", encoding = "UTF-8")
 source("./Funktionen/functions_storyfinder.R", encoding = "UTF-8")
 source("./Funktionen/functions_storybuilder.R", encoding = "UTF-8")
 source("./Funktionen/functions_output.R", encoding = "UTF-8")
+source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
+
+###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
+source("CONFIG.R",encoding = "UTF-8")
+
 
 sprachen <- c("de","fr","it")
 
@@ -33,9 +35,6 @@ vorlagen_gemeinden <- c("EuC56","JJ03i","CPwql")
 vorlagen_kantone <- c("HH2Hs","G7A2k","sobvY")
 
 #Titel aktuelle Vorlagen
-#vorlagen <- get_vorlagen(json_data,"de")
-#vorlagen_fr <- get_vorlagen(json_data,"fr")
-#vorlagen_it <- get_vorlagen(json_data,"it")
 vorlagen_all <- rbind(vorlagen,vorlagen_fr)
 vorlagen_all <- rbind(vorlagen_all,vorlagen_it)
 
@@ -49,7 +48,7 @@ folder_eid <- dw_create_folder("Eidgenössische Abstimmungen",parent_id = main_f
 folder_kantonal <- dw_create_folder("Kantonale Abstimmungen",parent_id = main_folder$id)
 folder_infografiken <- dw_create_folder("SDA Infografiken",parent_id = main_folder$id)
 
-folder_uebersicht <- dw_create_folder("Übersicht",parent_id = folder_eid$id)
+folder_uebersicht <- dw_create_folder("_Übersicht",parent_id = folder_eid$id)
 folder_einzugsgebiete <- dw_create_folder("Einzugsgebiete",parent_id = folder_eid$id)
 folder_kantone <- dw_create_folder("Kantone",parent_id = folder_eid$id)
 folder_schweiz <- dw_create_folder("Schweiz",parent_id = folder_eid$id)
@@ -57,7 +56,7 @@ folder_schweiz <- dw_create_folder("Schweiz",parent_id = folder_eid$id)
 folder_gemeindeebene <- dw_create_folder("Gemeindeebene",parent_id = folder_schweiz$id)
 folder_kantonsebene <- dw_create_folder("Kantonsebene",parent_id = folder_schweiz$id)
 
-folder_kantone_uebersicht <- dw_create_folder("Kantone Übersicht",parent_id = folder_kantone$id)
+folder_kantone_uebersicht <- dw_create_folder("_Übersicht",parent_id = folder_kantonal$id)
 
 
 ###Grafiken erstellen und Daten speichern
@@ -152,10 +151,13 @@ write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken.xlsx",row.names = FALS
 grafiken_uebersicht <- data.frame("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 colnames(grafiken_uebersicht) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 
+
 ###For Special Abstimmungen
-#kantonal_short <- kantonal_short_special
-#kantonal_number <- kantonal_number_special
-#kantonal_add <- kantonal_add_special
+if (length(kantonal_short_special) > 0) {
+kantonal_short <- c(kantonal_short,kantonal_short_special)
+kantonal_number <- c(kantonal_number,kantonal_number_special)
+kantonal_add <- c(kantonal_add,kantonal_add_special)
+}
 
 for (k in 1:length(kantonal_short)) {
   #Get Title and Info
@@ -250,6 +252,7 @@ if (is.na(Vorlagen_Info$Vorlage_i) == FALSE) {
   }
 }
 
+
 ###Overviews Kantone
 kantone_list <- json_data_kantone[["kantone"]]
 
@@ -305,7 +308,6 @@ write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken_kantonal.xlsx",row.nam
 grafiken_uebersicht <- data.frame("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 colnames(grafiken_uebersicht) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 
-cantons_overview <- readRDS("./Data/cantons_overview.RDS")
 
 for (c in 1:nrow(cantons_overview)) {
 folder_kanton <- dw_create_folder(cantons_overview$area_ID[c],parent_id = folder_kantone$id)
@@ -325,7 +327,7 @@ for (v in 1:length(vorlagen_short)) {
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
     
     new_entry <- data.frame(paste0("Kanton ",cantons_overview$area_ID[c]),
-                            kantone_list$geoLevelname[k],
+                            vorlagen_short[v],
                             metadata_chart$content$title,
                             metadata_chart$content$language,
                             metadata_chart$id,
@@ -350,7 +352,7 @@ for (v in 1:length(vorlagen_short)) {
     metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
     
     new_entry <- data.frame(paste0("Kanton ",cantons_overview$area_ID[c]),
-                            kantone_list$geoLevelname[k],
+                            vorlagen_short[v],
                             metadata_chart$content$title,
                             metadata_chart$content$language,
                             metadata_chart$id,

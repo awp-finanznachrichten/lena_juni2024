@@ -20,7 +20,8 @@ cat("Benoetigte Bibliotheken geladen\n")
 abstimmung_date <- "Juni2024"
 
 #Mail
-DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
+#DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
+DEFAULT_MAILS <- "robot-notification@awp.ch"
 
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240609-eidgAbstimmung.json")
 json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
@@ -31,50 +32,57 @@ json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
 excel_sheets <- excel_sheets(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"))
-#Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
-vorlagen_short <- excel_sheets[2:3]
-
-###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- excel_sheets[c(4:9,11:12,15:16)]
-
-#Nummer in JSON 
-kantonal_number <- c(2,6,9,9,9,9,3,8,1,1) 
-
-#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add <- c(1,1,2,3,4,5,1,2,6,5)
-
-###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
-kantonal_short_special <- excel_sheets[c(10,13,14)]
-
-#Nummer in JSON 
-kantonal_number_special <- c(9,8,1) 
-
-#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add_special <- c(6,1,1)
-
-#Spezialfälle
-other_check <- FALSE
 
 #Kantonale Vorlagen Titel
-Vorlagen_Titel <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
-                                          sheet = "Vorlagen_Uebersicht"))
+Vorlagen_Titel <- as.data.frame(read_excel(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
+                                           sheet = "Vorlagen_Uebersicht"))
 
 ###Anzahl, Name und Nummer der Vorlagen von JSON einlesen
 
 ##Deutsch
 vorlagen <- get_vorlagen(json_data,"de")
-vorlagen$text[1] <- Vorlagen_Titel$Vorlage_d[1]
-vorlagen$text[2] <- Vorlagen_Titel$Vorlage_d[2]
+for (v in 1:nrow(vorlagen)) {
+  vorlagen$text[v] <- Vorlagen_Titel$Vorlage_d[v]
+}
 
 #Französisch
 vorlagen_fr <- get_vorlagen(json_data,"fr")
-vorlagen_fr$text[1] <- Vorlagen_Titel$Vorlage_f[1]
-vorlagen_fr$text[2] <- Vorlagen_Titel$Vorlage_f[2]
+for (v in 1:nrow(vorlagen_fr)) {
+  vorlagen_fr$text[v] <- Vorlagen_Titel$Vorlage_f[v]
+}
 
 #Italienisch
 vorlagen_it <- get_vorlagen(json_data,"it")
-vorlagen_it$text[1] <- Vorlagen_Titel$Vorlage_i[1]
-vorlagen_it$text[2] <- Vorlagen_Titel$Vorlage_i[2]
+for (v in 1:nrow(vorlagen_it)) {
+  vorlagen_it$text[v] <- Vorlagen_Titel$Vorlage_i[v]
+}
+
+#Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
+vorlagen_short <- excel_sheets[2:(nrow(vorlagen)+1)]
+
+###Kurznamen und Nummern kantonale Vorlagen 
+kantonal_short <- excel_sheets[c(6,8:13)]
+
+#Nummer in JSON 
+kantonal_number <- c(6,3,8,8,8,8,2) 
+
+#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
+kantonal_add <- c(1,4,1,2,3,4,1)
+
+###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
+kantonal_short_special <- excel_sheets[c(7,14)]
+
+#Nummer in JSON 
+kantonal_number_special <- c(3,2) 
+
+#Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
+kantonal_add_special <- c(1,2)
+
+#Spezialfälle
+other_check <- FALSE
+
+
+
 
 ###Vorhandene Daten laden
 #daten_co2_bfs <- read_excel("Data/daten_co2_bfs.xlsx",skip=5)
@@ -83,16 +91,26 @@ vorlagen_it$text[2] <- Vorlagen_Titel$Vorlage_i[2]
 #cat("Daten zu historischen Abstimmungen geladen\n")
 
 #Metadaten Gemeinden und Kantone
-meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE.csv")
-cantons_overview <- readRDS("./Data/cantons_overview.RDS")
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, "SELECT * FROM communities_metadata")
+meta_gmd_kt <- fetch(rs,n=-1)
+dbDisconnectAll()
+
+meta_gmd_kt <- meta_gmd_kt %>%
+  select(-created,-last_update)
+
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, "SELECT * FROM cantons_metadata WHERE area_type = 'canton'")
+meta_kt <- fetch(rs,n=-1)
+dbDisconnectAll()
+
+cantons_overview <- meta_kt %>%
+  select(area_ID,languages)
+
+mail_cantons <- meta_kt %>%
+  select(area_ID,mail_KeySDA)
 
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
-
-#E-Mail-Adressen Kantone
-mydb <- connectDB(db_name="sda_elections")
-rs <- dbSendQuery(mydb, "SELECT area_ID,mail_KeySDA FROM areas_metadata WHERE area_type = 'canton'")
-mail_cantons <- fetch(rs,n=-1)
-dbDisconnectAll()
 
 #Datawrapper-Codes
 datawrapper_codes <- as.data.frame(read_excel("Data/metadaten_grafiken_eidgenössische_Abstimmungen.xlsx"))
