@@ -36,6 +36,13 @@ print("Neue Daten gefunden")
 time_start <- Sys.time()
 
 if (time_check_national == FALSE) {
+  
+###Write Data in DB###
+#source("national_abstimmungen_DB_entries.R", encoding = "UTF-8")
+
+###Send Mail if Canton complete###
+#TO DO#
+    
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")
 
