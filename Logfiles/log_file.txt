@@ -10,3 +10,63 @@
 
 
 2024-05-30 15:57:12 CH_Energieversorgung
+
+
+2024-06-03 08:22:12 CH_Praemienentlastung
+
+
+2024-06-03 08:22:34 CH_Kostenbremse
+
+
+2024-06-03 08:22:55 CH_Stopp_Impfpflicht
+
+
+2024-06-03 08:23:17 CH_Energieversorgung
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:48:41 CH_Praemienentlastung
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:49:16 CH_Kostenbremse
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:49:48 CH_Stopp_Impfpflicht
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:50:21 CH_Energieversorgung
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:51:38 CH_Praemienentlastung
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:52:19 CH_Kostenbremse
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:53:02 CH_Stopp_Impfpflicht
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-06-03 08:53:48 CH_Energieversorgung
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, 
+
+2024-06-03 08:56:16 Kantonale Abstimmungen SZ
+
+
+2024-06-03 08:56:19 Kantonale Abstimmungen ZG
+
+
+2024-06-03 08:56:26 Kantonale Abstimmungen FR
+
+
+2024-06-03 08:56:29 Kantonale Abstimmungen BL
+
+
+2024-06-03 08:56:32 Kantonale Abstimmungen SH
+
+
+2024-06-03 08:56:34 Kantonale Abstimmungen AG
+
+
+2024-06-03 08:56:37 Kantonale Abstimmungen TI
+
+
+2024-06-03 08:56:40 Kantonale Abstimmungen GE

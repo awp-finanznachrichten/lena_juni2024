@@ -15,7 +15,7 @@ source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- FALSE
+simulation <- TRUE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
