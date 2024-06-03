@@ -180,9 +180,16 @@ for (i in 1:length(vorlagen_short)) {
     
   }
   
-#Texte speichern
+###Texte speichern
+#texts <- results %>%
+#  select(Gemeinde_KT_d,
+#         Storyboard,
+#         Text_d,
+#         Text_f,
+#         Text_i)
+
 #library(xlsx)
-#write.xlsx(results,paste0("./Texte/",vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
+#write.xlsx(texts,paste0("./Texte/",vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
   
   ###Output generieren für Datawrapper
   

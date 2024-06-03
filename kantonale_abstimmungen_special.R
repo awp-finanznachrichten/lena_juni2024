@@ -134,8 +134,16 @@ for (s in 1:length(kantonal_short_special) ) {
   }
   
 #Texte speichern
+  #texts <- results %>%
+  #  select(Gemeinde_KT_d,
+  #         Storyboard,
+  #         Text_d,
+  #         Text_f,
+  #         Text_i)
+  
+  
 #library(xlsx)
-#write.xlsx(results,paste0("./Texte/",kantonal_short_special[s],"_texte.xlsx"))
+#write.xlsx(texts,paste0("./Texte/",kantonal_short_special[s],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   #Output Abstimmungen Gemeinde
