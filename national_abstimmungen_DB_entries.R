@@ -1,7 +1,7 @@
 ###GET CURRENT RESULTS ###
 mydb <- connectDB(db_name="sda_votes")
 rs <- dbSendQuery(mydb, "SELECT * FROM cantons_results")
-cantons_results <- fetch(rs,n=-1)
+cantons_results <- DBI::fetch(rs,n=-1)
 dbDisconnectAll()
 
 ###CHECK FOR EACH VOTE IF THERE ARE NEW RESULTS AVAILABLE OR THERE WAS AN UPDATE

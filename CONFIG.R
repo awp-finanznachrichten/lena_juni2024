@@ -93,15 +93,16 @@ other_check <- FALSE
 #Metadaten Gemeinden und Kantone
 mydb <- connectDB(db_name="sda_votes")
 rs <- dbSendQuery(mydb, "SELECT * FROM communities_metadata")
-meta_gmd_kt <- fetch(rs,n=-1)
+meta_gmd_kt <- DBI::fetch(rs,n=-1)
 dbDisconnectAll()
+
 
 meta_gmd_kt <- meta_gmd_kt %>%
   select(-created,-last_update)
 
 mydb <- connectDB(db_name="sda_votes")
 rs <- dbSendQuery(mydb, "SELECT * FROM cantons_metadata WHERE area_type = 'canton'")
-meta_kt <- fetch(rs,n=-1)
+meta_kt <- DBI::fetch(rs,n=-1)
 dbDisconnectAll()
 
 cantons_overview <- meta_kt %>%

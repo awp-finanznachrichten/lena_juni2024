@@ -81,17 +81,17 @@ gitadd()
 gitcommit()
 gitpush()
 
-#if (time_check_national == FALSE) {
+if (time_check_national == FALSE) {
 #Tabellen aktualisieren
-#source("votations_mars_2024/top_flop/top_flop_run.R", encoding="UTF-8")
+source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
 
 #Make Commit
-#token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-#git2r::cred_token(token)
-#gitadd()
-#gitcommit()
-#gitpush()
-#}
+token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+git2r::cred_token(token)
+gitadd()
+gitcommit()
+gitpush()
+}
 
 cat("Daten erfolgreich auf Github hochgeladen\n")
 
