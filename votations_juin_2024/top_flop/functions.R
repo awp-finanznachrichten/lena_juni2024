@@ -45,16 +45,14 @@ top_flop <- function(obj,order,langage) {
 }
 
 
-plot_the_data_with_dwrp <- function(data,id,chart_title,chart_source,token = Sys.getenv("DW_KEY")) {
+plot_the_data_with_dwrp <- function(data,id,chart_title,chart_source) {
 
-  dw_data_to_chart(data,id,api_key = token)
+  dw_data_to_chart(data,id)
   
   dw_edit_chart(id,
                 title = chart_title,
-                source_name = chart_source,
-                api_key = token)
+                source_name = chart_source)
   
-  dw_publish_chart(id,
-                   api_key = token)
+  dw_publish_chart(id)
   
 }
