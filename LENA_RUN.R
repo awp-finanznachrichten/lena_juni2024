@@ -20,6 +20,9 @@ if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
 
+#SRG Hochrechnungen
+source("SRG_API_Request.R", encoding = "UTF-8")
+
 #Aktualisierungs-Check: Gibt es neue Daten?
 timestamp_national <- read.csv("./Timestamp/timestamp_national.txt",header=FALSE)[1,1]
 timestamp_kantonal <- read.csv("./Timestamp/timestamp_kantonal.txt",header=FALSE)[1,1]
@@ -38,10 +41,10 @@ time_start <- Sys.time()
 if (time_check_national == FALSE) {
   
 ###Write Data in DB###
-#source("national_abstimmungen_DB_entries.R", encoding = "UTF-8")
+#source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
 
 ###Send Mail if Canton complete###
-#TO DO#
+#source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
     
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")
