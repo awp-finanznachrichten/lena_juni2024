@@ -9,13 +9,14 @@ source("./Funktionen/functions_readin.R", encoding = "UTF-8")
 source("./Funktionen/functions_storyfinder.R", encoding = "UTF-8")
 source("./Funktionen/functions_storybuilder.R", encoding = "UTF-8")
 source("./Funktionen/functions_output.R", encoding = "UTF-8")
+source("./Funktionen/functions_github.R", encoding = "UTF-8")
 source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- TRUE
+simulation <- FALSE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
@@ -24,9 +25,13 @@ source("./Simulation/data_simulation.R")
 source("SRG_API_Request.R", encoding = "UTF-8")
 
 #Aktualisierungs-Check: Gibt es neue Daten?
-timestamp_national <- read.csv("./Timestamp/timestamp_national.txt",header=FALSE)[1,1]
-timestamp_kantonal <- read.csv("./Timestamp/timestamp_kantonal.txt",header=FALSE)[1,1]
-  
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, paste0("SELECT * FROM timestamps"))
+timestamps <- DBI::fetch(rs,n=-1)
+dbDisconnectAll()
+
+timestamp_national <- timestamps$last_update[2]
+timestamp_kantonal <- timestamps$last_update[1]
 time_check_national <- timestamp_national == json_data$timestamp
 time_check_kantonal <- timestamp_kantonal == json_data_kantone$timestamp
 
@@ -50,12 +55,7 @@ if (time_check_national == FALSE) {
 source("nationale_abstimmungen.R", encoding="UTF-8")
 
 #Abstimmung komplett?
-mail_sent_report <- read_rds("mail_sent_report.RDS")
-if ((mail_sent_report == FALSE) & (sum(json_data[["schweiz"]][["vorlagen"]][["vorlageBeendet"]] == FALSE) == 0) ) {
-print("Alle Abstimmungsresultate komplett!")
-source("report_election_completed.R", encoding="UTF-8") 
-}  
-  
+source("nationale_abstimmungen_report.R", encoding="UTF-8")
 }
   
 if (time_check_kantonal == FALSE) {  
@@ -77,30 +77,22 @@ source("kantonale_abstimmungen_special.R", encoding="UTF-8")
 #source("datenfeeds_kunden.R", encoding="UTF-8")
 
 #Make Commit
-git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
-token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-git2r::cred_token(token)
-gitadd()
-gitcommit()
-gitpush()
+source("commit.R", encoding="UTF-8")
 
 if (time_check_national == FALSE) {
 #Tabellen aktualisieren
 source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
-
 #Make Commit
-token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-git2r::cred_token(token)
-gitadd()
-gitcommit()
-gitpush()
+source("commit.R", encoding="UTF-8")
 }
 
-cat("Daten erfolgreich auf Github hochgeladen\n")
-
 #Timestamp speichern
-cat(json_data$timestamp, file="./Timestamp/timestamp_national.txt")
-cat(json_data_kantone$timestamp, file="./Timestamp/timestamp_kantonal.txt")
+mydb <- connectDB(db_name = "sda_votes")  
+sql_qry <- paste0("UPDATE timestamps SET last_update = '",json_data$timestamp,"' WHERE data_type = 'results_national'")
+rs <- dbSendQuery(mydb, sql_qry)
+sql_qry <- paste0("UPDATE timestamps SET last_update = '",json_data_kantone$timestamp,"' WHERE data_type = 'results_cantonal'")
+rs <- dbSendQuery(mydb, sql_qry)
+dbDisconnectAll() 
 
 #Wie lange hat LENA gebraucht
 time_end <- Sys.time()

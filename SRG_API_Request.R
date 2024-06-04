@@ -57,7 +57,7 @@ send_notification(Subject,
 #Hochrechnung 1
 current_extrapolation <- extrapolations %>%
   filter(votes_ID == vorlagen$id[v],
-         type == "extrapolation")
+         type == "extrapolation 1")
 
 link <- paste0("https://srgssr-prod.apigee.net/polis-api-internal/v2/Polis.Votations?apikey=a660OBYrTkO9dNaxb3ExzKMDFIqGOiH4&lang=de&votationid=",votation_ids[v],"&locationtypeid=1&dataConditionID=4")
 data <- GET(link)
@@ -66,7 +66,7 @@ timestamp <- strptime(xml_text(xml_find_all(content,".//LastUpdate")),format = '
 
 if (length(timestamp) > 0) { 
   if (timestamp != current_extrapolation$last_update) {
-  print(paste0("New extrapolation found for ",vorlagen$text[v]))
+  print(paste0("New extrapolation 1 found for ",vorlagen$text[v]))
   
   hochrechnung <- xml_text(xml_find_all(content,".//ResultCondition"))
   votes_yes <- as.numeric(xml_text(xml_find_all(content,".//Relative/Yes")))
@@ -90,15 +90,15 @@ if (length(timestamp) > 0) {
     "'",
     " WHERE votes_ID = '",
     vorlagen$id[v],
-    "' AND type = 'extrapolation'"
+    "' AND type = 'extrapolation 1'"
   )
   rs <- dbSendQuery(mydb, sql_qry)
   dbDisconnectAll()
   
   #Send Mail
-  Subject <- paste0("***TEST***Neue SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
+  Subject <- paste0("***TEST***Erste SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
   Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
-                 "Die SRG hat eine Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
+                 "Die SRG hat eine erste Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
                  "Ergebnis: ",hochrechnung,"\n",
                  "Ja-Anteil: ",votes_yes,"%\n",
                  "Nein-Anteil: ",votes_no,"%\n",
@@ -108,5 +108,121 @@ if (length(timestamp) > 0) {
                     Body,
                     paste0(DEFAULT_MAILS))
   }
+}
+
+
+#Hochrechnung 2
+current_extrapolation <- extrapolations %>%
+  filter(votes_ID == vorlagen$id[v],
+         type == "extrapolation 2")
+
+link <- paste0("https://srgssr-prod.apigee.net/polis-api-internal/v2/Polis.Votations?apikey=a660OBYrTkO9dNaxb3ExzKMDFIqGOiH4&lang=de&votationid=",votation_ids[v],"&locationtypeid=1&dataConditionID=8")
+data <- GET(link)
+content <- read_xml(data)
+timestamp <- strptime(xml_text(xml_find_all(content,".//LastUpdate")),format = '%Y-%m-%dT%H:%M:%S')
+
+if (length(timestamp) > 0) { 
+  if (timestamp != current_extrapolation$last_update) {
+    print(paste0("New extrapolation 2 found for ",vorlagen$text[v]))
+    
+    hochrechnung <- xml_text(xml_find_all(content,".//ResultCondition"))
+    votes_yes <- as.numeric(xml_text(xml_find_all(content,".//Relative/Yes")))
+    votes_no <- as.numeric(xml_text(xml_find_all(content,".//Relative/No")))
+    
+    #Write in DB
+    
+    mydb <- connectDB(db_name = "sda_votes")
+    sql_qry <- paste0(
+      "UPDATE extrapolations SET ",
+      " result = '",
+      hochrechnung,"'",
+      ", share_votes_yes = '",
+      votes_yes,
+      "'",
+      ", share_votes_no = '",
+      votes_no,
+      "'",
+      ", last_update = '",
+      toString(timestamp),
+      "'",
+      " WHERE votes_ID = '",
+      vorlagen$id[v],
+      "' AND type = 'extrapolation 2'"
+    )
+    rs <- dbSendQuery(mydb, sql_qry)
+    dbDisconnectAll()
+    
+    #Send Mail
+    Subject <- paste0("***TEST***Zweite SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
+    Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
+                   "Die SRG hat eine zweite Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
+                   "Ergebnis: ",hochrechnung,"\n",
+                   "Ja-Anteil: ",votes_yes,"%\n",
+                   "Nein-Anteil: ",votes_no,"%\n",
+                   "Veröffentlichungszeitpunkt: ",timestamp,"\n\n",
+                   "Liebe Grüsse\n\nLENA")
+    send_notification(Subject,
+                      Body,
+                      paste0(DEFAULT_MAILS))
   }
+}
+
+#Hochrechnung 3
+current_extrapolation <- extrapolations %>%
+  filter(votes_ID == vorlagen$id[v],
+         type == "extrapolation 3")
+
+link <- paste0("https://srgssr-prod.apigee.net/polis-api-internal/v2/Polis.Votations?apikey=a660OBYrTkO9dNaxb3ExzKMDFIqGOiH4&lang=de&votationid=",votation_ids[v],"&locationtypeid=1&dataConditionID=9")
+data <- GET(link)
+content <- read_xml(data)
+timestamp <- strptime(xml_text(xml_find_all(content,".//LastUpdate")),format = '%Y-%m-%dT%H:%M:%S')
+
+if (length(timestamp) > 0) { 
+  if (timestamp != current_extrapolation$last_update) {
+    print(paste0("New extrapolation 3 found for ",vorlagen$text[v]))
+    
+    hochrechnung <- xml_text(xml_find_all(content,".//ResultCondition"))
+    votes_yes <- as.numeric(xml_text(xml_find_all(content,".//Relative/Yes")))
+    votes_no <- as.numeric(xml_text(xml_find_all(content,".//Relative/No")))
+    
+    #Write in DB
+    
+    mydb <- connectDB(db_name = "sda_votes")
+    sql_qry <- paste0(
+      "UPDATE extrapolations SET ",
+      " result = '",
+      hochrechnung,"'",
+      ", share_votes_yes = '",
+      votes_yes,
+      "'",
+      ", share_votes_no = '",
+      votes_no,
+      "'",
+      ", last_update = '",
+      toString(timestamp),
+      "'",
+      " WHERE votes_ID = '",
+      vorlagen$id[v],
+      "' AND type = 'extrapolation 3'"
+    )
+    rs <- dbSendQuery(mydb, sql_qry)
+    dbDisconnectAll()
+    
+    #Send Mail
+    Subject <- paste0("***TEST***Dritte SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
+    Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
+                   "Die SRG hat eine dritte Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
+                   "Ergebnis: ",hochrechnung,"\n",
+                   "Ja-Anteil: ",votes_yes,"%\n",
+                   "Nein-Anteil: ",votes_no,"%\n",
+                   "Veröffentlichungszeitpunkt: ",timestamp,"\n\n",
+                   "Liebe Grüsse\n\nLENA")
+    send_notification(Subject,
+                      Body,
+                      paste0(DEFAULT_MAILS))
+  }
+}
+
+
+
 }

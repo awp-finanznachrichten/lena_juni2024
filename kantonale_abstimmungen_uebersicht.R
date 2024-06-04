@@ -1,7 +1,10 @@
 kantone_list <- json_data_kantone[["kantone"]]
-completed_cantons <- read_rds("completed_cantons.RDS")
-#completed_cantons <- c("") 
-#write_rds(completed_cantons,"completed_cantons.RDS")
+
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, paste0("SELECT * FROM output_overview WHERE date = '",voting_date,"' AND voting_type = 'cantonal' AND mail_results = 'done'" ))
+output_overview <- DBI::fetch(rs,n=-1)
+dbDisconnectAll()
+completed_cantons <- unique(output_overview$area_ID)
 
 for (k in 1:nrow(kantone_list)) {
 
@@ -122,9 +125,11 @@ dw_publish_chart(datawrapper_ids$ID[d])
 if (sum(check_counted) == nrow(vorlagen)) {
 cat(paste0("Alle Abstimmungen aus dem Kanton ",kantone_list$geoLevelname[k]," sind ausgezählt!\n\n")) 
 
-completed_cantons <- c(completed_cantons,kantone_list$geoLevelname[k]) 
-write_rds(completed_cantons,"completed_cantons.RDS")
-
+#Set mail output to done
+mydb <- connectDB(db_name = "sda_votes")  
+sql_qry <- paste0("UPDATE output_overview SET mail_results = 'done' WHERE date = '",voting_date,"' AND voting_type = 'cantonal' AND area_ID = '",kantone_list$geoLevelname[k],"'")
+rs <- dbSendQuery(mydb, sql_qry)
+dbDisconnectAll() 
 
 #Send Mail
 selected_mail <- mail_cantons %>%
@@ -140,8 +145,6 @@ Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
 send_notification(Subject,Body,
                   paste0(DEFAULT_MAILS,",",selected_mail$mail_KeySDA[1]))
 
-#Log Kantonale Abstimmungen
-cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Logfiles/log_file.txt",append = TRUE)
 }
 }  else {
   cat(paste0("\nKanton ",kantone_list$geoLevelname[k]," bereits komplett\n"))  

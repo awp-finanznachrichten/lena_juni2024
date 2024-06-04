@@ -6,10 +6,9 @@ dbDisconnectAll()
 
 ###GET OUTPUT OVERVIEW###
 mydb <- connectDB(db_name="sda_votes")
-rs <- dbSendQuery(mydb, "SELECT * FROM output_overview")
+rs <- dbSendQuery(mydb, paste0("SELECT * FROM output_overview WHERE date = '",voting_date,"' AND area_ID != 'CH' AND voting_type = 'national'"))
 output_overview <- DBI::fetch(rs,n=-1)
 dbDisconnectAll()
-
 
 
 for (i in 1:nrow(output_overview)) {
@@ -39,7 +38,7 @@ send_notification(Subject,
   
 #Set mail output to done
 mydb <- connectDB(db_name = "sda_votes")  
-sql_qry <- paste0("UPDATE output_overview SET mail_results = 'done' WHERE date = '2024-06-09' AND voting_type = 'national' AND area_ID = '",output_overview$area_ID[i],"'")
+sql_qry <- paste0("UPDATE output_overview SET mail_results = 'done' WHERE date = '",voting_date,"' AND voting_type = 'national' AND area_ID = '",output_overview$area_ID[i],"'")
 rs <- dbSendQuery(mydb, sql_qry)
 dbDisconnectAll() 
 }  

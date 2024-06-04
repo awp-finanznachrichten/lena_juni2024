@@ -1,6 +1,3 @@
-#mail_sent_report <- FALSE
-#write_rds(mail_sent_report,"mail_sent_report.RDS")
-
 Subject <- paste0("Eidgenössische Abstimmungen: Es sind alle Resultate bekannt")
 Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                "Die Ergebnisse der eidgenössischen Abstimmungen sind bekannt. ",
@@ -16,6 +13,9 @@ send_notification(Subject,
                   Body,
                   paste0(DEFAULT_MAILS,",inland@keystone-sda.ch,suisse@keystone-ats.ch"))
 
-mail_sent_report <- TRUE
-write_rds(mail_sent_report,"mail_sent_report.RDS")
+#Set mail output to done
+mydb <- connectDB(db_name = "sda_votes")  
+sql_qry <- paste0("UPDATE output_overview SET mail_results = 'done' WHERE date = '",voting_date,"' AND voting_type = 'national' AND area_ID = 'CH'")
+rs <- dbSendQuery(mydb, sql_qry)
+dbDisconnectAll() 
 

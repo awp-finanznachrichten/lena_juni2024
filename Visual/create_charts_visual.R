@@ -5,7 +5,7 @@ library(zip)
 library(RCurl)
 
 #Working Directory definieren
-setwd("C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
+setwd("C:/Users/sw/OneDrive/LENA_Project/20240609_LENA_Abstimmungen")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
@@ -16,14 +16,14 @@ vorlage_gemeinde <- c("kDkMR","5NIK3","Idw6B")
 vorlage_kantone <- c("Tfr6N","RZFmo","fOEsn")
 
 #Ordner Codes
-folder_de <- "117142"
-folder_fr <- "117143"
-folder_it <- "117144"
+folder_de <- "244619"
+folder_fr <- "244619"
+folder_it <- "244619"
 
 #Datum
-datum_de <- "3. März 2024"
-datum_fr <- "3 mars 2024"
-datum_it <- "3 marzo 2024"
+datum_de <- "9. Juni 2024"
+datum_fr <- "9 juin 2024"
+datum_it <- "9 giugno 2024"
 
 for (i in 1:length(vorlagen_short) ) {
 

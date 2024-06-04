@@ -1,7 +1,11 @@
-completed_votes <- read_rds("completed_votes.RDS")
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, paste0("SELECT * FROM votes_metadata WHERE date = '",voting_date,"' AND area_ID != 'CH' AND status = 'done'" ))
+votes_metadata <- DBI::fetch(rs,n=-1)
+dbDisconnectAll()
+completed_votes <- na.omit(unique(votes_metadata$spreadsheet))
 
 for (s in 1:length(kantonal_short_special) ) {
-#i <- k
+
   if (sum(grepl(kantonal_short_special[s],completed_votes) == 0)) {
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[s],"\n"))
   
@@ -233,8 +237,13 @@ for (s in 1:length(kantonal_short_special) ) {
       undertitel_fr <- gsub("contre[-]proposition","variante",undertitel_fr)
     }
       if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
-        completed_votes <- c(completed_votes,kantonal_short_special[s]) 
-        write_rds(completed_votes,"completed_votes.RDS")
+        
+        #Set mail output to done
+        mydb <- connectDB(db_name = "sda_votes")  
+        sql_qry <- paste0("UPDATE votes_metadata SET status = 'done' WHERE date = '",voting_date,"' AND spreadsheet = '",kantonal_short_special[s],"'")
+        rs <- dbSendQuery(mydb, sql_qry)
+        dbDisconnectAll() 
+
         print(paste0("Alle Daten der Abstimmung ",kantonal_short_special[s]," vorhanden"))
       }
     }    

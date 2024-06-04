@@ -18,6 +18,7 @@ cat("Benoetigte Bibliotheken geladen\n")
 
 #Welche Abstimmung?
 abstimmung_date <- "Juni2024"
+voting_date <- "2024-06-09"
 
 #Mail
 #DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
@@ -120,37 +121,4 @@ datawrapper_codes_kantonal <- datawrapper_codes_kantonal[,c(1:5)]
 
 datawrapper_auth(Sys.getenv("DW_KEY"), overwrite = TRUE)
 
-gitcommit <- function(msg = "commit from Rstudio", dir = getwd()){
-  cmd = sprintf("git commit -m\"%s\"",msg)
-  system(cmd)
-}
 
-gitstatus <- function(dir = getwd()){
-  cmd_list <- list(
-    cmd1 = tolower(substr(dir,1,2)),
-    cmd2 = paste("cd",dir),
-    cmd3 = "git status"
-  )
-  cmd <- paste(unlist(cmd_list),collapse = " & ")
-  shell(cmd)
-}
-
-gitadd <- function(dir = getwd()){
-  cmd_list <- list(
-    cmd1 = tolower(substr(dir,1,2)),
-    cmd2 = paste("cd",dir),
-    cmd3 = "git add --all"
-  )
-  cmd <- paste(unlist(cmd_list),collapse = " & ")
-  shell(cmd)
-}
-
-gitpush <- function(dir = getwd()){
-  cmd_list <- list(
-    cmd1 = tolower(substr(dir,1,2)),
-    cmd2 = paste("cd",dir),
-    cmd3 = "git push"
-  )
-  cmd <- paste(unlist(cmd_list),collapse = " & ")
-  shell(cmd)
-}

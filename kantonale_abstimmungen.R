@@ -1,6 +1,8 @@
-completed_votes <- read_rds("completed_votes.RDS")
-#completed_votes <- c("") 
-#write_rds(completed_votes,"completed_votes.RDS")
+mydb <- connectDB(db_name="sda_votes")
+rs <- dbSendQuery(mydb, paste0("SELECT * FROM votes_metadata WHERE date = '",voting_date,"' AND area_ID != 'CH' AND status = 'done'" ))
+votes_metadata <- DBI::fetch(rs,n=-1)
+dbDisconnectAll()
+completed_votes <- na.omit(unique(votes_metadata$spreadsheet))
 
 for (k in 1:length(kantonal_short) ) {
   
@@ -107,8 +109,6 @@ for (k in 1:length(kantonal_short) ) {
   #         Text_d,
   #         Text_f,
   #         Text_i)
-  
-  
 #library(xlsx)
 #write.xlsx(texts,paste0("./Texte/",kantonal_short[k],"_texte.xlsx"))
   
@@ -190,8 +190,13 @@ for (k in 1:length(kantonal_short) ) {
     }
     
     if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
-      completed_votes <- c(completed_votes,kantonal_short[k]) 
-      write_rds(completed_votes,"completed_votes.RDS")
+      
+      #Set mail output to done
+      mydb <- connectDB(db_name = "sda_votes")  
+      sql_qry <- paste0("UPDATE votes_metadata SET status = 'done' WHERE date = '",voting_date,"' AND spreadsheet = '",kantonal_short[k],"'")
+      rs <- dbSendQuery(mydb, sql_qry)
+      dbDisconnectAll() 
+      
       print(paste0("Alle Daten der Abstimmung ",kantonal_short[k]," vorhanden"))
     }
     
