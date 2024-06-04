@@ -16,7 +16,7 @@ source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- FALSE
+simulation <- TRUE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
@@ -35,8 +35,8 @@ timestamp_kantonal <- timestamps$last_update[1]
 time_check_national <- timestamp_national == json_data$timestamp
 time_check_kantonal <- timestamp_kantonal == json_data_kantone$timestamp
 
-#time_check_national <- FALSE
-#time_check_kantonal <- FALSE
+time_check_national <- FALSE
+time_check_kantonal <- FALSE
 if ((time_check_national == TRUE) & (time_check_kantonal == TRUE)) {
 print("Keine neuen Daten gefunden")  
 } else {
@@ -44,7 +44,6 @@ print("Neue Daten gefunden")
 time_start <- Sys.time()
 
 if (time_check_national == FALSE) {
-  
 ###Write Data in DB###
 #source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
 
@@ -56,10 +55,14 @@ source("nationale_abstimmungen.R", encoding="UTF-8")
 
 #Abstimmung komplett?
 source("nationale_abstimmungen_report.R", encoding="UTF-8")
+
+#Make Commit
+source("commit.R", encoding="UTF-8")  
 }
+
+
   
 if (time_check_kantonal == FALSE) {  
-  
 ###Kantonale Abstimmungen Uebersicht  
 source("kantonale_abstimmungen_uebersicht.R", encoding="UTF-8")
 
@@ -69,21 +72,15 @@ source("kantonale_abstimmungen.R", encoding="UTF-8")
 ###Kantonale Abstimmungen Sonderfälle###
 source("kantonale_abstimmungen_special.R", encoding="UTF-8")
 
-}
-  
-###Sonderanpassungen###
-
-###Datenfeeds für Kunden###
-#source("datenfeeds_kunden.R", encoding="UTF-8")
-
 #Make Commit
 source("commit.R", encoding="UTF-8")
+}
+  
+
 
 if (time_check_national == FALSE) {
 #Tabellen aktualisieren
 source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
-#Make Commit
-source("commit.R", encoding="UTF-8")
 }
 
 #Timestamp speichern

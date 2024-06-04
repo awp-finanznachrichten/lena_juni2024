@@ -98,9 +98,6 @@ for (y in 1:nrow(output_dw_kantone)) {
     output_dw_kantone$Text_de[y] <- "Es sind alle Gemeinden ausgezählt."
     output_dw_kantone$Text_fr[y] <- "Toutes les communes sont connues."
     output_dw_kantone$Text_it[y] <- "Tutti i comuni sono noti."
-    
-    #Log-Entry
-    cat(paste0(output_dw_kantone$Kanton_d[y],", "),file="Logfiles/log_file.txt",append = TRUE)
 
   }  
   

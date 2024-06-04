@@ -11,7 +11,8 @@ Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                "Liebe Grüsse\n\nLENA")
 send_notification(Subject,
                   Body,
-                  paste0(DEFAULT_MAILS,",inland@keystone-sda.ch,suisse@keystone-ats.ch"))
+                  #paste0(DEFAULT_MAILS,",inland@keystone-sda.ch,suisse@keystone-ats.ch"))
+                  DEFAULT_MAILS)
 
 #Set mail output to done
 mydb <- connectDB(db_name = "sda_votes")  
