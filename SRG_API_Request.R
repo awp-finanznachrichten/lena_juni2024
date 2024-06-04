@@ -222,7 +222,4 @@ if (length(timestamp) > 0) {
                       paste0(DEFAULT_MAILS))
   }
 }
-
-
-
 }
