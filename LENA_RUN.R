@@ -1,5 +1,5 @@
 #repeat{
-MAIN_PATH <- "C:/Users/sw/OneDrive/LENA_Project/20240609_LENA_Abstimmungen"
+MAIN_PATH <- "C:/Users/simon/OneDrive/LENA_Project/20240609_LENA_Abstimmungen"
 
 #Working Directory definieren
 setwd(MAIN_PATH)
@@ -35,8 +35,8 @@ timestamp_kantonal <- timestamps$last_update[1]
 time_check_national <- timestamp_national == json_data$timestamp
 time_check_kantonal <- timestamp_kantonal == json_data_kantone$timestamp
 
-time_check_national <- FALSE
-time_check_kantonal <- FALSE
+#time_check_national <- FALSE
+#time_check_kantonal <- FALSE
 if ((time_check_national == TRUE) & (time_check_kantonal == TRUE)) {
 print("Keine neuen Daten gefunden")  
 } else {
@@ -57,7 +57,7 @@ source("nationale_abstimmungen.R", encoding="UTF-8")
 source("nationale_abstimmungen_report.R", encoding="UTF-8")
 
 #Make Commit
-source("commit.R", encoding="UTF-8")  
+source("commit.R", encoding="UTF-8") 
 }
 
 
