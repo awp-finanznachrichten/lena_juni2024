@@ -1,4 +1,4 @@
-repeat{
+
 MAIN_PATH <- "C:/Users/simon/OneDrive/LENA_Project/20240609_LENA_Abstimmungen"
 
 #Working Directory definieren
@@ -12,6 +12,7 @@ source("./Funktionen/functions_output.R", encoding = "UTF-8")
 source("./Funktionen/functions_github.R", encoding = "UTF-8")
 source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 
+repeat{
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")
 
