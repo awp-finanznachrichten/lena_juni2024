@@ -45,10 +45,10 @@ time_start <- Sys.time()
 
 if (time_check_national == FALSE) {
 ###Write Data in DB###
-#source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
+source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
 
 ###Send Mail if Canton complete###
-#source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
+source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
     
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")

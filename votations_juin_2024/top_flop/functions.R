@@ -51,6 +51,7 @@ plot_the_data_with_dwrp <- function(data,id,chart_title,chart_source) {
   
   dw_edit_chart(id,
                 title = chart_title,
+                intro = "",
                 source_name = chart_source)
   
   dw_publish_chart(id)

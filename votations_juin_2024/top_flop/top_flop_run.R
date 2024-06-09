@@ -12,3 +12,4 @@ source("votations_juin_2024/top_flop/id.R", encoding="UTF-8")
 
 source("votations_juin_2024/top_flop/plot_data.R", encoding="UTF-8")
 
+
