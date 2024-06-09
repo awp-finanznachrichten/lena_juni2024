@@ -1,6 +1,6 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende","Text_de","Text_fr","Text_it"
 1,"Zürich","Zurich","Zurigo",71.7,28.3,100,160,156,"156/160","Es sind <b>156 von 160</b> Gemeinden ausgezählt.","Le résultats de <b>156 des 160 communes sont connus.","I risultati di <b>156 dei 160 comuni sono noti."
-2,"Bern","Berne","Berna",66.9,33.1,100,330,219,"219/330","Es sind <b>219 von 330</b> Gemeinden ausgezählt.","Le résultats de <b>219 des 330 communes sont connus.","I risultati di <b>219 dei 330 comuni sono noti."
+2,"Bern","Berne","Berna",71.5,28.5,100,330,290,"290/330","Es sind <b>290 von 330</b> Gemeinden ausgezählt.","Le résultats de <b>290 des 330 communes sont connus.","I risultati di <b>290 dei 330 comuni sono noti."
 3,"Luzern","Lucerne","Lucerna",70.7,29.3,70.7,80,80,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
 4,"Uri","Uri","Uri",60.7,39.3,60.7,19,19,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
 5,"Schwyz","Schwyz","Svitto",57,43,57,30,30,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
