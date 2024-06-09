@@ -22,7 +22,7 @@ source("./Simulation/data_simulation.R")
 }  
 
 #SRG Hochrechnungen
-source("SRG_API_Request.R", encoding = "UTF-8")
+#source("SRG_API_Request.R", encoding = "UTF-8")
 
 #Aktualisierungs-Check: Gibt es neue Daten?
 mydb <- connectDB(db_name="sda_votes")
@@ -45,10 +45,10 @@ time_start <- Sys.time()
 
 if (time_check_national == FALSE) {
 ###Write Data in DB###
-source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
+#source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
 
 ###Send Mail if Canton complete###
-source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
+#source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
     
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")
@@ -76,7 +76,7 @@ source("commit.R", encoding="UTF-8")
   
 if (time_check_national == FALSE) {
 #Tabellen aktualisieren
-#source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
+source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
 }
 
 #Timestamp speichern
