@@ -159,336 +159,336 @@
 1,296,37.285958904,1742,2930,45.713179795,4724,10334,4672,TRUE,"ZH","Illnau-Effretikon","Illnau-Effretikon","Illnau-Effretikon","Illnau-Effretikon ZH","Illnau-Effretikon (ZH)","Illnau-Effretikon ZH","Zürich","Zurich","Zurigo",39.118317241,FALSE,FALSE
 1,297,34.105534106,530,1024,45.581395349,1568,3440,1554,TRUE,"ZH","Bauma","Bauma","Bauma","Bauma ZH","Bauma (ZH)","Bauma ZH","Zürich","Zurich","Zurigo",39.118317241,FALSE,FALSE
 1,298,27.667057444,708,1851,53.467191058,2583,4831,2559,TRUE,"ZH","Wiesendangen","Wiesendangen","Wiesendangen","Wiesendangen ZH","Wiesendangen (ZH)","Wiesendangen ZH","Zürich","Zurich","Zurigo",39.118317241,FALSE,FALSE
-2,301,40.195394278,576,857,43.173652695,1442,3340,1433,TRUE,"BE","Aarberg","Aarberg","Aarberg","Aarberg BE","Aarberg (BE)","Aarberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,302,37.777777778,136,224,45.88086185,362,789,360,TRUE,"BE","Bargen BE","Bargen (BE)","Bargen BE","Bargen BE","Bargen (BE)","Bargen BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,303,38.667900093,418,663,44.318641326,1096,2473,1081,TRUE,"BE","Grossaffoltern","Grossaffoltern","Grossaffoltern","Grossaffoltern BE","Grossaffoltern (BE)","Grossaffoltern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,304,42.813455657,280,374,38.794616735,663,1709,654,TRUE,"BE","Kallnach","Kallnach","Kallnach","Kallnach BE","Kallnach (BE)","Kallnach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,305,39.746300211,188,285,43.090909091,474,1100,473,TRUE,"BE","Kappelen","Kappelen","Kappelen","Kappelen BE","Kappelen (BE)","Kappelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,306,44.374319913,2039,2556,43.014637762,4643,10794,4595,TRUE,"BE","Lyss","Lyss","Lyss","Lyss BE","Lyss (BE)","Lyss BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,307,38.904109589,426,669,56.459816887,1110,1966,1095,TRUE,"BE","Meikirch","Meikirch","Meikirch","Meikirch BE","Meikirch (BE)","Meikirch BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,309,38.812785388,170,268,43.95280236,447,1017,438,TRUE,"BE","Radelfingen","Radelfingen","Radelfingen","Radelfingen BE","Radelfingen (BE)","Radelfingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,310,36.869747899,351,601,43.243243243,960,2220,952,TRUE,"BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,311,46.30071599,582,675,44.081916001,1270,2881,1257,TRUE,"BE","Schüpfen","Schüpfen","Schüpfen","Schüpfen BE","Schüpfen (BE)","Schüpfen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,312,40.451248993,502,739,48.888888889,1254,2565,1241,TRUE,"BE","Seedorf BE","Seedorf (BE)","Seedorf BE","Seedorf BE","Seedorf (BE)","Seedorf BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,321,38.162808066,511,828,41.635802469,1349,3240,1339,TRUE,"BE","Aarwangen","Aarwangen","Aarwangen","Aarwangen BE","Aarwangen (BE)","Aarwangen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,322,44.936708861,71,87,39.75308642,161,405,158,TRUE,"BE","Auswil","Auswil","Auswil","Auswil BE","Auswil (BE)","Auswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,323,42.060085837,98,135,43.820224719,234,534,233,TRUE,"BE","Bannwil","Bannwil","Bannwil","Bannwil BE","Bannwil (BE)","Bannwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,324,37.17472119,100,169,43.269230769,270,624,269,TRUE,"BE","Bleienbach","Bleienbach","Bleienbach","Bleienbach BE","Bleienbach (BE)","Bleienbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,325,31.64556962,25,54,47.023809524,79,168,79,TRUE,"BE","Busswil bei Melchnau","Busswil bei Melchnau","Busswil bei Melchnau","Busswil bei Melchnau BE","Busswil bei Melchnau (BE)","Busswil bei Melchnau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,326,37.619047619,79,131,34.577922078,213,616,210,TRUE,"BE","Gondiswil","Gondiswil","Gondiswil","Gondiswil BE","Gondiswil (BE)","Gondiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,329,41.481311626,1809,2552,42.993754879,4406,10248,4361,TRUE,"BE","Langenthal","Langenthal","Langenthal","Langenthal BE","Langenthal (BE)","Langenthal BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,331,42.424242424,294,399,38.012015292,696,1831,693,TRUE,"BE","Lotzwil","Lotzwil","Lotzwil","Lotzwil BE","Lotzwil (BE)","Lotzwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,332,38.065099458,421,685,42.537030004,1120,2633,1106,TRUE,"BE","Madiswil","Madiswil","Madiswil","Madiswil BE","Madiswil (BE)","Madiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,333,39.088729017,163,254,38.538812785,422,1095,417,TRUE,"BE","Melchnau","Melchnau","Melchnau","Melchnau BE","Melchnau (BE)","Melchnau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,335,38.805970149,26,41,33.5,67,200,67,TRUE,"BE","Oeschenbach","Oeschenbach","Oeschenbach","Oeschenbach BE","Oeschenbach (BE)","Oeschenbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,336,19.642857143,11,45,35,56,160,56,TRUE,"BE","Reisiswil","Reisiswil","Reisiswil","Reisiswil BE","Reisiswil (BE)","Reisiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,337,46.801051709,534,607,39.26611797,1145,2916,1141,TRUE,"BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,338,43.248945148,205,269,36.585365854,480,1312,474,TRUE,"BE","Rohrbach","Rohrbach","Rohrbach","Rohrbach BE","Rohrbach (BE)","Rohrbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,339,27.868852459,34,88,40,122,305,122,TRUE,"BE","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben BE","Rohrbachgraben (BE)","Rohrbachgraben BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,340,32.984293194,63,128,42.256637168,191,452,191,TRUE,"BE","Rütschelen","Rütschelen","Rütschelen","Rütschelen BE","Rütschelen (BE)","Rütschelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,341,39.644970414,67,102,41.247002398,172,417,169,TRUE,"BE","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern BE","Schwarzhäusern (BE)","Schwarzhäusern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,342,44,418,532,39.925373134,963,2412,950,TRUE,"BE","Thunstetten","Thunstetten","Thunstetten","Thunstetten BE","Thunstetten (BE)","Thunstetten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,344,33.891213389,81,158,34.366197183,244,710,239,TRUE,"BE","Ursenbach","Ursenbach","Ursenbach","Ursenbach BE","Ursenbach (BE)","Ursenbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,345,45.429362881,164,197,35.493230174,367,1034,361,TRUE,"BE","Wynau","Wynau","Wynau","Wynau BE","Wynau (BE)","Wynau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,351,59.488002139,26700,18183,50.987430667,45595,89424,44883,TRUE,"BE","Bern","Berne","Berna","Bern BE","Berne (BE)","Berna BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,352,38.414164742,998,1600,56.591154261,2623,4635,2598,TRUE,"BE","Bolligen","Bolligen","Bolligen","Bolligen BE","Bolligen (BE)","Bolligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,353,43.466807165,825,1073,59.296947271,1923,3243,1898,TRUE,"BE","Bremgarten bei Bern","Bremgarten bei Bern","Bremgarten bei Bern","Bremgarten bei Bern BE","Bremgarten bei Bern (BE)","Bremgarten bei Bern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,354,41.62473041,579,812,56.570512821,1412,2496,1391,TRUE,"BE","Kirchlindach","Kirchlindach","Kirchlindach","Kirchlindach BE","Kirchlindach (BE)","Kirchlindach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,355,49.743959611,6897,6968,49.030770843,14038,28631,13865,TRUE,"BE","Köniz","Köniz","Köniz","Köniz BE","Köniz (BE)","Köniz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,356,36.25659051,2063,3627,60.34374345,5758,9542,5690,TRUE,"BE","Muri bei Bern","Muri bei Bern","Muri bei Bern","Muri bei Bern BE","Muri bei Bern (BE)","Muri bei Bern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,357,52.715654952,165,148,42.297297297,313,740,313,TRUE,"BE","Oberbalm","Oberbalm","Oberbalm","Oberbalm BE","Oberbalm (BE)","Oberbalm BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,358,42.905121746,511,680,50.698856417,1197,2361,1191,TRUE,"BE","Stettlen","Stettlen","Stettlen","Stettlen BE","Stettlen (BE)","Stettlen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,359,42.805755396,952,1272,49.87747828,2239,4489,2224,TRUE,"BE","Vechigen","Vechigen","Vechigen","Vechigen BE","Vechigen (BE)","Vechigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,360,47.411583803,1850,2052,56.299044086,3946,7009,3902,TRUE,"BE","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern BE","Wohlen bei Bern (BE)","Wohlen bei Bern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,361,43.657142857,1528,1972,48.34220221,3543,7329,3500,TRUE,"BE","Zollikofen","Zollikofen","Zollikofen","Zollikofen BE","Zollikofen (BE)","Zollikofen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,362,44.005979073,1472,1873,47.573498382,3382,7109,3345,TRUE,"BE","Ittigen","Ittigen","Ittigen","Ittigen BE","Ittigen (BE)","Ittigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,363,52.857806691,2275,2029,41.835357625,4340,10374,4304,TRUE,"BE","Ostermundigen","Ostermundigen","Ostermundigen","Ostermundigen BE","Ostermundigen (BE)","Ostermundigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,371,63.027856278,7806,4579,39.885090309,12565,31503,12385,TRUE,"BE","Biel BE","Bienne","Biel BE","Biel BE","Bienne (BE)","Biel BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,372,52.380952381,484,440,48.982785603,939,1917,924,TRUE,"BE","Leubringen","Evilard","Leubringen","Leubringen BE","Evilard (BE)","Leubringen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,381,46.992481203,250,282,40.286144578,535,1328,532,TRUE,"BE","Arch","Arch","Arch","Arch BE","Arch (BE)","Arch BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,382,43.870967742,136,174,45.507246377,314,690,310,TRUE,"BE","Büetigen","Büetigen","Büetigen","Büetigen BE","Büetigen (BE)","Büetigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,383,43.594646272,456,590,41.676551997,1054,2529,1046,TRUE,"BE","Büren an der Aare","Büren an der Aare","Büren an der Aare","Büren an der Aare BE","Büren an der Aare (BE)","Büren an der Aare BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,385,41.492537313,139,196,44.841269841,339,756,335,TRUE,"BE","Diessbach bei Büren","Diessbach bei Büren","Diessbach bei Büren","Diessbach bei Büren BE","Diessbach bei Büren (BE)","Diessbach bei Büren BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,386,47.563352827,244,269,46.037399822,517,1123,513,TRUE,"BE","Dotzigen","Dotzigen","Dotzigen","Dotzigen BE","Dotzigen (BE)","Dotzigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,387,53.804765565,700,601,39.166916392,1307,3337,1301,TRUE,"BE","Lengnau BE","Longeau","Lengnau BE","Lengnau BE","Longeau (BE)","Lengnau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,388,45.205479452,165,200,37.085427136,369,995,365,TRUE,"BE","Leuzigen","Leuzigen","Leuzigen","Leuzigen BE","Leuzigen (BE)","Leuzigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,390,45.408163265,178,214,38.312318138,395,1031,392,TRUE,"BE","Meinisberg","Meinisberg","Meinisberg","Meinisberg BE","Meinisberg (BE)","Meinisberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,391,45.886075949,145,171,44.397759104,317,714,316,TRUE,"BE","Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren BE","Oberwil bei Büren (BE)","Oberwil bei Büren BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,392,51.567567568,477,448,33.548156105,937,2793,925,TRUE,"BE","Pieterlen","Perles","Pieterlen","Pieterlen BE","Perles (BE)","Pieterlen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,393,43.88185654,104,133,37.22741433,239,642,237,TRUE,"BE","Rüti bei Büren","Rüti bei Büren","Rüti bei Büren","Rüti bei Büren BE","Rüti bei Büren (BE)","Rüti bei Büren BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,394,34.449760766,72,137,41.617357002,211,507,209,TRUE,"BE","Wengi","Wengi","Wengi","Wengi BE","Wengi (BE)","Wengi BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,401,40.615384615,132,193,40.2200489,329,818,325,TRUE,"BE","Aefligen","Aefligen","Aefligen","Aefligen BE","Aefligen (BE)","Aefligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,402,40.476190476,85,125,42.054263566,217,516,210,TRUE,"BE","Alchenstorf","Alchenstorf","Alchenstorf","Alchenstorf BE","Alchenstorf (BE)","Alchenstorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,403,39.663461538,165,251,49.704142012,420,845,416,TRUE,"BE","Bäriswil","Bäriswil","Bäriswil","Bäriswil BE","Bäriswil (BE)","Bäriswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,404,47.423288749,2411,2673,43.952372794,5131,11674,5084,TRUE,"BE","Burgdorf","Berthoud","Burgdorf","Burgdorf BE","Berthoud (BE)","Burgdorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,405,38.344827586,278,447,43.829018663,728,1661,725,TRUE,"BE","Ersigen","Ersigen","Ersigen","Ersigen BE","Ersigen (BE)","Ersigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,406,42.154811715,403,553,38.597194389,963,2495,956,TRUE,"BE","Hasle bei Burgdorf","Hasle bei Burgdorf","Hasle bei Burgdorf","Hasle bei Burgdorf BE","Hasle bei Burgdorf (BE)","Hasle bei Burgdorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,407,38.061041293,212,345,40.171551108,562,1399,557,TRUE,"BE","Heimiswil","Heimiswil","Heimiswil","Heimiswil BE","Heimiswil (BE)","Heimiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,409,38.339920949,291,468,38.976178409,769,1973,759,TRUE,"BE","Hindelbank","Hindelbank","Hindelbank","Hindelbank BE","Hindelbank (BE)","Hindelbank BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,410,44,66,84,42.016806723,150,357,150,TRUE,"BE","Höchstetten","Höchstetten","Höchstetten","Höchstetten BE","Höchstetten (BE)","Höchstetten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,411,36.416184971,63,110,41.805225653,176,421,173,TRUE,"BE","Kernenried","Kernenried","Kernenried","Kernenried BE","Kernenried (BE)","Kernenried BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,412,38.131450299,702,1139,44.265020185,1864,4211,1841,TRUE,"BE","Kirchberg BE","Kirchberg (BE)","Kirchberg BE","Kirchberg BE","Kirchberg (BE)","Kirchberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,413,40.780141844,345,501,48.812217195,863,1768,846,TRUE,"BE","Koppigen","Koppigen","Koppigen","Koppigen BE","Koppigen (BE)","Koppigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,414,44.516971279,341,425,40.187402395,772,1921,766,TRUE,"BE","Krauchthal","Krauchthal","Krauchthal","Krauchthal BE","Krauchthal (BE)","Krauchthal BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,415,39.87206823,187,282,41.909814324,474,1131,469,TRUE,"BE","Lyssach","Lyssach","Lyssach","Lyssach BE","Lyssach (BE)","Lyssach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,418,38.837516513,294,463,37.922465209,763,2012,757,TRUE,"BE","Oberburg","Oberburg","Oberburg","Oberburg BE","Oberburg (BE)","Oberburg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,420,39.807692308,207,313,34.62295082,528,1525,520,TRUE,"BE","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh BE","Rüdtligen-Alchenflüh (BE)","Rüdtligen-Alchenflüh BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,421,30.23255814,13,30,61.971830986,44,71,43,TRUE,"BE","Rumendingen","Rumendingen","Rumendingen","Rumendingen BE","Rumendingen (BE)","Rumendingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,422,26.923076923,14,38,37.931034483,55,145,52,TRUE,"BE","Rüti bei Lyssach","Rüti bei Lyssach","Rüti bei Lyssach","Rüti bei Lyssach BE","Rüti bei Lyssach (BE)","Rüti bei Lyssach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,423,34.146341463,28,54,48.538011696,83,171,82,TRUE,"BE","Willadingen","Willadingen","Willadingen","Willadingen BE","Willadingen (BE)","Willadingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,424,40.281690141,286,424,41.483198146,716,1726,710,TRUE,"BE","Wynigen","Wynigen","Wynigen","Wynigen BE","Wynigen (BE)","Wynigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,431,,,,,,,,FALSE,"BE","Corgémont","Corgémont","Corgémont","Corgémont BE","Corgémont (BE)","Corgémont BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,432,,,,,,,,FALSE,"BE","Cormoret","Cormoret","Cormoret","Cormoret BE","Cormoret (BE)","Cormoret BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,433,,,,,,,,FALSE,"BE","Cortébert","Cortébert","Cortébert","Cortébert BE","Cortébert (BE)","Cortébert BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,434,,,,,,,,FALSE,"BE","Courtelary","Courtelary","Courtelary","Courtelary BE","Courtelary (BE)","Courtelary BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,435,,,,,,,,FALSE,"BE","La Ferrière","La Ferrière","La Ferrière","La Ferrière BE","La Ferrière (BE)","La Ferrière BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,437,,,,,,,,FALSE,"BE","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan BE","Mont-Tramelan (BE)","Mont-Tramelan BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,438,,,,,,,,FALSE,"BE","Orvin","Orvin","Orvin","Orvin BE","Orvin (BE)","Orvin BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,441,,,,,,,,FALSE,"BE","Renan BE","Renan (BE)","Renan BE","Renan BE","Renan (BE)","Renan BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,442,,,,,,,,FALSE,"BE","Romont BE","Romont (BE)","Romont BE","Romont BE","Romont (BE)","Romont BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,443,,,,,,,,FALSE,"BE","St. Immer","Saint-Imier","St. Immer","St. Immer BE","Saint-Imier (BE)","St. Immer BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,444,,,,,,,,FALSE,"BE","Sonceboz-Sombeval","Sonceboz-Sombeval","Sonceboz-Sombeval","Sonceboz-Sombeval BE","Sonceboz-Sombeval (BE)","Sonceboz-Sombeval BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,445,,,,,,,,FALSE,"BE","Sonvilier","Sonvilier","Sonvilier","Sonvilier BE","Sonvilier (BE)","Sonvilier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,446,,,,,,,,FALSE,"BE","Tramelan","Tramelan","Tramelan","Tramelan BE","Tramelan (BE)","Tramelan BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,448,,,,,,,,FALSE,"BE","Villeret","Villeret","Villeret","Villeret BE","Villeret (BE)","Villeret BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,449,,,,,,,,FALSE,"BE","Sauge","Sauge","Sauge","Sauge BE","Sauge (BE)","Sauge BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,450,,,,,,,,FALSE,"BE","Péry-La Heutte","Péry-La Heutte","Péry-La Heutte","Péry-La Heutte BE","Péry-La Heutte (BE)","Péry-La Heutte BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,491,45.029239766,77,94,41.927710843,174,415,171,TRUE,"BE","Brüttelen","Brüttelen","Brüttelen","Brüttelen BE","Brüttelen (BE)","Brüttelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,492,49.768518519,215,217,44.230769231,437,988,432,TRUE,"BE","Erlach","Cerlier","Erlach","Erlach BE","Cerlier (BE)","Erlach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,493,38.418079096,68,109,51.289398281,179,349,177,TRUE,"BE","Finsterhennen","Finsterhennen","Finsterhennen","Finsterhennen BE","Finsterhennen (BE)","Finsterhennen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,494,46.44549763,98,113,36.120401338,216,598,211,TRUE,"BE","Gals","Gals","Gals","Gals BE","Gals (BE)","Gals BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,495,47.148288973,124,139,39.614243323,267,674,263,TRUE,"BE","Gampelen","Champion (Gampelen)","Gampelen","Gampelen BE","Champion (Gampelen) (BE)","Gampelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,496,42.032520325,517,713,48.42228282,1243,2567,1230,TRUE,"BE","Ins","Anet","Ins","Ins BE","Anet (BE)","Ins BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,497,39.459459459,73,112,39.004149378,188,482,185,TRUE,"BE","Lüscherz","Lüscherz","Lüscherz","Lüscherz BE","Lüscherz (BE)","Lüscherz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,498,35.532994924,140,254,44.232922732,395,893,394,TRUE,"BE","Müntschemier","Müntschemier","Müntschemier","Müntschemier BE","Müntschemier (BE)","Müntschemier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,499,41.145833333,79,113,39.387755102,193,490,192,TRUE,"BE","Siselen","Siselen","Siselen","Siselen BE","Siselen (BE)","Siselen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,500,23.076923077,33,110,43.504531722,144,331,143,TRUE,"BE","Treiten","Treiten","Treiten","Treiten BE","Treiten (BE)","Treiten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,501,42.307692308,66,90,46.647230321,160,343,156,TRUE,"BE","Tschugg","Tschugg","Tschugg","Tschugg BE","Tschugg (BE)","Tschugg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,502,40.634005764,141,206,49.789029536,354,711,347,TRUE,"BE","Vinelz","Vinelz","Vinelz","Vinelz BE","Vinelz (BE)","Vinelz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,533,51.851851852,602,559,44.887016469,1172,2611,1161,TRUE,"BE","Bätterkinden","Bätterkinden","Bätterkinden","Bätterkinden BE","Bätterkinden (BE)","Bätterkinden BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,538,37.151702786,720,1218,47.724507179,1961,4109,1938,TRUE,"BE","Fraubrunnen","Fraubrunnen","Fraubrunnen","Fraubrunnen BE","Fraubrunnen (BE)","Fraubrunnen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,540,38.959276018,861,1349,51.326412918,2225,4335,2210,TRUE,"BE","Jegenstorf","Jegenstorf","Jegenstorf","Jegenstorf BE","Jegenstorf (BE)","Jegenstorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,541,41.56626506,69,97,47.457627119,168,354,166,TRUE,"BE","Iffwil","Iffwil","Iffwil","Iffwil BE","Iffwil (BE)","Iffwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,543,40.909090909,108,156,55.949895616,268,479,264,TRUE,"BE","Mattstetten","Mattstetten","Mattstetten","Mattstetten BE","Mattstetten (BE)","Mattstetten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,544,41.769911504,472,658,43.040847201,1138,2644,1130,TRUE,"BE","Moosseedorf","Moosseedorf","Moosseedorf","Moosseedorf BE","Moosseedorf (BE)","Moosseedorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,546,45.802696078,1495,1769,47.117437722,3310,7025,3264,TRUE,"BE","Münchenbuchsee","Münchenbuchsee","Münchenbuchsee","Münchenbuchsee BE","Münchenbuchsee (BE)","Münchenbuchsee BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,551,45.212428662,713,864,38.092956397,1590,4174,1577,TRUE,"BE","Urtenen-Schönbühl","Urtenen-Schönbühl","Urtenen-Schönbühl","Urtenen-Schönbühl BE","Urtenen-Schönbühl (BE)","Urtenen-Schönbühl BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,552,44.206296048,660,833,43.961493582,1507,3428,1493,TRUE,"BE","Utzenstorf","Utzenstorf","Utzenstorf","Utzenstorf BE","Utzenstorf (BE)","Utzenstorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,553,39.08045977,34,53,56.25,90,160,87,TRUE,"BE","Wiggiswil","Wiggiswil","Wiggiswil","Wiggiswil BE","Wiggiswil (BE)","Wiggiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,554,39.189189189,116,180,39.522546419,298,754,296,TRUE,"BE","Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf BE","Wiler bei Utzenstorf (BE)","Wiler bei Utzenstorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,556,37.037037037,30,51,31.906614786,82,257,81,TRUE,"BE","Zielebach","Zielebach","Zielebach","Zielebach BE","Zielebach (BE)","Zielebach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,557,31.081081081,69,153,49.339207048,224,454,222,TRUE,"BE","Zuzwil BE","Zuzwil (BE)","Zuzwil BE","Zuzwil BE","Zuzwil (BE)","Zuzwil BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,561,28.52614897,360,902,47.896318557,1275,2662,1262,TRUE,"BE","Adelboden","Adelboden","Adelboden","Adelboden BE","Adelboden (BE)","Adelboden BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,562,35.696821516,292,526,45.704845815,830,1816,818,TRUE,"BE","Aeschi bei Spiez","Aeschi bei Spiez","Aeschi bei Spiez","Aeschi bei Spiez BE","Aeschi bei Spiez (BE)","Aeschi bei Spiez BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,563,38.41117416,880,1411,43.171641791,2314,5360,2291,TRUE,"BE","Frutigen","Frutigen","Frutigen","Frutigen BE","Frutigen (BE)","Frutigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,564,38.766519824,88,139,35.569422777,228,641,227,TRUE,"BE","Kandergrund","Kandergrund","Kandergrund","Kandergrund BE","Kandergrund (BE)","Kandergrund BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,565,39.63963964,176,268,49.230769231,448,910,444,TRUE,"BE","Kandersteg","Kandersteg","Kandersteg","Kandersteg BE","Kandersteg (BE)","Kandersteg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,566,45.55808656,200,239,49.60806271,443,893,439,TRUE,"BE","Krattigen","Krattigen","Krattigen","Krattigen BE","Krattigen (BE)","Krattigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,567,40.717488789,454,661,38.969571231,1127,2892,1115,TRUE,"BE","Reichenbach im Kandertal","Reichenbach im Kandertal","Reichenbach im Kandertal","Reichenbach im Kandertal BE","Reichenbach im Kandertal (BE)","Reichenbach im Kandertal BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,571,46.825396825,177,201,43.963553531,386,878,378,TRUE,"BE","Beatenberg","Beatenberg","Beatenberg","Beatenberg BE","Beatenberg (BE)","Beatenberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,572,45.565006075,375,448,41.839312784,828,1979,823,TRUE,"BE","Bönigen","Bönigen","Bönigen","Bönigen BE","Bönigen (BE)","Bönigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,573,43.135435993,465,613,44.897119342,1091,2430,1078,TRUE,"BE","Brienz BE","Brienz (BE)","Brienz BE","Brienz BE","Brienz (BE)","Brienz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,574,40.462427746,70,103,43.564356436,176,404,173,TRUE,"BE","Brienzwiler","Brienzwiler","Brienzwiler","Brienzwiler BE","Brienzwiler (BE)","Brienzwiler BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,575,58.095238095,61,44,33.653846154,105,312,105,TRUE,"BE","Därligen","Därligen","Därligen","Därligen BE","Därligen (BE)","Därligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,576,27.141268076,244,655,35.922712934,911,2536,899,TRUE,"BE","Grindelwald","Grindelwald","Grindelwald","Grindelwald BE","Grindelwald (BE)","Grindelwald BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,577,47.651006711,71,78,46.296296296,150,324,149,TRUE,"BE","Gsteigwiler","Gsteigwiler","Gsteigwiler","Gsteigwiler BE","Gsteigwiler (BE)","Gsteigwiler BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,578,41.237113402,40,57,41.991341991,97,231,97,TRUE,"BE","Gündlischwand","Gündlischwand","Gündlischwand","Gündlischwand BE","Gündlischwand (BE)","Gündlischwand BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,579,32.300884956,73,153,44.015444015,228,518,226,TRUE,"BE","Habkern","Habkern","Habkern","Habkern BE","Habkern (BE)","Habkern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,580,47.846889952,100,109,48.842592593,211,432,209,TRUE,"BE","Hofstetten bei Brienz","Hofstetten bei Brienz","Hofstetten bei Brienz","Hofstetten bei Brienz BE","Hofstetten bei Brienz (BE)","Hofstetten bei Brienz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,581,42.975778547,621,824,42.450638792,1462,3444,1445,TRUE,"BE","Interlaken","Interlaken","Interlaken","Interlaken BE","Interlaken (BE)","Interlaken BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,582,48.484848485,64,68,41.121495327,132,321,132,TRUE,"BE","Iseltwald","Iseltwald","Iseltwald","Iseltwald BE","Iseltwald (BE)","Iseltwald BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,584,40.649149923,263,384,45.460750853,666,1465,647,TRUE,"BE","Lauterbrunnen","Lauterbrunnen","Lauterbrunnen","Lauterbrunnen BE","Lauterbrunnen (BE)","Lauterbrunnen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,585,38.131313131,151,245,46.324387398,397,857,396,TRUE,"BE","Leissigen","Leissigen","Leissigen","Leissigen BE","Leissigen (BE)","Leissigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,586,39.130434783,27,42,39.664804469,71,179,69,TRUE,"BE","Lütschental","Lütschental","Lütschental","Lütschental BE","Lütschental (BE)","Lütschental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,587,46.146953405,515,601,40.799423839,1133,2777,1116,TRUE,"BE","Matten bei Interlaken","Matten bei Interlaken","Matten bei Interlaken","Matten bei Interlaken BE","Matten bei Interlaken (BE)","Matten bei Interlaken BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,588,52.542372881,62,56,40.816326531,120,294,118,TRUE,"BE","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken BE","Niederried bei Interlaken (BE)","Niederried bei Interlaken BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,589,55.905511811,71,56,34.482758621,130,377,127,TRUE,"BE","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee BE","Oberried am Brienzersee (BE)","Oberried am Brienzersee BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,590,44.17721519,349,441,40,798,1995,790,TRUE,"BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,591,36.666666667,11,19,33.707865169,30,89,30,TRUE,"BE","Saxeten","Saxeten","Saxeten","Saxeten BE","Saxeten (BE)","Saxeten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,592,37.556561086,83,138,44.031311155,225,511,221,TRUE,"BE","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz BE","Schwanden bei Brienz (BE)","Schwanden bei Brienz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,593,41.122504047,762,1091,47.158373327,1867,3959,1853,TRUE,"BE","Unterseen","Unterseen","Unterseen","Unterseen BE","Unterseen (BE)","Unterseen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,594,43.09252218,340,449,41.365046536,800,1934,789,TRUE,"BE","Wilderswil","Wilderswil","Wilderswil","Wilderswil BE","Wilderswil (BE)","Wilderswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,602,36.746987952,122,210,40.781440781,334,819,332,TRUE,"BE","Arni BE","Arni (BE)","Arni BE","Arni BE","Arni (BE)","Arni BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,603,41.987179487,262,362,42.95532646,625,1455,624,TRUE,"BE","Biglen","Biglen","Biglen","Biglen BE","Biglen (BE)","Biglen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,605,40.920716113,160,231,36.429872495,400,1098,391,TRUE,"BE","Bowil","Bowil","Bowil","Bowil BE","Bowil (BE)","Bowil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,606,32.978723404,62,126,44.80369515,194,433,188,TRUE,"BE","Brenzikofen","Brenzikofen","Brenzikofen","Brenzikofen BE","Brenzikofen (BE)","Brenzikofen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,607,33.333333333,51,102,46.385542169,154,332,153,TRUE,"BE","Freimettigen","Freimettigen","Freimettigen","Freimettigen BE","Freimettigen (BE)","Freimettigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,608,41.117145074,530,759,40.676903792,1298,3191,1289,TRUE,"BE","Grosshöchstetten","Grosshöchstetten","Grosshöchstetten","Grosshöchstetten BE","Grosshöchstetten (BE)","Grosshöchstetten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,609,30.303030303,30,69,47.663551402,102,214,99,TRUE,"BE","Häutligen","Häutligen","Häutligen","Häutligen BE","Häutligen (BE)","Häutligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,610,31.794871795,62,133,40.880503145,195,477,195,TRUE,"BE","Herbligen","Herbligen","Herbligen","Herbligen BE","Herbligen (BE)","Herbligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,611,38.278931751,129,208,46.341463415,342,738,337,TRUE,"BE","Kiesen","Kiesen","Kiesen","Kiesen BE","Kiesen (BE)","Kiesen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,612,41.85577408,830,1153,47.370914259,2000,4222,1983,TRUE,"BE","Konolfingen","Konolfingen","Konolfingen","Konolfingen BE","Konolfingen (BE)","Konolfingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,613,40.358744395,90,133,40.142095915,226,563,223,TRUE,"BE","Landiswil","Landiswil","Landiswil","Landiswil BE","Landiswil (BE)","Landiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,614,30.158730159,133,308,41.06324473,448,1091,441,TRUE,"BE","Linden","Linden","Linden","Linden BE","Linden (BE)","Linden BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,615,35.897435897,56,100,33.262260128,156,469,156,TRUE,"BE","Mirchel","Mirchel","Mirchel","Mirchel BE","Mirchel (BE)","Mirchel BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,616,42.286559594,2001,2731,50.178122381,4789,9544,4732,TRUE,"BE","Münsingen","Münsingen","Münsingen","Münsingen BE","Münsingen (BE)","Münsingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,617,40.725806452,101,147,43.150684932,252,584,248,TRUE,"BE","Niederhünigen","Niederhünigen","Niederhünigen","Niederhünigen BE","Niederhünigen (BE)","Niederhünigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,619,44.091580502,597,757,47.842727905,1375,2874,1354,TRUE,"BE","Oberdiessbach","Oberdiessbach","Oberdiessbach","Oberdiessbach BE","Oberdiessbach (BE)","Oberdiessbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,620,47.368421053,99,110,34.035656402,210,617,209,TRUE,"BE","Oberthal","Oberthal","Oberthal","Oberthal BE","Oberthal (BE)","Oberthal BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,622,38.392857143,86,138,41.97761194,225,536,224,TRUE,"BE","Oppligen","Oppligen","Oppligen","Oppligen BE","Oppligen (BE)","Oppligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,623,45.123062899,495,602,48.70101277,1106,2271,1097,TRUE,"BE","Rubigen","Rubigen","Rubigen","Rubigen BE","Rubigen (BE)","Rubigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,626,45.229681979,256,310,39.00273224,571,1464,566,TRUE,"BE","Walkringen","Walkringen","Walkringen","Walkringen BE","Walkringen (BE)","Walkringen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,627,42.786069652,1634,2185,47.696108709,3861,8095,3819,TRUE,"BE","Worb","Worb","Worb","Worb BE","Worb (BE)","Worb BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,628,41.638795987,249,349,37.996219282,603,1587,598,TRUE,"BE","Zäziwil","Zäziwil","Zäziwil","Zäziwil BE","Zäziwil (BE)","Zäziwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,630,28.74015748,73,181,58.620689655,255,435,254,TRUE,"BE","Allmendingen","Allmendingen","Allmendingen","Allmendingen BE","Allmendingen (BE)","Allmendingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,632,41.579315164,595,836,42.424242424,1442,3399,1431,TRUE,"BE","Wichtrach","Wichtrach","Wichtrach","Wichtrach BE","Wichtrach (BE)","Wichtrach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,662,41.037735849,174,250,45.253164557,429,948,424,TRUE,"BE","Ferenbalm","Ferenbalm","Ferenbalm","Ferenbalm BE","Ferenbalm (BE)","Ferenbalm BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,663,41.497975709,205,289,48.073217726,499,1038,494,TRUE,"BE","Frauenkappelen","Frauenkappelen","Frauenkappelen","Frauenkappelen BE","Frauenkappelen (BE)","Frauenkappelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,665,30.666666667,23,52,39.473684211,75,190,75,TRUE,"BE","Gurbrü","Gurbrü","Gurbrü","Gurbrü BE","Gurbrü (BE)","Gurbrü BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,666,34.482758621,50,95,41.111111111,148,360,145,TRUE,"BE","Kriechenwil","Kriechenwil","Kriechenwil","Kriechenwil BE","Kriechenwil (BE)","Kriechenwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,667,45.727699531,487,578,46.530789245,1073,2306,1065,TRUE,"BE","Laupen","Laupen","Laupen","Laupen BE","Laupen (BE)","Laupen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,668,38.519212746,411,656,45.907928389,1077,2346,1067,TRUE,"BE","Mühleberg","Mühleberg","Mühleberg","Mühleberg BE","Mühleberg (BE)","Mühleberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,669,48.026315789,73,79,39.378238342,152,386,152,TRUE,"BE","Münchenwiler","Villars-les-Moines","Münchenwiler","Münchenwiler BE","Villars-les-Moines (BE)","Münchenwiler BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,670,44.389642417,720,902,40.911367051,1634,3994,1622,TRUE,"BE","Neuenegg","Neuenegg","Neuenegg","Neuenegg BE","Neuenegg (BE)","Neuenegg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,671,37.984496124,49,80,45.454545455,130,286,129,TRUE,"BE","Wileroltigen","Wileroltigen","Wileroltigen","Wileroltigen BE","Wileroltigen (BE)","Wileroltigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,681,,,,,,,,FALSE,"BE","Belprahon","Belprahon","Belprahon","Belprahon BE","Belprahon (BE)","Belprahon BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,683,,,,,,,,FALSE,"BE","Champoz","Champoz","Champoz","Champoz BE","Champoz (BE)","Champoz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,687,,,,,,,,FALSE,"BE","Corcelles BE","Corcelles (BE)","Corcelles BE","Corcelles BE","Corcelles (BE)","Corcelles BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,690,,,,,,,,FALSE,"BE","Court","Court","Court","Court BE","Court (BE)","Court BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,691,,,,,,,,FALSE,"BE","Crémines","Crémines","Crémines","Crémines BE","Crémines (BE)","Crémines BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,692,,,,,,,,FALSE,"BE","Eschert","Eschert","Eschert","Eschert BE","Eschert (BE)","Eschert BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,694,,,,,,,,FALSE,"BE","Grandval","Grandval","Grandval","Grandval BE","Grandval (BE)","Grandval BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,696,,,,,,,,FALSE,"BE","Loveresse","Loveresse","Loveresse","Loveresse BE","Loveresse (BE)","Loveresse BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,700,,,,,,,,FALSE,"BE","Moutier","Moutier","Moutier","Moutier BE","Moutier (BE)","Moutier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,701,,,,,,,,FALSE,"BE","Perrefitte","Perrefitte","Perrefitte","Perrefitte BE","Perrefitte (BE)","Perrefitte BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,703,,,,,,,,FALSE,"BE","Reconvilier","Reconvilier","Reconvilier","Reconvilier BE","Reconvilier (BE)","Reconvilier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,704,,,,,,,,FALSE,"BE","Roches BE","Roches (BE)","Roches BE","Roches BE","Roches (BE)","Roches BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,706,,,,,,,,FALSE,"BE","Saicourt","Saicourt","Saicourt","Saicourt BE","Saicourt (BE)","Saicourt BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,707,,,,,,,,FALSE,"BE","Saules BE","Saules (BE)","Saules BE","Saules BE","Saules (BE)","Saules BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,708,,,,,,,,FALSE,"BE","Schelten","La Scheulte","Schelten","Schelten BE","La Scheulte (BE)","Schelten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,709,,,,,,,,FALSE,"BE","Seehof","Seehof","Seehof","Seehof BE","Seehof (BE)","Seehof BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,711,,,,,,,,FALSE,"BE","Sorvilier","Sorvilier","Sorvilier","Sorvilier BE","Sorvilier (BE)","Sorvilier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,713,,,,,,,,FALSE,"BE","Tavannes","Tavannes","Tavannes","Tavannes BE","Tavannes (BE)","Tavannes BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,715,,,,,,,,FALSE,"BE","Rebévelier","Rebévelier","Rebévelier","Rebévelier BE","Rebévelier (BE)","Rebévelier BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,716,,,,,,,,FALSE,"BE","Petit-Val","Petit-Val","Petit-Val","Petit-Val BE","Petit-Val (BE)","Petit-Val BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,717,,,,,,,,FALSE,"BE","Valbirse","Valbirse","Valbirse","Valbirse BE","Valbirse (BE)","Valbirse BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,723,,,,,,,,FALSE,"BE","Neuenstadt","La Neuveville","Neuenstadt","Neuenstadt BE","La Neuveville (BE)","Neuenstadt BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,724,,,,,,,,FALSE,"BE","Nods","Nods","Nods","Nods BE","Nods (BE)","Nods BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,726,,,,,,,,FALSE,"BE","Plateau de Diesse","Plateau de Diesse","Plateau de Diesse","Plateau de Diesse BE","Plateau de Diesse (BE)","Plateau de Diesse BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,731,49.43457189,306,313,39.048811014,624,1598,619,TRUE,"BE","Aegerten","Aegerten","Aegerten","Aegerten BE","Aegerten (BE)","Aegerten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,732,30.58637084,193,438,48.06671721,634,1319,631,TRUE,"BE","Bellmund","Bellmund","Bellmund","Bellmund BE","Bellmund (BE)","Bellmund BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,733,49.209302326,529,546,39.121037464,1086,2776,1075,TRUE,"BE","Brügg","Brügg","Brügg","Brügg BE","Brügg (BE)","Brügg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,734,32.352941176,55,115,43.216080402,172,398,170,TRUE,"BE","Bühl","Bühl","Bühl","Bühl BE","Bühl (BE)","Bühl BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,735,49.074074074,53,55,40.282685512,114,283,108,TRUE,"BE","Epsach","Epsach","Epsach","Epsach BE","Epsach (BE)","Epsach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,736,52,78,72,47.692307692,155,325,150,TRUE,"BE","Hagneck","Hagneck","Hagneck","Hagneck BE","Hagneck (BE)","Hagneck BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,737,44.444444444,44,55,38.076923077,99,260,99,TRUE,"BE","Hermrigen","Hermrigen","Hermrigen","Hermrigen BE","Hermrigen (BE)","Hermrigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,738,38.928571429,109,171,51.548269581,283,549,280,TRUE,"BE","Jens","Jens","Jens","Jens BE","Jens (BE)","Jens BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,739,48.233486943,628,674,47.426733381,1327,2798,1302,TRUE,"BE","Ipsach","Ipsach","Ipsach","Ipsach BE","Ipsach (BE)","Ipsach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,740,38.596491228,88,140,53.990610329,230,426,228,TRUE,"BE","Ligerz","Gléresse","Ligerz","Ligerz BE","Gléresse (BE)","Ligerz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,741,34.567901235,56,106,46.022727273,162,352,162,TRUE,"BE","Merzligen","Merzligen","Merzligen","Merzligen BE","Merzligen (BE)","Merzligen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,742,30.769230769,108,243,50.49088359,360,713,351,TRUE,"BE","Mörigen","Mörigen","Mörigen","Mörigen BE","Mörigen (BE)","Mörigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,743,57.342657343,984,732,39.411098528,1740,4415,1716,TRUE,"BE","Nidau","Nidau","Nidau","Nidau BE","Nidau (BE)","Nidau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,744,50.82592122,400,387,37.435172089,794,2121,787,TRUE,"BE","Orpund","Orpund","Orpund","Orpund BE","Orpund (BE)","Orpund BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,745,41.337630943,513,728,45.352622061,1254,2765,1241,TRUE,"BE","Port","Port","Port","Port BE","Port (BE)","Port BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,746,39.655172414,299,455,49.868247694,757,1518,754,TRUE,"BE","Safnern","Safnern","Safnern","Safnern BE","Safnern (BE)","Safnern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,747,47.457627119,84,93,46.272493573,180,389,177,TRUE,"BE","Scheuren","Scheuren","Scheuren","Scheuren BE","Scheuren (BE)","Scheuren BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,748,38.497652582,82,131,41.6015625,213,512,213,TRUE,"BE","Schwadernau","Schwadernau","Schwadernau","Schwadernau BE","Schwadernau (BE)","Schwadernau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,749,45.278450363,374,452,39.628924833,833,2102,826,TRUE,"BE","Studen BE","Studen (BE)","Studen BE","Studen BE","Studen (BE)","Studen BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,750,44.282744283,213,268,47.10982659,489,1038,481,TRUE,"BE","Sutz-Lattrigen","Sutz-Lattrigen","Sutz-Lattrigen","Sutz-Lattrigen BE","Sutz-Lattrigen (BE)","Sutz-Lattrigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,751,41.637630662,478,670,47.811725846,1158,2422,1148,TRUE,"BE","Täuffelen","Täuffelen","Täuffelen","Täuffelen BE","Täuffelen (BE)","Täuffelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,754,41.26984127,130,185,40.357598978,316,783,315,TRUE,"BE","Walperswil","Walperswil","Walperswil","Walperswil BE","Walperswil (BE)","Walperswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,755,42.424242424,350,475,44.361702128,834,1880,825,TRUE,"BE","Worben","Worben","Worben","Worben BE","Worben (BE)","Worben BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,756,47.15261959,207,232,49.337748344,447,906,439,TRUE,"BE","Twann-Tüscherz","Douanne-Daucher","Twann-Tüscherz","Twann-Tüscherz BE","Douanne-Daucher (BE)","Twann-Tüscherz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,761,33.21799308,96,193,44.095665172,295,669,289,TRUE,"BE","Därstetten","Därstetten","Därstetten","Därstetten BE","Därstetten (BE)","Därstetten BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,762,32.047477745,216,458,36.174746937,679,1877,674,TRUE,"BE","Diemtigen","Diemtigen","Diemtigen","Diemtigen BE","Diemtigen (BE)","Diemtigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,763,38,209,341,40.248356465,551,1369,550,TRUE,"BE","Erlenbach im Simmental","Erlenbach im Simmental","Erlenbach im Simmental","Erlenbach im Simmental BE","Erlenbach im Simmental (BE)","Erlenbach im Simmental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,766,26.582278481,84,232,47.787610619,324,678,316,TRUE,"BE","Oberwil im Simmental","Oberwil im Simmental","Oberwil im Simmental","Oberwil im Simmental BE","Oberwil im Simmental (BE)","Oberwil im Simmental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,767,33.638443936,147,290,42.485549133,441,1038,437,TRUE,"BE","Reutigen","Reutigen","Reutigen","Reutigen BE","Reutigen (BE)","Reutigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,768,43.096774194,2004,2646,47.206844489,4690,9935,4650,TRUE,"BE","Spiez","Spiez","Spiez","Spiez BE","Spiez (BE)","Spiez BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,769,38.819095477,309,487,41.18251928,801,1945,796,TRUE,"BE","Wimmis","Wimmis","Wimmis","Wimmis BE","Wimmis (BE)","Wimmis BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,770,34.393063584,119,227,43.424317618,350,806,346,TRUE,"BE","Stocken-Höfen","Stocken-Höfen","Stocken-Höfen","Stocken-Höfen BE","Stocken-Höfen (BE)","Stocken-Höfen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,782,30,24,56,39.705882353,81,204,80,TRUE,"BE","Guttannen","Guttannen","Guttannen","Guttannen BE","Guttannen (BE)","Guttannen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,783,36.609336609,149,258,49.162679426,411,836,407,TRUE,"BE","Hasliberg","Hasliberg","Hasliberg","Hasliberg BE","Hasliberg (BE)","Hasliberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,784,36.031331593,138,245,44.292237443,388,876,383,TRUE,"BE","Innertkirchen","Innertkirchen","Innertkirchen","Innertkirchen BE","Innertkirchen (BE)","Innertkirchen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,785,43.767507003,625,803,44.499229584,1444,3245,1428,TRUE,"BE","Meiringen","Meiringen","Meiringen","Meiringen BE","Meiringen (BE)","Meiringen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,786,42.613636364,75,101,40.909090909,180,440,176,TRUE,"BE","Schattenhalb","Schattenhalb","Schattenhalb","Schattenhalb BE","Schattenhalb (BE)","Schattenhalb BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,791,42.819148936,161,215,35.924170616,379,1055,376,TRUE,"BE","Boltigen","Boltigen","Boltigen","Boltigen BE","Boltigen (BE)","Boltigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,792,36.828963795,295,506,46.450880182,818,1761,801,TRUE,"BE","Lenk","Lenk","Lenk","Lenk BE","Lenk (BE)","Lenk BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,793,23.991507431,113,358,45.945945946,476,1036,471,TRUE,"BE","St. Stephan","Saint-Etienne","St. Stephan","St. Stephan BE","Saint-Etienne (BE)","St. Stephan BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,794,33.333333333,318,636,42.680776014,968,2268,954,TRUE,"BE","Zweisimmen","Zweisimmen","Zweisimmen","Zweisimmen BE","Zweisimmen (BE)","Zweisimmen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,841,36.40776699,150,262,61.863173217,425,687,412,TRUE,"BE","Gsteig","Gsteig","Gsteig","Gsteig BE","Gsteig (BE)","Gsteig BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,842,30.115830116,78,181,41.971383148,264,629,259,TRUE,"BE","Lauenen","Lauenen","Lauenen","Lauenen BE","Lauenen (BE)","Lauenen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,843,26.527242708,482,1335,43.858812306,1839,4193,1817,TRUE,"BE","Saanen","Gessenay","Saanen","Saanen BE","Gessenay (BE)","Saanen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,852,41.830065359,192,267,35.086401202,467,1331,459,TRUE,"BE","Guggisberg","Guggisberg","Guggisberg","Guggisberg BE","Guggisberg (BE)","Guggisberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,853,50.355871886,283,279,37.116764514,569,1533,562,TRUE,"BE","Rüschegg","Rüschegg","Rüschegg","Rüschegg BE","Rüschegg (BE)","Rüschegg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,855,47.912087912,1090,1185,41.307872455,2293,5551,2275,TRUE,"BE","Schwarzenburg","Schwarzenburg","Schwarzenburg","Schwarzenburg BE","Schwarzenburg (BE)","Schwarzenburg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,861,40.960523007,1629,2348,49.044117647,4002,8160,3977,TRUE,"BE","Belp","Belp","Belp","Belp BE","Belp (BE)","Belp BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,863,42.89276808,172,229,44.359255203,405,913,401,TRUE,"BE","Burgistein","Burgistein","Burgistein","Burgistein BE","Burgistein (BE)","Burgistein BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,866,35.542168675,177,321,50.950950951,509,999,498,TRUE,"BE","Gerzensee","Gerzensee","Gerzensee","Gerzensee BE","Gerzensee (BE)","Gerzensee BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,867,43.377483444,131,171,45.535714286,306,672,302,TRUE,"BE","Gurzelen","Gurzelen","Gurzelen","Gurzelen BE","Gurzelen (BE)","Gurzelen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,868,47.169811321,50,56,45.493562232,106,233,106,TRUE,"BE","Jaberg","Jaberg","Jaberg","Jaberg BE","Jaberg (BE)","Jaberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,869,48.571428571,221,234,55.555555556,460,828,455,TRUE,"BE","Kaufdorf","Kaufdorf","Kaufdorf","Kaufdorf BE","Kaufdorf (BE)","Kaufdorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,870,41.374159821,554,785,48.391708363,1354,2798,1339,TRUE,"BE","Kehrsatz","Kehrsatz","Kehrsatz","Kehrsatz BE","Kehrsatz (BE)","Kehrsatz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,872,33.598726115,211,417,42.704149933,638,1494,628,TRUE,"BE","Kirchdorf BE","Kirchdorf (BE)","Kirchdorf BE","Kirchdorf BE","Kirchdorf (BE)","Kirchdorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,879,38.565891473,398,634,42.599425994,1039,2439,1032,TRUE,"BE","Riggisberg","Riggisberg","Riggisberg","Riggisberg BE","Riggisberg (BE)","Riggisberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,880,45.289256198,274,331,40.765171504,618,1516,605,TRUE,"BE","Rüeggisberg","Rüeggisberg","Rüeggisberg","Rüeggisberg BE","Rüeggisberg (BE)","Rüeggisberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,883,43.472409152,323,420,44.115942029,761,1725,743,TRUE,"BE","Seftigen","Seftigen","Seftigen","Seftigen BE","Seftigen (BE)","Seftigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,884,40.904522613,407,588,53.613177471,1009,1882,995,TRUE,"BE","Toffen","Toffen","Toffen","Toffen BE","Toffen (BE)","Toffen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,885,41.781681305,333,464,48.466626578,806,1663,797,TRUE,"BE","Uttigen","Uttigen","Uttigen","Uttigen BE","Uttigen (BE)","Uttigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,886,43.510737628,466,605,43.512974052,1090,2505,1071,TRUE,"BE","Wattenwil","Wattenwil","Wattenwil","Wattenwil BE","Wattenwil (BE)","Wattenwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,888,41.148325359,258,369,45.209368346,637,1409,627,TRUE,"BE","Wald BE","Wald (BE)","Wald BE","Wald BE","Wald (BE)","Wald BE BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,889,46.819338422,368,418,49.409571162,795,1609,786,TRUE,"BE","Thurnen","Thurnen","Thurnen","Thurnen BE","Thurnen (BE)","Thurnen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,901,36.941580756,215,367,28.654686741,590,2059,582,TRUE,"BE","Eggiwil","Eggiwil","Eggiwil","Eggiwil BE","Eggiwil (BE)","Eggiwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,902,43.408788282,1304,1700,39.300464636,3045,7748,3004,TRUE,"BE","Langnau im Emmental","Langnau im Emmental","Langnau im Emmental","Langnau im Emmental BE","Langnau im Emmental (BE)","Langnau im Emmental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,903,40.316205534,306,453,33.318815331,765,2296,759,TRUE,"BE","Lauperswil","Lauperswil","Lauperswil","Lauperswil BE","Lauperswil (BE)","Lauperswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,904,29.866666667,112,263,36.311239193,378,1041,375,TRUE,"BE","Röthenbach im Emmental","Röthenbach im Emmental","Röthenbach im Emmental","Röthenbach im Emmental BE","Röthenbach im Emmental (BE)","Röthenbach im Emmental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,905,41.606886657,290,407,34.142787761,703,2059,697,TRUE,"BE","Rüderswil","Rüderswil","Rüderswil","Rüderswil BE","Rüderswil (BE)","Rüderswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,906,23.076923077,60,200,32.996207332,261,791,260,TRUE,"BE","Schangnau","Schangnau","Schangnau","Schangnau BE","Schangnau (BE)","Schangnau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,907,39.787234043,374,566,42.417484389,951,2242,940,TRUE,"BE","Signau","Signau","Signau","Signau BE","Signau (BE)","Signau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,908,39.295392954,145,224,26.334519573,370,1405,369,TRUE,"BE","Trub","Trub","Trub","Trub BE","Trub (BE)","Trub BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,909,43.28358209,174,228,34.661016949,409,1180,402,TRUE,"BE","Trubschachen","Trubschachen","Trubschachen","Trubschachen BE","Trubschachen (BE)","Trubschachen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,921,36.307692308,118,207,46.666666667,329,705,325,TRUE,"BE","Amsoldingen","Amsoldingen","Amsoldingen","Amsoldingen BE","Amsoldingen (BE)","Amsoldingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,922,41.237113402,160,228,37.858508604,396,1046,388,TRUE,"BE","Blumenstein","Blumenstein","Blumenstein","Blumenstein BE","Blumenstein (BE)","Blumenstein BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,923,33.514492754,185,367,42.704354469,559,1309,552,TRUE,"BE","Buchholterberg","Buchholterberg","Buchholterberg","Buchholterberg BE","Buchholterberg (BE)","Buchholterberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,924,38.25136612,70,113,42.630385488,188,441,183,TRUE,"BE","Eriz","Eriz","Eriz","Eriz BE","Eriz (BE)","Eriz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,925,40,108,162,42.064714946,273,649,270,TRUE,"BE","Fahrni","Fahrni","Fahrni","Fahrni BE","Fahrni (BE)","Fahrni BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,927,43.798449612,113,145,46.690518784,261,559,258,TRUE,"BE","Heiligenschwendi","Heiligenschwendi","Heiligenschwendi","Heiligenschwendi BE","Heiligenschwendi (BE)","Heiligenschwendi BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,928,45.193260654,912,1106,40.217176703,2037,5065,2018,TRUE,"BE","Heimberg","Heimberg","Heimberg","Heimberg BE","Heimberg (BE)","Heimberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,929,37.88741303,599,982,50.759013283,1605,3162,1581,TRUE,"BE","Hilterfingen","Hilterfingen","Hilterfingen","Hilterfingen BE","Hilterfingen (BE)","Hilterfingen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,931,37.762237762,54,89,36.25,145,400,143,TRUE,"BE","Homberg","Homberg","Homberg","Homberg BE","Homberg (BE)","Homberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,932,33.870967742,21,41,37.5,63,168,62,TRUE,"BE","Horrenbach-Buchen","Horrenbach-Buchen","Horrenbach-Buchen","Horrenbach-Buchen BE","Horrenbach-Buchen (BE)","Horrenbach-Buchen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,934,37.110481586,393,666,55.097837281,1070,1942,1059,TRUE,"BE","Oberhofen am Thunersee","Oberhofen am Thunersee","Oberhofen am Thunersee","Oberhofen am Thunersee BE","Oberhofen am Thunersee (BE)","Oberhofen am Thunersee BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,935,25.316455696,40,118,39.900249377,160,401,158,TRUE,"BE","Oberlangenegg","Oberlangenegg","Oberlangenegg","Oberlangenegg BE","Oberlangenegg (BE)","Oberlangenegg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,936,47.826086957,33,36,34.653465347,70,202,69,TRUE,"BE","Pohlern","Pohlern","Pohlern","Pohlern BE","Pohlern (BE)","Pohlern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,938,41.279387644,755,1074,45.868591339,1843,4018,1829,TRUE,"BE","Sigriswil","Sigriswil","Sigriswil","Sigriswil BE","Sigriswil (BE)","Sigriswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,939,43.371783496,2444,3191,46.240143078,5688,12301,5635,TRUE,"BE","Steffisburg","Steffisburg","Steffisburg","Steffisburg BE","Steffisburg (BE)","Steffisburg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,940,34.722222222,25,47,49.315068493,72,146,72,TRUE,"BE","Teuffenthal BE","Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE","Teuffenthal (BE)","Teuffenthal BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,941,44.456762749,401,501,46.871794872,914,1950,902,TRUE,"BE","Thierachern","Thierachern","Thierachern","Thierachern BE","Thierachern (BE)","Thierachern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,942,48.052993705,6565,7097,43.175635534,13808,31981,13662,TRUE,"BE","Thun","Thoune","Thun","Thun BE","Thoune (BE)","Thun BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,943,33.333333333,95,190,50.617283951,287,567,285,TRUE,"BE","Uebeschi","Uebeschi","Uebeschi","Uebeschi BE","Uebeschi (BE)","Uebeschi BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,944,42.753623188,885,1185,44.641332195,2091,4684,2070,TRUE,"BE","Uetendorf","Uetendorf","Uetendorf","Uetendorf BE","Uetendorf (BE)","Uetendorf BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,945,38.674033149,140,222,41.965317919,363,865,362,TRUE,"BE","Unterlangenegg","Unterlangenegg","Unterlangenegg","Unterlangenegg BE","Unterlangenegg (BE)","Unterlangenegg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,946,36.363636364,28,49,41.621621622,77,185,77,TRUE,"BE","Wachseldorn","Wachseldorn","Wachseldorn","Wachseldorn BE","Wachseldorn (BE)","Wachseldorn BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,948,35.915492958,102,182,46.376811594,288,621,284,TRUE,"BE","Forst-Längenbühl","Forst-Längenbühl","Forst-Längenbühl","Forst-Längenbühl BE","Forst-Längenbühl (BE)","Forst-Längenbühl BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,951,31.851851852,129,276,40.818363273,409,1002,405,TRUE,"BE","Affoltern im Emmental","Affoltern im Emmental","Affoltern im Emmental","Affoltern im Emmental BE","Affoltern im Emmental (BE)","Affoltern im Emmental BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,952,30.769230769,96,216,35.698198198,317,888,312,TRUE,"BE","Dürrenroth","Dürrenroth","Dürrenroth","Dürrenroth BE","Dürrenroth (BE)","Dürrenroth BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,953,37.755102041,148,244,34.912280702,398,1140,392,TRUE,"BE","Eriswil","Eriswil","Eriswil","Eriswil BE","Eriswil (BE)","Eriswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,954,38.494018297,547,874,38.090185676,1436,3770,1421,TRUE,"BE","Huttwil","Huttwil","Huttwil","Huttwil BE","Huttwil (BE)","Huttwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,955,42.031029619,596,822,40.970427792,1427,3483,1418,TRUE,"BE","Lützelflüh","Lützelflüh","Lützelflüh","Lützelflüh BE","Lützelflüh (BE)","Lützelflüh BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,956,35.451197053,385,701,41.905855339,1095,2613,1086,TRUE,"BE","Rüegsau","Rüegsau","Rüegsau","Rüegsau BE","Rüegsau (BE)","Rüegsau BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,957,39.321357285,591,912,36.109134045,1522,4215,1503,TRUE,"BE","Sumiswald","Sumiswald","Sumiswald","Sumiswald BE","Sumiswald (BE)","Sumiswald BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,958,38.202247191,102,165,34.351145038,270,786,267,TRUE,"BE","Trachselwald","Trachselwald","Trachselwald","Trachselwald BE","Trachselwald (BE)","Trachselwald BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,959,29.746835443,47,111,32.723577236,161,492,158,TRUE,"BE","Walterswil BE","Walterswil (BE)","Walterswil BE","Walterswil BE","Walterswil (BE)","Walterswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,960,38.987341772,154,241,41.649269311,399,958,395,TRUE,"BE","Wyssachen","Wyssachen","Wyssachen","Wyssachen BE","Wyssachen (BE)","Wyssachen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,971,36.875,177,303,40.066777963,480,1198,480,TRUE,"BE","Attiswil","Attiswil","Attiswil","Attiswil BE","Attiswil (BE)","Attiswil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,972,13.636363636,3,19,50,22,44,22,TRUE,"BE","Berken","Berken","Berken","Berken BE","Berken (BE)","Berken BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,973,38.661710037,104,165,46.632124352,270,579,269,TRUE,"BE","Bettenhausen","Bettenhausen","Bettenhausen","Bettenhausen BE","Bettenhausen (BE)","Bettenhausen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,975,53.260869565,49,43,48.947368421,93,190,92,TRUE,"BE","Farnern","Farnern","Farnern","Farnern BE","Farnern (BE)","Farnern BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,976,48.245614035,55,59,43.939393939,116,264,114,TRUE,"BE","Graben","Graben","Graben","Graben BE","Graben (BE)","Graben BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,977,41.927083333,161,223,41.907824223,391,933,384,TRUE,"BE","Heimenhausen","Heimenhausen","Heimenhausen","Heimenhausen BE","Heimenhausen (BE)","Heimenhausen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,979,39.826422372,826,1248,41.985957874,2093,4985,2074,TRUE,"BE","Herzogenbuchsee","Herzogenbuchsee","Herzogenbuchsee","Herzogenbuchsee BE","Herzogenbuchsee (BE)","Herzogenbuchsee BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,980,42.481203008,113,153,48.108108108,267,555,266,TRUE,"BE","Inkwil","Inkwil","Inkwil","Inkwil BE","Inkwil (BE)","Inkwil BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,981,40.22589053,463,688,35.143288084,1165,3315,1151,TRUE,"BE","Niederbipp","Niederbipp","Niederbipp","Niederbipp BE","Niederbipp (BE)","Niederbipp BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,982,42.319277108,281,383,48.060344828,669,1392,664,TRUE,"BE","Niederönz","Niederönz","Niederönz","Niederönz BE","Niederönz (BE)","Niederönz BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,983,40.24822695,227,337,44.496855346,566,1272,564,TRUE,"BE","Oberbipp","Oberbipp","Oberbipp","Oberbipp BE","Oberbipp (BE)","Oberbipp BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,985,30.516431925,65,148,44.742268041,217,485,213,TRUE,"BE","Ochlenberg","Ochlenberg","Ochlenberg","Ochlenberg BE","Ochlenberg (BE)","Ochlenberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,987,28.648648649,53,132,47.826086957,187,391,185,TRUE,"BE","Rumisberg","Rumisberg","Rumisberg","Rumisberg BE","Rumisberg (BE)","Rumisberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,988,34.098939929,193,373,42.771982116,574,1342,566,TRUE,"BE","Seeberg","Seeberg","Seeberg","Seeberg BE","Seeberg (BE)","Seeberg BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,989,36.141304348,133,235,40.704070407,370,909,368,TRUE,"BE","Thörigen","Thörigen","Thörigen","Thörigen BE","Thörigen (BE)","Thörigen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,990,44.705882353,38,47,48.571428571,85,175,85,TRUE,"BE","Walliswil bei Niederbipp","Walliswil bei Niederbipp","Walliswil bei Niederbipp","Walliswil bei Niederbipp BE","Walliswil bei Niederbipp (BE)","Walliswil bei Niederbipp BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,991,45.812807882,93,110,41.082164329,205,499,203,TRUE,"BE","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen BE","Walliswil bei Wangen (BE)","Walliswil bei Wangen BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,992,36.921151439,295,504,39.635647464,805,2031,799,TRUE,"BE","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare BE","Wangen an der Aare (BE)","Wangen an der Aare BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
-2,995,39.358108108,233,359,33.768444949,595,1762,592,TRUE,"BE","Wiedlisbach","Wiedlisbach","Wiedlisbach","Wiedlisbach BE","Wiedlisbach (BE)","Wiedlisbach BE","Bern","Berne","Berna",45.745595459,FALSE,FALSE
+2,301,40.195394278,576,857,43.173652695,1442,3340,1433,TRUE,"BE","Aarberg","Aarberg","Aarberg","Aarberg BE","Aarberg (BE)","Aarberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,302,37.777777778,136,224,45.88086185,362,789,360,TRUE,"BE","Bargen BE","Bargen (BE)","Bargen BE","Bargen BE","Bargen (BE)","Bargen BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,303,38.667900093,418,663,44.318641326,1096,2473,1081,TRUE,"BE","Grossaffoltern","Grossaffoltern","Grossaffoltern","Grossaffoltern BE","Grossaffoltern (BE)","Grossaffoltern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,304,42.813455657,280,374,38.794616735,663,1709,654,TRUE,"BE","Kallnach","Kallnach","Kallnach","Kallnach BE","Kallnach (BE)","Kallnach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,305,39.746300211,188,285,43.090909091,474,1100,473,TRUE,"BE","Kappelen","Kappelen","Kappelen","Kappelen BE","Kappelen (BE)","Kappelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,306,44.374319913,2039,2556,43.014637762,4643,10794,4595,TRUE,"BE","Lyss","Lyss","Lyss","Lyss BE","Lyss (BE)","Lyss BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,307,38.904109589,426,669,56.459816887,1110,1966,1095,TRUE,"BE","Meikirch","Meikirch","Meikirch","Meikirch BE","Meikirch (BE)","Meikirch BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,309,38.812785388,170,268,43.95280236,447,1017,438,TRUE,"BE","Radelfingen","Radelfingen","Radelfingen","Radelfingen BE","Radelfingen (BE)","Radelfingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,310,36.869747899,351,601,43.243243243,960,2220,952,TRUE,"BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,311,46.30071599,582,675,44.081916001,1270,2881,1257,TRUE,"BE","Schüpfen","Schüpfen","Schüpfen","Schüpfen BE","Schüpfen (BE)","Schüpfen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,312,40.451248993,502,739,48.888888889,1254,2565,1241,TRUE,"BE","Seedorf BE","Seedorf (BE)","Seedorf BE","Seedorf BE","Seedorf (BE)","Seedorf BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,321,38.162808066,511,828,41.635802469,1349,3240,1339,TRUE,"BE","Aarwangen","Aarwangen","Aarwangen","Aarwangen BE","Aarwangen (BE)","Aarwangen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,322,44.936708861,71,87,39.75308642,161,405,158,TRUE,"BE","Auswil","Auswil","Auswil","Auswil BE","Auswil (BE)","Auswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,323,42.060085837,98,135,43.820224719,234,534,233,TRUE,"BE","Bannwil","Bannwil","Bannwil","Bannwil BE","Bannwil (BE)","Bannwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,324,37.17472119,100,169,43.269230769,270,624,269,TRUE,"BE","Bleienbach","Bleienbach","Bleienbach","Bleienbach BE","Bleienbach (BE)","Bleienbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,325,31.64556962,25,54,47.023809524,79,168,79,TRUE,"BE","Busswil bei Melchnau","Busswil bei Melchnau","Busswil bei Melchnau","Busswil bei Melchnau BE","Busswil bei Melchnau (BE)","Busswil bei Melchnau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,326,37.619047619,79,131,34.577922078,213,616,210,TRUE,"BE","Gondiswil","Gondiswil","Gondiswil","Gondiswil BE","Gondiswil (BE)","Gondiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,329,41.481311626,1809,2552,42.993754879,4406,10248,4361,TRUE,"BE","Langenthal","Langenthal","Langenthal","Langenthal BE","Langenthal (BE)","Langenthal BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,331,42.424242424,294,399,38.012015292,696,1831,693,TRUE,"BE","Lotzwil","Lotzwil","Lotzwil","Lotzwil BE","Lotzwil (BE)","Lotzwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,332,38.065099458,421,685,42.537030004,1120,2633,1106,TRUE,"BE","Madiswil","Madiswil","Madiswil","Madiswil BE","Madiswil (BE)","Madiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,333,39.088729017,163,254,38.538812785,422,1095,417,TRUE,"BE","Melchnau","Melchnau","Melchnau","Melchnau BE","Melchnau (BE)","Melchnau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,335,38.805970149,26,41,33.5,67,200,67,TRUE,"BE","Oeschenbach","Oeschenbach","Oeschenbach","Oeschenbach BE","Oeschenbach (BE)","Oeschenbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,336,19.642857143,11,45,35,56,160,56,TRUE,"BE","Reisiswil","Reisiswil","Reisiswil","Reisiswil BE","Reisiswil (BE)","Reisiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,337,46.801051709,534,607,39.26611797,1145,2916,1141,TRUE,"BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,338,43.248945148,205,269,36.585365854,480,1312,474,TRUE,"BE","Rohrbach","Rohrbach","Rohrbach","Rohrbach BE","Rohrbach (BE)","Rohrbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,339,27.868852459,34,88,40,122,305,122,TRUE,"BE","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben BE","Rohrbachgraben (BE)","Rohrbachgraben BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,340,32.984293194,63,128,42.256637168,191,452,191,TRUE,"BE","Rütschelen","Rütschelen","Rütschelen","Rütschelen BE","Rütschelen (BE)","Rütschelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,341,39.644970414,67,102,41.247002398,172,417,169,TRUE,"BE","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern BE","Schwarzhäusern (BE)","Schwarzhäusern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,342,44,418,532,39.925373134,963,2412,950,TRUE,"BE","Thunstetten","Thunstetten","Thunstetten","Thunstetten BE","Thunstetten (BE)","Thunstetten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,344,33.891213389,81,158,34.366197183,244,710,239,TRUE,"BE","Ursenbach","Ursenbach","Ursenbach","Ursenbach BE","Ursenbach (BE)","Ursenbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,345,45.429362881,164,197,35.493230174,367,1034,361,TRUE,"BE","Wynau","Wynau","Wynau","Wynau BE","Wynau (BE)","Wynau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,351,59.488002139,26700,18183,50.987430667,45595,89424,44883,TRUE,"BE","Bern","Berne","Berna","Bern BE","Berne (BE)","Berna BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,352,38.414164742,998,1600,56.591154261,2623,4635,2598,TRUE,"BE","Bolligen","Bolligen","Bolligen","Bolligen BE","Bolligen (BE)","Bolligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,353,43.466807165,825,1073,59.296947271,1923,3243,1898,TRUE,"BE","Bremgarten bei Bern","Bremgarten bei Bern","Bremgarten bei Bern","Bremgarten bei Bern BE","Bremgarten bei Bern (BE)","Bremgarten bei Bern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,354,41.62473041,579,812,56.570512821,1412,2496,1391,TRUE,"BE","Kirchlindach","Kirchlindach","Kirchlindach","Kirchlindach BE","Kirchlindach (BE)","Kirchlindach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,355,49.743959611,6897,6968,49.030770843,14038,28631,13865,TRUE,"BE","Köniz","Köniz","Köniz","Köniz BE","Köniz (BE)","Köniz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,356,36.25659051,2063,3627,60.34374345,5758,9542,5690,TRUE,"BE","Muri bei Bern","Muri bei Bern","Muri bei Bern","Muri bei Bern BE","Muri bei Bern (BE)","Muri bei Bern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,357,52.715654952,165,148,42.297297297,313,740,313,TRUE,"BE","Oberbalm","Oberbalm","Oberbalm","Oberbalm BE","Oberbalm (BE)","Oberbalm BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,358,42.905121746,511,680,50.698856417,1197,2361,1191,TRUE,"BE","Stettlen","Stettlen","Stettlen","Stettlen BE","Stettlen (BE)","Stettlen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,359,42.805755396,952,1272,49.87747828,2239,4489,2224,TRUE,"BE","Vechigen","Vechigen","Vechigen","Vechigen BE","Vechigen (BE)","Vechigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,360,47.411583803,1850,2052,56.299044086,3946,7009,3902,TRUE,"BE","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern BE","Wohlen bei Bern (BE)","Wohlen bei Bern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,361,43.657142857,1528,1972,48.34220221,3543,7329,3500,TRUE,"BE","Zollikofen","Zollikofen","Zollikofen","Zollikofen BE","Zollikofen (BE)","Zollikofen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,362,44.005979073,1472,1873,47.573498382,3382,7109,3345,TRUE,"BE","Ittigen","Ittigen","Ittigen","Ittigen BE","Ittigen (BE)","Ittigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,363,52.857806691,2275,2029,41.835357625,4340,10374,4304,TRUE,"BE","Ostermundigen","Ostermundigen","Ostermundigen","Ostermundigen BE","Ostermundigen (BE)","Ostermundigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,371,63.027856278,7806,4579,39.885090309,12565,31503,12385,TRUE,"BE","Biel BE","Bienne","Biel BE","Biel BE","Bienne (BE)","Biel BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,372,52.380952381,484,440,48.982785603,939,1917,924,TRUE,"BE","Leubringen","Evilard","Leubringen","Leubringen BE","Evilard (BE)","Leubringen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,381,46.992481203,250,282,40.286144578,535,1328,532,TRUE,"BE","Arch","Arch","Arch","Arch BE","Arch (BE)","Arch BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,382,43.870967742,136,174,45.507246377,314,690,310,TRUE,"BE","Büetigen","Büetigen","Büetigen","Büetigen BE","Büetigen (BE)","Büetigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,383,43.594646272,456,590,41.676551997,1054,2529,1046,TRUE,"BE","Büren an der Aare","Büren an der Aare","Büren an der Aare","Büren an der Aare BE","Büren an der Aare (BE)","Büren an der Aare BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,385,41.492537313,139,196,44.841269841,339,756,335,TRUE,"BE","Diessbach bei Büren","Diessbach bei Büren","Diessbach bei Büren","Diessbach bei Büren BE","Diessbach bei Büren (BE)","Diessbach bei Büren BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,386,47.563352827,244,269,46.037399822,517,1123,513,TRUE,"BE","Dotzigen","Dotzigen","Dotzigen","Dotzigen BE","Dotzigen (BE)","Dotzigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,387,53.804765565,700,601,39.166916392,1307,3337,1301,TRUE,"BE","Lengnau BE","Longeau","Lengnau BE","Lengnau BE","Longeau (BE)","Lengnau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,388,45.205479452,165,200,37.085427136,369,995,365,TRUE,"BE","Leuzigen","Leuzigen","Leuzigen","Leuzigen BE","Leuzigen (BE)","Leuzigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,390,45.408163265,178,214,38.312318138,395,1031,392,TRUE,"BE","Meinisberg","Meinisberg","Meinisberg","Meinisberg BE","Meinisberg (BE)","Meinisberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,391,45.886075949,145,171,44.397759104,317,714,316,TRUE,"BE","Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren BE","Oberwil bei Büren (BE)","Oberwil bei Büren BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,392,51.567567568,477,448,33.548156105,937,2793,925,TRUE,"BE","Pieterlen","Perles","Pieterlen","Pieterlen BE","Perles (BE)","Pieterlen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,393,43.88185654,104,133,37.22741433,239,642,237,TRUE,"BE","Rüti bei Büren","Rüti bei Büren","Rüti bei Büren","Rüti bei Büren BE","Rüti bei Büren (BE)","Rüti bei Büren BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,394,34.449760766,72,137,41.617357002,211,507,209,TRUE,"BE","Wengi","Wengi","Wengi","Wengi BE","Wengi (BE)","Wengi BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,401,40.615384615,132,193,40.2200489,329,818,325,TRUE,"BE","Aefligen","Aefligen","Aefligen","Aefligen BE","Aefligen (BE)","Aefligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,402,40.476190476,85,125,42.054263566,217,516,210,TRUE,"BE","Alchenstorf","Alchenstorf","Alchenstorf","Alchenstorf BE","Alchenstorf (BE)","Alchenstorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,403,39.663461538,165,251,49.704142012,420,845,416,TRUE,"BE","Bäriswil","Bäriswil","Bäriswil","Bäriswil BE","Bäriswil (BE)","Bäriswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,404,47.423288749,2411,2673,43.952372794,5131,11674,5084,TRUE,"BE","Burgdorf","Berthoud","Burgdorf","Burgdorf BE","Berthoud (BE)","Burgdorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,405,38.344827586,278,447,43.829018663,728,1661,725,TRUE,"BE","Ersigen","Ersigen","Ersigen","Ersigen BE","Ersigen (BE)","Ersigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,406,42.154811715,403,553,38.597194389,963,2495,956,TRUE,"BE","Hasle bei Burgdorf","Hasle bei Burgdorf","Hasle bei Burgdorf","Hasle bei Burgdorf BE","Hasle bei Burgdorf (BE)","Hasle bei Burgdorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,407,38.061041293,212,345,40.171551108,562,1399,557,TRUE,"BE","Heimiswil","Heimiswil","Heimiswil","Heimiswil BE","Heimiswil (BE)","Heimiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,409,38.339920949,291,468,38.976178409,769,1973,759,TRUE,"BE","Hindelbank","Hindelbank","Hindelbank","Hindelbank BE","Hindelbank (BE)","Hindelbank BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,410,44,66,84,42.016806723,150,357,150,TRUE,"BE","Höchstetten","Höchstetten","Höchstetten","Höchstetten BE","Höchstetten (BE)","Höchstetten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,411,36.416184971,63,110,41.805225653,176,421,173,TRUE,"BE","Kernenried","Kernenried","Kernenried","Kernenried BE","Kernenried (BE)","Kernenried BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,412,38.131450299,702,1139,44.265020185,1864,4211,1841,TRUE,"BE","Kirchberg BE","Kirchberg (BE)","Kirchberg BE","Kirchberg BE","Kirchberg (BE)","Kirchberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,413,40.780141844,345,501,48.812217195,863,1768,846,TRUE,"BE","Koppigen","Koppigen","Koppigen","Koppigen BE","Koppigen (BE)","Koppigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,414,44.516971279,341,425,40.187402395,772,1921,766,TRUE,"BE","Krauchthal","Krauchthal","Krauchthal","Krauchthal BE","Krauchthal (BE)","Krauchthal BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,415,39.87206823,187,282,41.909814324,474,1131,469,TRUE,"BE","Lyssach","Lyssach","Lyssach","Lyssach BE","Lyssach (BE)","Lyssach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,418,38.837516513,294,463,37.922465209,763,2012,757,TRUE,"BE","Oberburg","Oberburg","Oberburg","Oberburg BE","Oberburg (BE)","Oberburg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,420,39.807692308,207,313,34.62295082,528,1525,520,TRUE,"BE","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh","Rüdtligen-Alchenflüh BE","Rüdtligen-Alchenflüh (BE)","Rüdtligen-Alchenflüh BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,421,30.23255814,13,30,61.971830986,44,71,43,TRUE,"BE","Rumendingen","Rumendingen","Rumendingen","Rumendingen BE","Rumendingen (BE)","Rumendingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,422,26.923076923,14,38,37.931034483,55,145,52,TRUE,"BE","Rüti bei Lyssach","Rüti bei Lyssach","Rüti bei Lyssach","Rüti bei Lyssach BE","Rüti bei Lyssach (BE)","Rüti bei Lyssach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,423,34.146341463,28,54,48.538011696,83,171,82,TRUE,"BE","Willadingen","Willadingen","Willadingen","Willadingen BE","Willadingen (BE)","Willadingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,424,40.281690141,286,424,41.483198146,716,1726,710,TRUE,"BE","Wynigen","Wynigen","Wynigen","Wynigen BE","Wynigen (BE)","Wynigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,431,59.247135843,362,249,50.283860503,620,1233,611,TRUE,"BE","Corgémont","Corgémont","Corgémont","Corgémont BE","Corgémont (BE)","Corgémont BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,432,62.209302326,107,65,45.93175853,175,381,172,TRUE,"BE","Cormoret","Cormoret","Cormoret","Cormoret BE","Cormoret (BE)","Cormoret BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,433,60.227272727,106,70,36.400817996,178,489,176,TRUE,"BE","Cortébert","Cortébert","Cortébert","Cortébert BE","Cortébert (BE)","Cortébert BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,434,64.977973568,295,159,45.911330049,466,1015,454,TRUE,"BE","Courtelary","Courtelary","Courtelary","Courtelary BE","Courtelary (BE)","Courtelary BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,435,73.684210526,112,40,36.320754717,154,424,152,TRUE,"BE","La Ferrière","La Ferrière","La Ferrière","La Ferrière BE","La Ferrière (BE)","La Ferrière BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,437,43.47826087,20,26,43.396226415,46,106,46,TRUE,"BE","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan BE","Mont-Tramelan (BE)","Mont-Tramelan BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,438,62.096774194,231,141,41.00877193,374,912,372,TRUE,"BE","Orvin","Orvin","Orvin","Orvin BE","Orvin (BE)","Orvin BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,441,65.420560748,210,111,43.27176781,328,758,321,TRUE,"BE","Renan BE","Renan (BE)","Renan BE","Renan BE","Renan (BE)","Renan BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,442,60.317460317,38,25,38.414634146,63,164,63,TRUE,"BE","Romont BE","Romont (BE)","Romont BE","Romont BE","Romont (BE)","Romont BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,443,65.214431586,958,511,49.04855643,1495,3048,1469,TRUE,"BE","St. Immer","Saint-Imier","St. Immer","St. Immer BE","Saint-Imier (BE)","St. Immer BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,444,64.413518887,324,179,38.986953185,508,1303,503,TRUE,"BE","Sonceboz-Sombeval","Sonceboz-Sombeval","Sonceboz-Sombeval","Sonceboz-Sombeval BE","Sonceboz-Sombeval (BE)","Sonceboz-Sombeval BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,445,64.102564103,250,140,45.852534562,398,868,390,TRUE,"BE","Sonvilier","Sonvilier","Sonvilier","Sonvilier BE","Sonvilier (BE)","Sonvilier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,446,69.497784343,941,413,41.613971695,1382,3321,1354,TRUE,"BE","Tramelan","Tramelan","Tramelan","Tramelan BE","Tramelan (BE)","Tramelan BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,448,66.993464052,205,101,47.98136646,309,644,306,TRUE,"BE","Villeret","Villeret","Villeret","Villeret BE","Villeret (BE)","Villeret BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,449,63.157894737,156,91,40.356564019,249,617,247,TRUE,"BE","Sauge","Sauge","Sauge","Sauge BE","Sauge (BE)","Sauge BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,450,61.779242175,375,232,45.441176471,618,1360,607,TRUE,"BE","Péry-La Heutte","Péry-La Heutte","Péry-La Heutte","Péry-La Heutte BE","Péry-La Heutte (BE)","Péry-La Heutte BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,491,45.029239766,77,94,41.927710843,174,415,171,TRUE,"BE","Brüttelen","Brüttelen","Brüttelen","Brüttelen BE","Brüttelen (BE)","Brüttelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,492,49.768518519,215,217,44.230769231,437,988,432,TRUE,"BE","Erlach","Cerlier","Erlach","Erlach BE","Cerlier (BE)","Erlach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,493,38.418079096,68,109,51.289398281,179,349,177,TRUE,"BE","Finsterhennen","Finsterhennen","Finsterhennen","Finsterhennen BE","Finsterhennen (BE)","Finsterhennen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,494,46.44549763,98,113,36.120401338,216,598,211,TRUE,"BE","Gals","Gals","Gals","Gals BE","Gals (BE)","Gals BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,495,47.148288973,124,139,39.614243323,267,674,263,TRUE,"BE","Gampelen","Champion (Gampelen)","Gampelen","Gampelen BE","Champion (Gampelen) (BE)","Gampelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,496,42.032520325,517,713,48.42228282,1243,2567,1230,TRUE,"BE","Ins","Anet","Ins","Ins BE","Anet (BE)","Ins BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,497,39.459459459,73,112,39.004149378,188,482,185,TRUE,"BE","Lüscherz","Lüscherz","Lüscherz","Lüscherz BE","Lüscherz (BE)","Lüscherz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,498,35.532994924,140,254,44.232922732,395,893,394,TRUE,"BE","Müntschemier","Müntschemier","Müntschemier","Müntschemier BE","Müntschemier (BE)","Müntschemier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,499,41.145833333,79,113,39.387755102,193,490,192,TRUE,"BE","Siselen","Siselen","Siselen","Siselen BE","Siselen (BE)","Siselen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,500,23.076923077,33,110,43.504531722,144,331,143,TRUE,"BE","Treiten","Treiten","Treiten","Treiten BE","Treiten (BE)","Treiten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,501,42.307692308,66,90,46.647230321,160,343,156,TRUE,"BE","Tschugg","Tschugg","Tschugg","Tschugg BE","Tschugg (BE)","Tschugg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,502,40.634005764,141,206,49.789029536,354,711,347,TRUE,"BE","Vinelz","Vinelz","Vinelz","Vinelz BE","Vinelz (BE)","Vinelz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,533,51.851851852,602,559,44.887016469,1172,2611,1161,TRUE,"BE","Bätterkinden","Bätterkinden","Bätterkinden","Bätterkinden BE","Bätterkinden (BE)","Bätterkinden BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,538,37.151702786,720,1218,47.724507179,1961,4109,1938,TRUE,"BE","Fraubrunnen","Fraubrunnen","Fraubrunnen","Fraubrunnen BE","Fraubrunnen (BE)","Fraubrunnen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,540,38.959276018,861,1349,51.326412918,2225,4335,2210,TRUE,"BE","Jegenstorf","Jegenstorf","Jegenstorf","Jegenstorf BE","Jegenstorf (BE)","Jegenstorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,541,41.56626506,69,97,47.457627119,168,354,166,TRUE,"BE","Iffwil","Iffwil","Iffwil","Iffwil BE","Iffwil (BE)","Iffwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,543,40.909090909,108,156,55.949895616,268,479,264,TRUE,"BE","Mattstetten","Mattstetten","Mattstetten","Mattstetten BE","Mattstetten (BE)","Mattstetten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,544,41.769911504,472,658,43.040847201,1138,2644,1130,TRUE,"BE","Moosseedorf","Moosseedorf","Moosseedorf","Moosseedorf BE","Moosseedorf (BE)","Moosseedorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,546,45.802696078,1495,1769,47.117437722,3310,7025,3264,TRUE,"BE","Münchenbuchsee","Münchenbuchsee","Münchenbuchsee","Münchenbuchsee BE","Münchenbuchsee (BE)","Münchenbuchsee BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,551,45.212428662,713,864,38.092956397,1590,4174,1577,TRUE,"BE","Urtenen-Schönbühl","Urtenen-Schönbühl","Urtenen-Schönbühl","Urtenen-Schönbühl BE","Urtenen-Schönbühl (BE)","Urtenen-Schönbühl BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,552,44.206296048,660,833,43.961493582,1507,3428,1493,TRUE,"BE","Utzenstorf","Utzenstorf","Utzenstorf","Utzenstorf BE","Utzenstorf (BE)","Utzenstorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,553,39.08045977,34,53,56.25,90,160,87,TRUE,"BE","Wiggiswil","Wiggiswil","Wiggiswil","Wiggiswil BE","Wiggiswil (BE)","Wiggiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,554,39.189189189,116,180,39.522546419,298,754,296,TRUE,"BE","Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf BE","Wiler bei Utzenstorf (BE)","Wiler bei Utzenstorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,556,37.037037037,30,51,31.906614786,82,257,81,TRUE,"BE","Zielebach","Zielebach","Zielebach","Zielebach BE","Zielebach (BE)","Zielebach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,557,31.081081081,69,153,49.339207048,224,454,222,TRUE,"BE","Zuzwil BE","Zuzwil (BE)","Zuzwil BE","Zuzwil BE","Zuzwil (BE)","Zuzwil BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,561,28.52614897,360,902,47.896318557,1275,2662,1262,TRUE,"BE","Adelboden","Adelboden","Adelboden","Adelboden BE","Adelboden (BE)","Adelboden BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,562,35.696821516,292,526,45.704845815,830,1816,818,TRUE,"BE","Aeschi bei Spiez","Aeschi bei Spiez","Aeschi bei Spiez","Aeschi bei Spiez BE","Aeschi bei Spiez (BE)","Aeschi bei Spiez BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,563,38.41117416,880,1411,43.171641791,2314,5360,2291,TRUE,"BE","Frutigen","Frutigen","Frutigen","Frutigen BE","Frutigen (BE)","Frutigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,564,38.766519824,88,139,35.569422777,228,641,227,TRUE,"BE","Kandergrund","Kandergrund","Kandergrund","Kandergrund BE","Kandergrund (BE)","Kandergrund BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,565,39.63963964,176,268,49.230769231,448,910,444,TRUE,"BE","Kandersteg","Kandersteg","Kandersteg","Kandersteg BE","Kandersteg (BE)","Kandersteg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,566,45.55808656,200,239,49.60806271,443,893,439,TRUE,"BE","Krattigen","Krattigen","Krattigen","Krattigen BE","Krattigen (BE)","Krattigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,567,40.717488789,454,661,38.969571231,1127,2892,1115,TRUE,"BE","Reichenbach im Kandertal","Reichenbach im Kandertal","Reichenbach im Kandertal","Reichenbach im Kandertal BE","Reichenbach im Kandertal (BE)","Reichenbach im Kandertal BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,571,46.825396825,177,201,43.963553531,386,878,378,TRUE,"BE","Beatenberg","Beatenberg","Beatenberg","Beatenberg BE","Beatenberg (BE)","Beatenberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,572,45.565006075,375,448,41.839312784,828,1979,823,TRUE,"BE","Bönigen","Bönigen","Bönigen","Bönigen BE","Bönigen (BE)","Bönigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,573,43.135435993,465,613,44.897119342,1091,2430,1078,TRUE,"BE","Brienz BE","Brienz (BE)","Brienz BE","Brienz BE","Brienz (BE)","Brienz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,574,40.462427746,70,103,43.564356436,176,404,173,TRUE,"BE","Brienzwiler","Brienzwiler","Brienzwiler","Brienzwiler BE","Brienzwiler (BE)","Brienzwiler BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,575,58.095238095,61,44,33.653846154,105,312,105,TRUE,"BE","Därligen","Därligen","Därligen","Därligen BE","Därligen (BE)","Därligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,576,27.141268076,244,655,35.922712934,911,2536,899,TRUE,"BE","Grindelwald","Grindelwald","Grindelwald","Grindelwald BE","Grindelwald (BE)","Grindelwald BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,577,47.651006711,71,78,46.296296296,150,324,149,TRUE,"BE","Gsteigwiler","Gsteigwiler","Gsteigwiler","Gsteigwiler BE","Gsteigwiler (BE)","Gsteigwiler BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,578,41.237113402,40,57,41.991341991,97,231,97,TRUE,"BE","Gündlischwand","Gündlischwand","Gündlischwand","Gündlischwand BE","Gündlischwand (BE)","Gündlischwand BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,579,32.300884956,73,153,44.015444015,228,518,226,TRUE,"BE","Habkern","Habkern","Habkern","Habkern BE","Habkern (BE)","Habkern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,580,47.846889952,100,109,48.842592593,211,432,209,TRUE,"BE","Hofstetten bei Brienz","Hofstetten bei Brienz","Hofstetten bei Brienz","Hofstetten bei Brienz BE","Hofstetten bei Brienz (BE)","Hofstetten bei Brienz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,581,42.975778547,621,824,42.450638792,1462,3444,1445,TRUE,"BE","Interlaken","Interlaken","Interlaken","Interlaken BE","Interlaken (BE)","Interlaken BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,582,48.484848485,64,68,41.121495327,132,321,132,TRUE,"BE","Iseltwald","Iseltwald","Iseltwald","Iseltwald BE","Iseltwald (BE)","Iseltwald BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,584,40.649149923,263,384,45.460750853,666,1465,647,TRUE,"BE","Lauterbrunnen","Lauterbrunnen","Lauterbrunnen","Lauterbrunnen BE","Lauterbrunnen (BE)","Lauterbrunnen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,585,38.131313131,151,245,46.324387398,397,857,396,TRUE,"BE","Leissigen","Leissigen","Leissigen","Leissigen BE","Leissigen (BE)","Leissigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,586,39.130434783,27,42,39.664804469,71,179,69,TRUE,"BE","Lütschental","Lütschental","Lütschental","Lütschental BE","Lütschental (BE)","Lütschental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,587,46.146953405,515,601,40.799423839,1133,2777,1116,TRUE,"BE","Matten bei Interlaken","Matten bei Interlaken","Matten bei Interlaken","Matten bei Interlaken BE","Matten bei Interlaken (BE)","Matten bei Interlaken BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,588,52.542372881,62,56,40.816326531,120,294,118,TRUE,"BE","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken BE","Niederried bei Interlaken (BE)","Niederried bei Interlaken BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,589,55.905511811,71,56,34.482758621,130,377,127,TRUE,"BE","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee BE","Oberried am Brienzersee (BE)","Oberried am Brienzersee BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,590,44.17721519,349,441,40,798,1995,790,TRUE,"BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,591,36.666666667,11,19,33.707865169,30,89,30,TRUE,"BE","Saxeten","Saxeten","Saxeten","Saxeten BE","Saxeten (BE)","Saxeten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,592,37.556561086,83,138,44.031311155,225,511,221,TRUE,"BE","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz BE","Schwanden bei Brienz (BE)","Schwanden bei Brienz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,593,41.122504047,762,1091,47.158373327,1867,3959,1853,TRUE,"BE","Unterseen","Unterseen","Unterseen","Unterseen BE","Unterseen (BE)","Unterseen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,594,43.09252218,340,449,41.365046536,800,1934,789,TRUE,"BE","Wilderswil","Wilderswil","Wilderswil","Wilderswil BE","Wilderswil (BE)","Wilderswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,602,36.746987952,122,210,40.781440781,334,819,332,TRUE,"BE","Arni BE","Arni (BE)","Arni BE","Arni BE","Arni (BE)","Arni BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,603,41.987179487,262,362,42.95532646,625,1455,624,TRUE,"BE","Biglen","Biglen","Biglen","Biglen BE","Biglen (BE)","Biglen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,605,40.920716113,160,231,36.429872495,400,1098,391,TRUE,"BE","Bowil","Bowil","Bowil","Bowil BE","Bowil (BE)","Bowil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,606,32.978723404,62,126,44.80369515,194,433,188,TRUE,"BE","Brenzikofen","Brenzikofen","Brenzikofen","Brenzikofen BE","Brenzikofen (BE)","Brenzikofen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,607,33.333333333,51,102,46.385542169,154,332,153,TRUE,"BE","Freimettigen","Freimettigen","Freimettigen","Freimettigen BE","Freimettigen (BE)","Freimettigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,608,41.117145074,530,759,40.676903792,1298,3191,1289,TRUE,"BE","Grosshöchstetten","Grosshöchstetten","Grosshöchstetten","Grosshöchstetten BE","Grosshöchstetten (BE)","Grosshöchstetten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,609,30.303030303,30,69,47.663551402,102,214,99,TRUE,"BE","Häutligen","Häutligen","Häutligen","Häutligen BE","Häutligen (BE)","Häutligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,610,31.794871795,62,133,40.880503145,195,477,195,TRUE,"BE","Herbligen","Herbligen","Herbligen","Herbligen BE","Herbligen (BE)","Herbligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,611,38.278931751,129,208,46.341463415,342,738,337,TRUE,"BE","Kiesen","Kiesen","Kiesen","Kiesen BE","Kiesen (BE)","Kiesen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,612,41.85577408,830,1153,47.370914259,2000,4222,1983,TRUE,"BE","Konolfingen","Konolfingen","Konolfingen","Konolfingen BE","Konolfingen (BE)","Konolfingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,613,40.358744395,90,133,40.142095915,226,563,223,TRUE,"BE","Landiswil","Landiswil","Landiswil","Landiswil BE","Landiswil (BE)","Landiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,614,30.158730159,133,308,41.06324473,448,1091,441,TRUE,"BE","Linden","Linden","Linden","Linden BE","Linden (BE)","Linden BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,615,35.897435897,56,100,33.262260128,156,469,156,TRUE,"BE","Mirchel","Mirchel","Mirchel","Mirchel BE","Mirchel (BE)","Mirchel BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,616,42.286559594,2001,2731,50.178122381,4789,9544,4732,TRUE,"BE","Münsingen","Münsingen","Münsingen","Münsingen BE","Münsingen (BE)","Münsingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,617,40.725806452,101,147,43.150684932,252,584,248,TRUE,"BE","Niederhünigen","Niederhünigen","Niederhünigen","Niederhünigen BE","Niederhünigen (BE)","Niederhünigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,619,44.091580502,597,757,47.842727905,1375,2874,1354,TRUE,"BE","Oberdiessbach","Oberdiessbach","Oberdiessbach","Oberdiessbach BE","Oberdiessbach (BE)","Oberdiessbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,620,47.368421053,99,110,34.035656402,210,617,209,TRUE,"BE","Oberthal","Oberthal","Oberthal","Oberthal BE","Oberthal (BE)","Oberthal BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,622,38.392857143,86,138,41.97761194,225,536,224,TRUE,"BE","Oppligen","Oppligen","Oppligen","Oppligen BE","Oppligen (BE)","Oppligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,623,45.123062899,495,602,48.70101277,1106,2271,1097,TRUE,"BE","Rubigen","Rubigen","Rubigen","Rubigen BE","Rubigen (BE)","Rubigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,626,45.229681979,256,310,39.00273224,571,1464,566,TRUE,"BE","Walkringen","Walkringen","Walkringen","Walkringen BE","Walkringen (BE)","Walkringen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,627,42.786069652,1634,2185,47.696108709,3861,8095,3819,TRUE,"BE","Worb","Worb","Worb","Worb BE","Worb (BE)","Worb BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,628,41.638795987,249,349,37.996219282,603,1587,598,TRUE,"BE","Zäziwil","Zäziwil","Zäziwil","Zäziwil BE","Zäziwil (BE)","Zäziwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,630,28.74015748,73,181,58.620689655,255,435,254,TRUE,"BE","Allmendingen","Allmendingen","Allmendingen","Allmendingen BE","Allmendingen (BE)","Allmendingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,632,41.579315164,595,836,42.424242424,1442,3399,1431,TRUE,"BE","Wichtrach","Wichtrach","Wichtrach","Wichtrach BE","Wichtrach (BE)","Wichtrach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,662,41.037735849,174,250,45.253164557,429,948,424,TRUE,"BE","Ferenbalm","Ferenbalm","Ferenbalm","Ferenbalm BE","Ferenbalm (BE)","Ferenbalm BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,663,41.497975709,205,289,48.073217726,499,1038,494,TRUE,"BE","Frauenkappelen","Frauenkappelen","Frauenkappelen","Frauenkappelen BE","Frauenkappelen (BE)","Frauenkappelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,665,30.666666667,23,52,39.473684211,75,190,75,TRUE,"BE","Gurbrü","Gurbrü","Gurbrü","Gurbrü BE","Gurbrü (BE)","Gurbrü BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,666,34.482758621,50,95,41.111111111,148,360,145,TRUE,"BE","Kriechenwil","Kriechenwil","Kriechenwil","Kriechenwil BE","Kriechenwil (BE)","Kriechenwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,667,45.727699531,487,578,46.530789245,1073,2306,1065,TRUE,"BE","Laupen","Laupen","Laupen","Laupen BE","Laupen (BE)","Laupen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,668,38.519212746,411,656,45.907928389,1077,2346,1067,TRUE,"BE","Mühleberg","Mühleberg","Mühleberg","Mühleberg BE","Mühleberg (BE)","Mühleberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,669,48.026315789,73,79,39.378238342,152,386,152,TRUE,"BE","Münchenwiler","Villars-les-Moines","Münchenwiler","Münchenwiler BE","Villars-les-Moines (BE)","Münchenwiler BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,670,44.389642417,720,902,40.911367051,1634,3994,1622,TRUE,"BE","Neuenegg","Neuenegg","Neuenegg","Neuenegg BE","Neuenegg (BE)","Neuenegg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,671,37.984496124,49,80,45.454545455,130,286,129,TRUE,"BE","Wileroltigen","Wileroltigen","Wileroltigen","Wileroltigen BE","Wileroltigen (BE)","Wileroltigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,681,61.538461538,64,40,47.297297297,105,222,104,TRUE,"BE","Belprahon","Belprahon","Belprahon","Belprahon BE","Belprahon (BE)","Belprahon BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,683,43.28358209,29,38,57.723577236,71,123,67,TRUE,"BE","Champoz","Champoz","Champoz","Champoz BE","Champoz (BE)","Champoz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,687,77.333333333,58,17,47.169811321,75,159,75,TRUE,"BE","Corcelles BE","Corcelles (BE)","Corcelles BE","Corcelles BE","Corcelles (BE)","Corcelles BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,690,61.916461916,252,155,41.666666667,415,996,407,TRUE,"BE","Court","Court","Court","Court BE","Court (BE)","Court BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,691,72.580645161,135,51,47.117794486,188,399,186,TRUE,"BE","Crémines","Crémines","Crémines","Crémines BE","Crémines (BE)","Crémines BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,692,66.055045872,72,37,39.784946237,111,279,109,TRUE,"BE","Eschert","Eschert","Eschert","Eschert BE","Eschert (BE)","Eschert BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,694,70.642201835,77,32,41.391941392,113,273,109,TRUE,"BE","Grandval","Grandval","Grandval","Grandval BE","Grandval (BE)","Grandval BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,696,72.641509434,77,29,41.44486692,109,263,106,TRUE,"BE","Loveresse","Loveresse","Loveresse","Loveresse BE","Loveresse (BE)","Loveresse BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,700,73.257538309,1482,541,45.440426004,2048,4507,2023,TRUE,"BE","Moutier","Moutier","Moutier","Moutier BE","Moutier (BE)","Moutier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,701,71.140939597,106,43,47.784810127,151,316,149,TRUE,"BE","Perrefitte","Perrefitte","Perrefitte","Perrefitte BE","Perrefitte (BE)","Perrefitte BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,703,65.869218501,413,214,40.290955092,637,1581,627,TRUE,"BE","Reconvilier","Reconvilier","Reconvilier","Reconvilier BE","Reconvilier (BE)","Reconvilier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,704,44.444444444,20,25,31.914893617,45,141,45,TRUE,"BE","Roches BE","Roches (BE)","Roches BE","Roches BE","Roches (BE)","Roches BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,706,69.696969697,115,50,34.800838574,166,477,165,TRUE,"BE","Saicourt","Saicourt","Saicourt","Saicourt BE","Saicourt (BE)","Saicourt BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,707,72.131147541,44,17,47.014925373,63,134,61,TRUE,"BE","Saules BE","Saules (BE)","Saules BE","Saules BE","Saules (BE)","Saules BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,708,56.666666667,17,13,30.612244898,30,98,30,TRUE,"BE","Schelten","La Scheulte","Schelten","Schelten BE","La Scheulte (BE)","Schelten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,709,56.25,9,7,28.333333333,17,60,16,TRUE,"BE","Seehof","Seehof","Seehof","Seehof BE","Seehof (BE)","Seehof BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,711,68.235294118,58,27,40.375586854,86,213,85,TRUE,"BE","Sorvilier","Sorvilier","Sorvilier","Sorvilier BE","Sorvilier (BE)","Sorvilier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,713,67.441860465,522,252,36.736596737,788,2145,774,TRUE,"BE","Tavannes","Tavannes","Tavannes","Tavannes BE","Tavannes (BE)","Tavannes BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,715,50,11,11,61.111111111,22,36,22,TRUE,"BE","Rebévelier","Rebévelier","Rebévelier","Rebévelier BE","Rebévelier (BE)","Rebévelier BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,716,60.135135135,89,59,47.021943574,150,319,148,TRUE,"BE","Petit-Val","Petit-Val","Petit-Val","Petit-Val BE","Petit-Val (BE)","Petit-Val BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,717,64.65076661,759,415,44.806899138,1195,2667,1174,TRUE,"BE","Valbirse","Valbirse","Valbirse","Valbirse BE","Valbirse (BE)","Valbirse BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,723,64.871582436,783,424,44.460535844,1228,2762,1207,TRUE,"BE","Neuenstadt","La Neuveville","Neuenstadt","Neuenstadt BE","La Neuveville (BE)","Neuenstadt BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,724,53.725490196,137,118,45.051194539,264,586,255,TRUE,"BE","Nods","Nods","Nods","Nods BE","Nods (BE)","Nods BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,726,69.36416185,480,212,43.691733996,703,1609,692,TRUE,"BE","Plateau de Diesse","Plateau de Diesse","Plateau de Diesse","Plateau de Diesse BE","Plateau de Diesse (BE)","Plateau de Diesse BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,731,49.43457189,306,313,39.048811014,624,1598,619,TRUE,"BE","Aegerten","Aegerten","Aegerten","Aegerten BE","Aegerten (BE)","Aegerten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,732,30.58637084,193,438,48.06671721,634,1319,631,TRUE,"BE","Bellmund","Bellmund","Bellmund","Bellmund BE","Bellmund (BE)","Bellmund BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,733,49.209302326,529,546,39.121037464,1086,2776,1075,TRUE,"BE","Brügg","Brügg","Brügg","Brügg BE","Brügg (BE)","Brügg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,734,32.352941176,55,115,43.216080402,172,398,170,TRUE,"BE","Bühl","Bühl","Bühl","Bühl BE","Bühl (BE)","Bühl BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,735,49.074074074,53,55,40.282685512,114,283,108,TRUE,"BE","Epsach","Epsach","Epsach","Epsach BE","Epsach (BE)","Epsach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,736,52,78,72,47.692307692,155,325,150,TRUE,"BE","Hagneck","Hagneck","Hagneck","Hagneck BE","Hagneck (BE)","Hagneck BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,737,44.444444444,44,55,38.076923077,99,260,99,TRUE,"BE","Hermrigen","Hermrigen","Hermrigen","Hermrigen BE","Hermrigen (BE)","Hermrigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,738,38.928571429,109,171,51.548269581,283,549,280,TRUE,"BE","Jens","Jens","Jens","Jens BE","Jens (BE)","Jens BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,739,48.233486943,628,674,47.426733381,1327,2798,1302,TRUE,"BE","Ipsach","Ipsach","Ipsach","Ipsach BE","Ipsach (BE)","Ipsach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,740,38.596491228,88,140,53.990610329,230,426,228,TRUE,"BE","Ligerz","Gléresse","Ligerz","Ligerz BE","Gléresse (BE)","Ligerz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,741,34.567901235,56,106,46.022727273,162,352,162,TRUE,"BE","Merzligen","Merzligen","Merzligen","Merzligen BE","Merzligen (BE)","Merzligen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,742,30.769230769,108,243,50.49088359,360,713,351,TRUE,"BE","Mörigen","Mörigen","Mörigen","Mörigen BE","Mörigen (BE)","Mörigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,743,57.342657343,984,732,39.411098528,1740,4415,1716,TRUE,"BE","Nidau","Nidau","Nidau","Nidau BE","Nidau (BE)","Nidau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,744,50.82592122,400,387,37.435172089,794,2121,787,TRUE,"BE","Orpund","Orpund","Orpund","Orpund BE","Orpund (BE)","Orpund BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,745,41.337630943,513,728,45.352622061,1254,2765,1241,TRUE,"BE","Port","Port","Port","Port BE","Port (BE)","Port BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,746,39.655172414,299,455,49.868247694,757,1518,754,TRUE,"BE","Safnern","Safnern","Safnern","Safnern BE","Safnern (BE)","Safnern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,747,47.457627119,84,93,46.272493573,180,389,177,TRUE,"BE","Scheuren","Scheuren","Scheuren","Scheuren BE","Scheuren (BE)","Scheuren BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,748,38.497652582,82,131,41.6015625,213,512,213,TRUE,"BE","Schwadernau","Schwadernau","Schwadernau","Schwadernau BE","Schwadernau (BE)","Schwadernau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,749,45.278450363,374,452,39.628924833,833,2102,826,TRUE,"BE","Studen BE","Studen (BE)","Studen BE","Studen BE","Studen (BE)","Studen BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,750,44.282744283,213,268,47.10982659,489,1038,481,TRUE,"BE","Sutz-Lattrigen","Sutz-Lattrigen","Sutz-Lattrigen","Sutz-Lattrigen BE","Sutz-Lattrigen (BE)","Sutz-Lattrigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,751,41.637630662,478,670,47.811725846,1158,2422,1148,TRUE,"BE","Täuffelen","Täuffelen","Täuffelen","Täuffelen BE","Täuffelen (BE)","Täuffelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,754,41.26984127,130,185,40.357598978,316,783,315,TRUE,"BE","Walperswil","Walperswil","Walperswil","Walperswil BE","Walperswil (BE)","Walperswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,755,42.424242424,350,475,44.361702128,834,1880,825,TRUE,"BE","Worben","Worben","Worben","Worben BE","Worben (BE)","Worben BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,756,47.15261959,207,232,49.337748344,447,906,439,TRUE,"BE","Twann-Tüscherz","Douanne-Daucher","Twann-Tüscherz","Twann-Tüscherz BE","Douanne-Daucher (BE)","Twann-Tüscherz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,761,33.21799308,96,193,44.095665172,295,669,289,TRUE,"BE","Därstetten","Därstetten","Därstetten","Därstetten BE","Därstetten (BE)","Därstetten BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,762,32.047477745,216,458,36.174746937,679,1877,674,TRUE,"BE","Diemtigen","Diemtigen","Diemtigen","Diemtigen BE","Diemtigen (BE)","Diemtigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,763,38,209,341,40.248356465,551,1369,550,TRUE,"BE","Erlenbach im Simmental","Erlenbach im Simmental","Erlenbach im Simmental","Erlenbach im Simmental BE","Erlenbach im Simmental (BE)","Erlenbach im Simmental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,766,26.582278481,84,232,47.787610619,324,678,316,TRUE,"BE","Oberwil im Simmental","Oberwil im Simmental","Oberwil im Simmental","Oberwil im Simmental BE","Oberwil im Simmental (BE)","Oberwil im Simmental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,767,33.638443936,147,290,42.485549133,441,1038,437,TRUE,"BE","Reutigen","Reutigen","Reutigen","Reutigen BE","Reutigen (BE)","Reutigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,768,43.096774194,2004,2646,47.206844489,4690,9935,4650,TRUE,"BE","Spiez","Spiez","Spiez","Spiez BE","Spiez (BE)","Spiez BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,769,38.819095477,309,487,41.18251928,801,1945,796,TRUE,"BE","Wimmis","Wimmis","Wimmis","Wimmis BE","Wimmis (BE)","Wimmis BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,770,34.393063584,119,227,43.424317618,350,806,346,TRUE,"BE","Stocken-Höfen","Stocken-Höfen","Stocken-Höfen","Stocken-Höfen BE","Stocken-Höfen (BE)","Stocken-Höfen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,782,30,24,56,39.705882353,81,204,80,TRUE,"BE","Guttannen","Guttannen","Guttannen","Guttannen BE","Guttannen (BE)","Guttannen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,783,36.609336609,149,258,49.162679426,411,836,407,TRUE,"BE","Hasliberg","Hasliberg","Hasliberg","Hasliberg BE","Hasliberg (BE)","Hasliberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,784,36.031331593,138,245,44.292237443,388,876,383,TRUE,"BE","Innertkirchen","Innertkirchen","Innertkirchen","Innertkirchen BE","Innertkirchen (BE)","Innertkirchen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,785,43.767507003,625,803,44.499229584,1444,3245,1428,TRUE,"BE","Meiringen","Meiringen","Meiringen","Meiringen BE","Meiringen (BE)","Meiringen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,786,42.613636364,75,101,40.909090909,180,440,176,TRUE,"BE","Schattenhalb","Schattenhalb","Schattenhalb","Schattenhalb BE","Schattenhalb (BE)","Schattenhalb BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,791,42.819148936,161,215,35.924170616,379,1055,376,TRUE,"BE","Boltigen","Boltigen","Boltigen","Boltigen BE","Boltigen (BE)","Boltigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,792,36.828963795,295,506,46.450880182,818,1761,801,TRUE,"BE","Lenk","Lenk","Lenk","Lenk BE","Lenk (BE)","Lenk BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,793,23.991507431,113,358,45.945945946,476,1036,471,TRUE,"BE","St. Stephan","Saint-Etienne","St. Stephan","St. Stephan BE","Saint-Etienne (BE)","St. Stephan BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,794,33.333333333,318,636,42.680776014,968,2268,954,TRUE,"BE","Zweisimmen","Zweisimmen","Zweisimmen","Zweisimmen BE","Zweisimmen (BE)","Zweisimmen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,841,36.40776699,150,262,61.863173217,425,687,412,TRUE,"BE","Gsteig","Gsteig","Gsteig","Gsteig BE","Gsteig (BE)","Gsteig BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,842,30.115830116,78,181,41.971383148,264,629,259,TRUE,"BE","Lauenen","Lauenen","Lauenen","Lauenen BE","Lauenen (BE)","Lauenen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,843,26.527242708,482,1335,43.858812306,1839,4193,1817,TRUE,"BE","Saanen","Gessenay","Saanen","Saanen BE","Gessenay (BE)","Saanen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,852,41.830065359,192,267,35.086401202,467,1331,459,TRUE,"BE","Guggisberg","Guggisberg","Guggisberg","Guggisberg BE","Guggisberg (BE)","Guggisberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,853,50.355871886,283,279,37.116764514,569,1533,562,TRUE,"BE","Rüschegg","Rüschegg","Rüschegg","Rüschegg BE","Rüschegg (BE)","Rüschegg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,855,47.912087912,1090,1185,41.307872455,2293,5551,2275,TRUE,"BE","Schwarzenburg","Schwarzenburg","Schwarzenburg","Schwarzenburg BE","Schwarzenburg (BE)","Schwarzenburg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,861,40.960523007,1629,2348,49.044117647,4002,8160,3977,TRUE,"BE","Belp","Belp","Belp","Belp BE","Belp (BE)","Belp BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,863,42.89276808,172,229,44.359255203,405,913,401,TRUE,"BE","Burgistein","Burgistein","Burgistein","Burgistein BE","Burgistein (BE)","Burgistein BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,866,35.542168675,177,321,50.950950951,509,999,498,TRUE,"BE","Gerzensee","Gerzensee","Gerzensee","Gerzensee BE","Gerzensee (BE)","Gerzensee BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,867,43.377483444,131,171,45.535714286,306,672,302,TRUE,"BE","Gurzelen","Gurzelen","Gurzelen","Gurzelen BE","Gurzelen (BE)","Gurzelen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,868,47.169811321,50,56,45.493562232,106,233,106,TRUE,"BE","Jaberg","Jaberg","Jaberg","Jaberg BE","Jaberg (BE)","Jaberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,869,48.571428571,221,234,55.555555556,460,828,455,TRUE,"BE","Kaufdorf","Kaufdorf","Kaufdorf","Kaufdorf BE","Kaufdorf (BE)","Kaufdorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,870,41.374159821,554,785,48.391708363,1354,2798,1339,TRUE,"BE","Kehrsatz","Kehrsatz","Kehrsatz","Kehrsatz BE","Kehrsatz (BE)","Kehrsatz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,872,33.598726115,211,417,42.704149933,638,1494,628,TRUE,"BE","Kirchdorf BE","Kirchdorf (BE)","Kirchdorf BE","Kirchdorf BE","Kirchdorf (BE)","Kirchdorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,879,38.565891473,398,634,42.599425994,1039,2439,1032,TRUE,"BE","Riggisberg","Riggisberg","Riggisberg","Riggisberg BE","Riggisberg (BE)","Riggisberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,880,45.289256198,274,331,40.765171504,618,1516,605,TRUE,"BE","Rüeggisberg","Rüeggisberg","Rüeggisberg","Rüeggisberg BE","Rüeggisberg (BE)","Rüeggisberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,883,43.472409152,323,420,44.115942029,761,1725,743,TRUE,"BE","Seftigen","Seftigen","Seftigen","Seftigen BE","Seftigen (BE)","Seftigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,884,40.904522613,407,588,53.613177471,1009,1882,995,TRUE,"BE","Toffen","Toffen","Toffen","Toffen BE","Toffen (BE)","Toffen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,885,41.781681305,333,464,48.466626578,806,1663,797,TRUE,"BE","Uttigen","Uttigen","Uttigen","Uttigen BE","Uttigen (BE)","Uttigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,886,43.510737628,466,605,43.512974052,1090,2505,1071,TRUE,"BE","Wattenwil","Wattenwil","Wattenwil","Wattenwil BE","Wattenwil (BE)","Wattenwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,888,41.148325359,258,369,45.209368346,637,1409,627,TRUE,"BE","Wald BE","Wald (BE)","Wald BE","Wald BE","Wald (BE)","Wald BE BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,889,46.819338422,368,418,49.409571162,795,1609,786,TRUE,"BE","Thurnen","Thurnen","Thurnen","Thurnen BE","Thurnen (BE)","Thurnen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,901,36.941580756,215,367,28.654686741,590,2059,582,TRUE,"BE","Eggiwil","Eggiwil","Eggiwil","Eggiwil BE","Eggiwil (BE)","Eggiwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,902,43.408788282,1304,1700,39.300464636,3045,7748,3004,TRUE,"BE","Langnau im Emmental","Langnau im Emmental","Langnau im Emmental","Langnau im Emmental BE","Langnau im Emmental (BE)","Langnau im Emmental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,903,40.316205534,306,453,33.318815331,765,2296,759,TRUE,"BE","Lauperswil","Lauperswil","Lauperswil","Lauperswil BE","Lauperswil (BE)","Lauperswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,904,29.866666667,112,263,36.311239193,378,1041,375,TRUE,"BE","Röthenbach im Emmental","Röthenbach im Emmental","Röthenbach im Emmental","Röthenbach im Emmental BE","Röthenbach im Emmental (BE)","Röthenbach im Emmental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,905,41.606886657,290,407,34.142787761,703,2059,697,TRUE,"BE","Rüderswil","Rüderswil","Rüderswil","Rüderswil BE","Rüderswil (BE)","Rüderswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,906,23.076923077,60,200,32.996207332,261,791,260,TRUE,"BE","Schangnau","Schangnau","Schangnau","Schangnau BE","Schangnau (BE)","Schangnau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,907,39.787234043,374,566,42.417484389,951,2242,940,TRUE,"BE","Signau","Signau","Signau","Signau BE","Signau (BE)","Signau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,908,39.295392954,145,224,26.334519573,370,1405,369,TRUE,"BE","Trub","Trub","Trub","Trub BE","Trub (BE)","Trub BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,909,43.28358209,174,228,34.661016949,409,1180,402,TRUE,"BE","Trubschachen","Trubschachen","Trubschachen","Trubschachen BE","Trubschachen (BE)","Trubschachen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,921,36.307692308,118,207,46.666666667,329,705,325,TRUE,"BE","Amsoldingen","Amsoldingen","Amsoldingen","Amsoldingen BE","Amsoldingen (BE)","Amsoldingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,922,41.237113402,160,228,37.858508604,396,1046,388,TRUE,"BE","Blumenstein","Blumenstein","Blumenstein","Blumenstein BE","Blumenstein (BE)","Blumenstein BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,923,33.514492754,185,367,42.704354469,559,1309,552,TRUE,"BE","Buchholterberg","Buchholterberg","Buchholterberg","Buchholterberg BE","Buchholterberg (BE)","Buchholterberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,924,38.25136612,70,113,42.630385488,188,441,183,TRUE,"BE","Eriz","Eriz","Eriz","Eriz BE","Eriz (BE)","Eriz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,925,40,108,162,42.064714946,273,649,270,TRUE,"BE","Fahrni","Fahrni","Fahrni","Fahrni BE","Fahrni (BE)","Fahrni BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,927,43.798449612,113,145,46.690518784,261,559,258,TRUE,"BE","Heiligenschwendi","Heiligenschwendi","Heiligenschwendi","Heiligenschwendi BE","Heiligenschwendi (BE)","Heiligenschwendi BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,928,45.193260654,912,1106,40.217176703,2037,5065,2018,TRUE,"BE","Heimberg","Heimberg","Heimberg","Heimberg BE","Heimberg (BE)","Heimberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,929,37.88741303,599,982,50.759013283,1605,3162,1581,TRUE,"BE","Hilterfingen","Hilterfingen","Hilterfingen","Hilterfingen BE","Hilterfingen (BE)","Hilterfingen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,931,37.762237762,54,89,36.25,145,400,143,TRUE,"BE","Homberg","Homberg","Homberg","Homberg BE","Homberg (BE)","Homberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,932,33.870967742,21,41,37.5,63,168,62,TRUE,"BE","Horrenbach-Buchen","Horrenbach-Buchen","Horrenbach-Buchen","Horrenbach-Buchen BE","Horrenbach-Buchen (BE)","Horrenbach-Buchen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,934,37.110481586,393,666,55.097837281,1070,1942,1059,TRUE,"BE","Oberhofen am Thunersee","Oberhofen am Thunersee","Oberhofen am Thunersee","Oberhofen am Thunersee BE","Oberhofen am Thunersee (BE)","Oberhofen am Thunersee BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,935,25.316455696,40,118,39.900249377,160,401,158,TRUE,"BE","Oberlangenegg","Oberlangenegg","Oberlangenegg","Oberlangenegg BE","Oberlangenegg (BE)","Oberlangenegg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,936,47.826086957,33,36,34.653465347,70,202,69,TRUE,"BE","Pohlern","Pohlern","Pohlern","Pohlern BE","Pohlern (BE)","Pohlern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,938,41.279387644,755,1074,45.868591339,1843,4018,1829,TRUE,"BE","Sigriswil","Sigriswil","Sigriswil","Sigriswil BE","Sigriswil (BE)","Sigriswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,939,43.371783496,2444,3191,46.240143078,5688,12301,5635,TRUE,"BE","Steffisburg","Steffisburg","Steffisburg","Steffisburg BE","Steffisburg (BE)","Steffisburg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,940,34.722222222,25,47,49.315068493,72,146,72,TRUE,"BE","Teuffenthal BE","Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE","Teuffenthal (BE)","Teuffenthal BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,941,44.456762749,401,501,46.871794872,914,1950,902,TRUE,"BE","Thierachern","Thierachern","Thierachern","Thierachern BE","Thierachern (BE)","Thierachern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,942,48.052993705,6565,7097,43.175635534,13808,31981,13662,TRUE,"BE","Thun","Thoune","Thun","Thun BE","Thoune (BE)","Thun BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,943,33.333333333,95,190,50.617283951,287,567,285,TRUE,"BE","Uebeschi","Uebeschi","Uebeschi","Uebeschi BE","Uebeschi (BE)","Uebeschi BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,944,42.753623188,885,1185,44.641332195,2091,4684,2070,TRUE,"BE","Uetendorf","Uetendorf","Uetendorf","Uetendorf BE","Uetendorf (BE)","Uetendorf BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,945,38.674033149,140,222,41.965317919,363,865,362,TRUE,"BE","Unterlangenegg","Unterlangenegg","Unterlangenegg","Unterlangenegg BE","Unterlangenegg (BE)","Unterlangenegg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,946,36.363636364,28,49,41.621621622,77,185,77,TRUE,"BE","Wachseldorn","Wachseldorn","Wachseldorn","Wachseldorn BE","Wachseldorn (BE)","Wachseldorn BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,948,35.915492958,102,182,46.376811594,288,621,284,TRUE,"BE","Forst-Längenbühl","Forst-Längenbühl","Forst-Längenbühl","Forst-Längenbühl BE","Forst-Längenbühl (BE)","Forst-Längenbühl BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,951,31.851851852,129,276,40.818363273,409,1002,405,TRUE,"BE","Affoltern im Emmental","Affoltern im Emmental","Affoltern im Emmental","Affoltern im Emmental BE","Affoltern im Emmental (BE)","Affoltern im Emmental BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,952,30.769230769,96,216,35.698198198,317,888,312,TRUE,"BE","Dürrenroth","Dürrenroth","Dürrenroth","Dürrenroth BE","Dürrenroth (BE)","Dürrenroth BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,953,37.755102041,148,244,34.912280702,398,1140,392,TRUE,"BE","Eriswil","Eriswil","Eriswil","Eriswil BE","Eriswil (BE)","Eriswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,954,38.494018297,547,874,38.090185676,1436,3770,1421,TRUE,"BE","Huttwil","Huttwil","Huttwil","Huttwil BE","Huttwil (BE)","Huttwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,955,42.031029619,596,822,40.970427792,1427,3483,1418,TRUE,"BE","Lützelflüh","Lützelflüh","Lützelflüh","Lützelflüh BE","Lützelflüh (BE)","Lützelflüh BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,956,35.451197053,385,701,41.905855339,1095,2613,1086,TRUE,"BE","Rüegsau","Rüegsau","Rüegsau","Rüegsau BE","Rüegsau (BE)","Rüegsau BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,957,39.321357285,591,912,36.109134045,1522,4215,1503,TRUE,"BE","Sumiswald","Sumiswald","Sumiswald","Sumiswald BE","Sumiswald (BE)","Sumiswald BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,958,38.202247191,102,165,34.351145038,270,786,267,TRUE,"BE","Trachselwald","Trachselwald","Trachselwald","Trachselwald BE","Trachselwald (BE)","Trachselwald BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,959,29.746835443,47,111,32.723577236,161,492,158,TRUE,"BE","Walterswil BE","Walterswil (BE)","Walterswil BE","Walterswil BE","Walterswil (BE)","Walterswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,960,38.987341772,154,241,41.649269311,399,958,395,TRUE,"BE","Wyssachen","Wyssachen","Wyssachen","Wyssachen BE","Wyssachen (BE)","Wyssachen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,971,36.875,177,303,40.066777963,480,1198,480,TRUE,"BE","Attiswil","Attiswil","Attiswil","Attiswil BE","Attiswil (BE)","Attiswil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,972,13.636363636,3,19,50,22,44,22,TRUE,"BE","Berken","Berken","Berken","Berken BE","Berken (BE)","Berken BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,973,38.661710037,104,165,46.632124352,270,579,269,TRUE,"BE","Bettenhausen","Bettenhausen","Bettenhausen","Bettenhausen BE","Bettenhausen (BE)","Bettenhausen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,975,53.260869565,49,43,48.947368421,93,190,92,TRUE,"BE","Farnern","Farnern","Farnern","Farnern BE","Farnern (BE)","Farnern BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,976,48.245614035,55,59,43.939393939,116,264,114,TRUE,"BE","Graben","Graben","Graben","Graben BE","Graben (BE)","Graben BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,977,41.927083333,161,223,41.907824223,391,933,384,TRUE,"BE","Heimenhausen","Heimenhausen","Heimenhausen","Heimenhausen BE","Heimenhausen (BE)","Heimenhausen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,979,39.826422372,826,1248,41.985957874,2093,4985,2074,TRUE,"BE","Herzogenbuchsee","Herzogenbuchsee","Herzogenbuchsee","Herzogenbuchsee BE","Herzogenbuchsee (BE)","Herzogenbuchsee BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,980,42.481203008,113,153,48.108108108,267,555,266,TRUE,"BE","Inkwil","Inkwil","Inkwil","Inkwil BE","Inkwil (BE)","Inkwil BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,981,40.22589053,463,688,35.143288084,1165,3315,1151,TRUE,"BE","Niederbipp","Niederbipp","Niederbipp","Niederbipp BE","Niederbipp (BE)","Niederbipp BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,982,42.319277108,281,383,48.060344828,669,1392,664,TRUE,"BE","Niederönz","Niederönz","Niederönz","Niederönz BE","Niederönz (BE)","Niederönz BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,983,40.24822695,227,337,44.496855346,566,1272,564,TRUE,"BE","Oberbipp","Oberbipp","Oberbipp","Oberbipp BE","Oberbipp (BE)","Oberbipp BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,985,30.516431925,65,148,44.742268041,217,485,213,TRUE,"BE","Ochlenberg","Ochlenberg","Ochlenberg","Ochlenberg BE","Ochlenberg (BE)","Ochlenberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,987,28.648648649,53,132,47.826086957,187,391,185,TRUE,"BE","Rumisberg","Rumisberg","Rumisberg","Rumisberg BE","Rumisberg (BE)","Rumisberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,988,34.098939929,193,373,42.771982116,574,1342,566,TRUE,"BE","Seeberg","Seeberg","Seeberg","Seeberg BE","Seeberg (BE)","Seeberg BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,989,36.141304348,133,235,40.704070407,370,909,368,TRUE,"BE","Thörigen","Thörigen","Thörigen","Thörigen BE","Thörigen (BE)","Thörigen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,990,44.705882353,38,47,48.571428571,85,175,85,TRUE,"BE","Walliswil bei Niederbipp","Walliswil bei Niederbipp","Walliswil bei Niederbipp","Walliswil bei Niederbipp BE","Walliswil bei Niederbipp (BE)","Walliswil bei Niederbipp BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,991,45.812807882,93,110,41.082164329,205,499,203,TRUE,"BE","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen BE","Walliswil bei Wangen (BE)","Walliswil bei Wangen BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,992,36.921151439,295,504,39.635647464,805,2031,799,TRUE,"BE","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare BE","Wangen an der Aare (BE)","Wangen an der Aare BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
+2,995,39.358108108,233,359,33.768444949,595,1762,592,TRUE,"BE","Wiedlisbach","Wiedlisbach","Wiedlisbach","Wiedlisbach BE","Wiedlisbach (BE)","Wiedlisbach BE","Bern","Berne","Berna",46.719256479,FALSE,FALSE
 3,1001,24.422442244,74,229,49.593495935,305,615,303,TRUE,"LU","Doppleschwand","Doppleschwand","Doppleschwand","Doppleschwand LU","Doppleschwand (LU)","Doppleschwand LU","Luzern","Lucerne","Lucerna",33.257266113,FALSE,FALSE
 3,1002,19.056603774,202,858,43.569979716,1074,2465,1060,TRUE,"LU","Entlebuch","Entlebuch","Entlebuch","Entlebuch LU","Entlebuch (LU)","Entlebuch LU","Luzern","Lucerne","Lucerna",33.257266113,FALSE,FALSE
 3,1004,24.283305228,144,449,46.453624318,596,1283,593,TRUE,"LU","Flühli","Flühli","Flühli","Flühli LU","Flühli (LU)","Flühli LU","Luzern","Lucerne","Lucerna",33.257266113,FALSE,FALSE
