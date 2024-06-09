@@ -41,20 +41,6 @@ print("Keine neuen Daten gefunden")
 print("Neue Daten gefunden")
 time_start <- Sys.time()
 
-if (time_check_national == FALSE) {
-  ###Nationale Abstimmungen###
-  source("nationale_abstimmungen.R", encoding="UTF-8")
-  
-  #Abstimmung komplett?
-  source("nationale_abstimmungen_report.R", encoding="UTF-8")
-  
-  #Make Commit
-  source("commit.R", encoding="UTF-8")
-  
-  #Tabellen aktualisieren
-  #source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")  
-}
-
 if (time_check_kantonal == FALSE) {  
   ###Kantonale Abstimmungen Uebersicht  
   source("kantonale_abstimmungen_uebersicht.R", encoding="UTF-8")
@@ -67,6 +53,20 @@ if (time_check_kantonal == FALSE) {
   
   #Make Commit
   source("commit.R", encoding="UTF-8")
+}
+
+if (time_check_national == FALSE) {
+  ###Nationale Abstimmungen###
+  source("nationale_abstimmungen.R", encoding="UTF-8")
+  
+  #Abstimmung komplett?
+  source("nationale_abstimmungen_report.R", encoding="UTF-8")
+  
+  #Make Commit
+  source("commit.R", encoding="UTF-8")
+  
+  #Tabellen aktualisieren
+  #source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")  
 }
 
 #Timestamp speichern
