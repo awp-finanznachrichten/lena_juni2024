@@ -76,7 +76,7 @@ source("commit.R", encoding="UTF-8")
   
 if (time_check_national == FALSE) {
 #Tabellen aktualisieren
-source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
+#source("votations_juin_2024/top_flop/top_flop_run.R", encoding="UTF-8")
 }
 
 #Timestamp speichern
