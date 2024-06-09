@@ -69,7 +69,7 @@ for (i in 1:length(vorlagen_short)) {
     if (nrow(results_notavailable) == 0) {
       results <- lena_classics(results)
     }  
-    
+  
     #Special Vergleich mit anderer Abstimmung am selben Datum
     if (vorlagen$id[i] == "6590" || vorlagen$id[i] == "6600") { 
     other_check <- TRUE
