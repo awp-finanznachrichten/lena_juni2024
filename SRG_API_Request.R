@@ -96,9 +96,9 @@ if (length(timestamp) > 0) {
   dbDisconnectAll()
   
   #Send Mail
-  Subject <- paste0("***TEST***Erste SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
+  Subject <- paste0("***TEST***Neue SRG-Hochrechnung zur ",vorlagen$text[v]," veröffentlicht!")
   Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
-                 "Die SRG hat eine erste Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
+                 "Die SRG hat eine Hochrechnung zur ",vorlagen$text[v]," veröffentlicht.\n\n",
                  "Ergebnis: ",hochrechnung,"\n",
                  "Ja-Anteil: ",votes_yes,"%\n",
                  "Nein-Anteil: ",votes_no,"%\n",
