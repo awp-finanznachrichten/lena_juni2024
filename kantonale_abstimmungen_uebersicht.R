@@ -78,7 +78,7 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
                                  "Es sind alle Gemeinden ausgezählt.")
     
     uebersicht_text_fr <- paste0("<b>",titel_all$Vorlage_f[1],"</b><br>",
-                                 "Toutes les communes sont connues.")
+                                 "Les résultats de toutes les communes sont connus.")
     
     uebersicht_text_it <- paste0("<b>",titel_all$Vorlage_i[1],"</b><br>",
                                  "Tutti i comuni sono noti.")
