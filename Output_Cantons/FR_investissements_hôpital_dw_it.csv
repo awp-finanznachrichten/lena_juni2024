@@ -1,22 +1,22 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
 2008,78.2,78.2,21.8,"Châtillon FR",
 2011,83,83,17,"Cugy FR",
-2016,50,0,0,"Fétigny FR","I risultati di questo comune non sono ancora noti."
+2016,78.6,78.6,21.4,"Fétigny FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2022,50,0,0,"Gletterens FR","I risultati di questo comune non sono ancora noti."
 2025,81.5,81.5,18.5,"Lully FR",
 2027,81,81,19,"Ménières FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2029,80.7,80.7,19.3,"Montagny FR",
 2035,80.4,80.4,19.6,"Nuvilly FR",
-2038,50,0,0,"Prévondavaux FR","I risultati di questo comune non sono ancora noti."
+2038,87.5,87.5,12.5,"Prévondavaux FR",
 2041,81.6,81.6,18.4,"Saint-Aubin FR",
 2043,82.6,82.6,17.4,"Sévaz FR",
 2044,78.4,78.4,21.6,"Surpierre FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
-2045,50,0,0,"Vallon FR","I risultati di questo comune non sono ancora noti."
+2045,77.5,77.5,22.5,"Vallon FR",
 2050,80.1,80.1,19.9,"Les Montets FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2051,50,0,0,"Delley-Portalban FR","I risultati di questo comune non sono ancora noti."
 2053,50,0,0,"Belmont-Broye FR","I risultati di questo comune non sono ancora noti."
 2054,50,0,0,"Estavayer FR","I risultati di questo comune non sono ancora noti."
-2055,50,0,0,"Cheyres-Châbles FR","I risultati di questo comune non sono ancora noti."
+2055,83.6,83.6,16.4,"Cheyres-Châbles FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2061,69.9,69.9,30.1,"Auboranges FR",
 2063,81.9,81.9,18.1,"Billens-Hennens FR",
 2066,79.4,79.4,20.6,"Chapelle (Glâne) FR",
@@ -33,7 +33,7 @@
 2102,80,80,20,"Ursy FR",
 2113,74.7,74.7,25.3,"Vuisternens-devant-Romont FR",
 2114,75.1,75.1,24.9,"Villorsonnens FR",
-2115,50,0,0,"Torny FR","I risultati di questo comune non sono ancora noti."
+2115,77.2,77.2,22.8,"Torny FR",
 2117,80,80,20,"Villaz FR",
 2121,78.5,78.5,21.5,"Haut-Intyamon FR",
 2122,50,0,0,"Pont-en-Ogoz FR","I risultati di questo comune non sono ancora noti."
@@ -50,10 +50,10 @@
 2138,75.9,75.9,24.1,"Jaun FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2140,78,78,22,"Marsens FR",
 2143,81.5,81.5,18.5,"Morlon FR",
-2145,50,0,0,"Le Pâquier FR","I risultati di questo comune non sono ancora noti."
+2145,78.1,78.1,21.9,"Le Pâquier FR",
 2147,73.8,73.8,26.2,"Pont-la-Ville FR",
 2148,50,0,0,"Riaz FR","I risultati di questo comune non sono ancora noti."
-2149,50,0,0,"La Roche FR","I risultati di questo comune non sono ancora noti."
+2149,74.1,74.1,25.9,"La Roche FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2152,74.4,74.4,25.6,"Sâles FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2153,50,0,0,"Sorens FR","I risultati di questo comune non sono ancora noti."
 2155,82,82,18,"Vaulruz FR",
@@ -94,19 +94,19 @@
 2262,50,0,0,"Gurmels FR","I risultati di questo comune non sono ancora noti."
 2265,50,0,0,"Kerzers FR","I risultati di questo comune non sono ancora noti."
 2266,50,0,0,"Kleinbösingen FR","I risultati di questo comune non sono ancora noti."
-2271,50,0,0,"Merlach FR","I risultati di questo comune non sono ancora noti."
+2271,66.8,66.8,33.2,"Merlach FR",
 2272,50,0,0,"Misery-Courtion FR","I risultati di questo comune non sono ancora noti."
 2274,50,0,0,"Muntelier FR","I risultati di questo comune non sono ancora noti."
 2275,50,0,0,"Murten FR","I risultati di questo comune non sono ancora noti."
 2276,59.9,59.9,40.1,"Ried bei Kerzers FR",
-2278,50,0,0,"Ulmiz FR","I risultati di questo comune non sono ancora noti."
+2278,66.4,66.4,33.6,"Ulmiz FR",
 2284,50,0,0,"Mont-Vully FR","I risultati di questo comune non sono ancora noti."
 2292,75.9,75.9,24.1,"Brünisried FR",
 2293,50,0,0,"Düdingen FR","I risultati di questo comune non sono ancora noti."
 2294,72.1,72.1,27.9,"Giffers FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2295,50,0,0,"Bösingen FR","I risultati di questo comune non sono ancora noti."
-2296,50,0,0,"Heitenried FR","I risultati di questo comune non sono ancora noti."
-2299,50,0,0,"Plaffeien FR","I risultati di questo comune non sono ancora noti."
+2296,72.4,72.4,27.6,"Heitenried FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
+2299,65.2,65.2,34.8,"Plaffeien FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2300,69.4,69.4,30.6,"Plasselb FR",
 2301,50,0,0,"Rechthalten FR","I risultati di questo comune non sono ancora noti."
 2303,62.5,62.5,37.5,"St. Silvester FR",
@@ -115,13 +115,13 @@
 2306,50,0,0,"Tafers FR","I risultati di questo comune non sono ancora noti."
 2307,71.2,71.2,28.8,"Tentlingen FR",
 2308,65.4,65.4,34.6,"Ueberstorf FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
-2309,50,0,0,"Wünnewil-Flamatt FR","I risultati di questo comune non sono ancora noti."
+2309,70.1,70.1,29.9,"Wünnewil-Flamatt FR",
 2321,95.6,95.6,4.4,"Attalens FR",
 2323,82,82,18,"Bossonnens FR",
 2325,50,0,0,"Châtel-Saint-Denis FR","I risultati di questo comune non sono ancora noti."
 2328,86.1,86.1,13.9,"Granges (Veveyse) FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2333,83.1,83.1,16.9,"Remaufens FR","un cautionnement de 105 millions des investissements 2024-2026 de l'hôpital cantonal et un prêt de 70 millions pour une étude en vue de la construction d’un nouvel hôpital principal"
 2335,80.1,80.1,19.9,"Saint-Martin FR",
-2336,50,0,0,"Semsales FR","I risultati di questo comune non sono ancora noti."
+2336,77.7,77.7,22.3,"Semsales FR",
 2337,80.6,80.6,19.4,"Le Flon FR",
 2338,79.3,79.3,20.7,"La Verrerie FR",
