@@ -6,3 +6,4 @@ if ((output_overview$mail_results[1] == "pending") & (sum(json_data[["schweiz"]]
   print("Alle Abstimmungsresultate komplett!")
   source("report_election_completed.R", encoding="UTF-8") 
 }  
+

@@ -6,7 +6,7 @@ Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                "FR: https://datawrapper.dwcdn.net/",datawrapper_codes[2,5],"\n",
                "IT: https://datawrapper.dwcdn.net/",datawrapper_codes[3,5],"\n\n",
                "Die schweizweite Stimmbeteiligung der Vorlagen:\n",
-               paste(paste0(vorlagen$text,": ",json_data[["schweiz"]][["vorlagen"]][["resultat.stimmbeteiligungInProzent"]],"%"),collapse = "\n"),
+               paste(paste0(vorlagen$text,": ",round2(json_data[["schweiz"]][["vorlagen"]][["resultat.stimmbeteiligungInProzent"]],2),"%"),collapse = "\n"),
                "\n\nDie Kantons- und Gemeindekarten werden in Kürze ins Visual hochgeladen und allfällige Analysen bereitgestellt.\n\n",
                "Liebe Grüsse\n\nLENA")
 send_notification(Subject,
