@@ -1,6 +1,6 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-2008,50,0,0,"Châtillon FR","I resultati di questa comune non sono ancora noti."
-2011,50,0,0,"Cugy FR","I resultati di questa comune non sono ancora noti."
+2008,33.1,33.1,66.9,"Châtillon FR",
+2011,33.6,33.6,66.4,"Cugy FR",
 2016,50,0,0,"Fétigny FR","I resultati di questa comune non sono ancora noti."
 2022,50,0,0,"Gletterens FR","I resultati di questa comune non sono ancora noti."
 2025,50,0,0,"Lully FR","I resultati di questa comune non sono ancora noti."
@@ -10,7 +10,7 @@
 2038,50,0,0,"Prévondavaux FR","I resultati di questa comune non sono ancora noti."
 2041,50,0,0,"Saint-Aubin FR","I resultati di questa comune non sono ancora noti."
 2043,50,0,0,"Sévaz FR","I resultati di questa comune non sono ancora noti."
-2044,50,0,0,"Surpierre FR","I resultati di questa comune non sono ancora noti."
+2044,48.9,48.9,51.1,"Surpierre FR",
 2045,50,0,0,"Vallon FR","I resultati di questa comune non sono ancora noti."
 2050,50,0,0,"Les Montets FR","I resultati di questa comune non sono ancora noti."
 2051,50,0,0,"Delley-Portalban FR","I resultati di questa comune non sono ancora noti."
@@ -28,28 +28,28 @@
 2087,50,0,0,"Mézières FR","I resultati di questa comune non sono ancora noti."
 2089,50,0,0,"Montet (Glâne) FR","I resultati di questa comune non sono ancora noti."
 2096,50,0,0,"Romont FR","I resultati di questa comune non sono ancora noti."
-2097,50,0,0,"Rue FR","I resultati di questa comune non sono ancora noti."
+2097,43.4,43.4,56.6,"Rue FR",
 2099,50,0,0,"Siviriez FR","I resultati di questa comune non sono ancora noti."
-2102,50,0,0,"Ursy FR","I resultati di questa comune non sono ancora noti."
+2102,41.1,41.1,58.9,"Ursy FR",
 2113,50,0,0,"Vuisternens-devant-Romont FR","I resultati di questa comune non sono ancora noti."
 2114,50,0,0,"Villorsonnens FR","I resultati di questa comune non sono ancora noti."
 2115,50,0,0,"Torny FR","I resultati di questa comune non sono ancora noti."
 2117,50,0,0,"Villaz FR","I resultati di questa comune non sono ancora noti."
 2121,50,0,0,"Haut-Intyamon FR","I resultati di questa comune non sono ancora noti."
 2122,50,0,0,"Pont-en-Ogoz FR","I resultati di questa comune non sono ancora noti."
-2123,50,0,0,"Botterens FR","I resultati di questa comune non sono ancora noti."
+2123,56.3,56.3,43.7,"Botterens FR",
 2124,50,0,0,"Broc FR","I resultati di questa comune non sono ancora noti."
 2125,50,0,0,"Bulle FR","I resultati di questa comune non sono ancora noti."
-2128,50,0,0,"Châtel-sur-Montsalvens FR","I resultati di questa comune non sono ancora noti."
-2129,50,0,0,"Corbières FR","I resultati di questa comune non sono ancora noti."
-2130,50,0,0,"Crésuz FR","I resultati di questa comune non sono ancora noti."
+2128,50.3,50.3,49.7,"Châtel-sur-Montsalvens FR",
+2129,47.8,47.8,52.2,"Corbières FR",
+2130,43.6,43.6,56.4,"Crésuz FR",
 2131,50,0,0,"Echarlens FR","I resultati di questa comune non sono ancora noti."
 2134,50,0,0,"Grandvillard FR","I resultati di questa comune non sono ancora noti."
 2135,50,0,0,"Greyerz FR","I resultati di questa comune non sono ancora noti."
 2137,50,0,0,"Hauteville FR","I resultati di questa comune non sono ancora noti."
 2138,50,0,0,"Jaun FR","I resultati di questa comune non sono ancora noti."
-2140,50,0,0,"Marsens FR","I resultati di questa comune non sono ancora noti."
-2143,50,0,0,"Morlon FR","I resultati di questa comune non sono ancora noti."
+2140,40.8,40.8,59.2,"Marsens FR",
+2143,36.2,36.2,63.8,"Morlon FR",
 2145,50,0,0,"Le Pâquier FR","I resultati di questa comune non sono ancora noti."
 2147,50,0,0,"Pont-la-Ville FR","I resultati di questa comune non sono ancora noti."
 2148,50,0,0,"Riaz FR","I resultati di questa comune non sono ancora noti."
@@ -111,15 +111,15 @@
 2301,50,0,0,"Rechthalten FR","I resultati di questa comune non sono ancora noti."
 2303,50,0,0,"St. Silvester FR","I resultati di questa comune non sono ancora noti."
 2304,50,0,0,"St. Ursen FR","I resultati di questa comune non sono ancora noti."
-2305,50,0,0,"Schmitten FR","I resultati di questa comune non sono ancora noti."
+2305,31,31,69,"Schmitten FR",
 2306,50,0,0,"Tafers FR","I resultati di questa comune non sono ancora noti."
-2307,50,0,0,"Tentlingen FR","I resultati di questa comune non sono ancora noti."
+2307,36.7,36.7,63.3,"Tentlingen FR",
 2308,50,0,0,"Ueberstorf FR","I resultati di questa comune non sono ancora noti."
 2309,50,0,0,"Wünnewil-Flamatt FR","I resultati di questa comune non sono ancora noti."
 2321,50,0,0,"Attalens FR","I resultati di questa comune non sono ancora noti."
 2323,50,0,0,"Bossonnens FR","I resultati di questa comune non sono ancora noti."
 2325,50,0,0,"Châtel-Saint-Denis FR","I resultati di questa comune non sono ancora noti."
-2328,50,0,0,"Granges (Veveyse) FR","I resultati di questa comune non sono ancora noti."
+2328,43.2,43.2,56.8,"Granges (Veveyse) FR",
 2333,50,0,0,"Remaufens FR","I resultati di questa comune non sono ancora noti."
 2335,50,0,0,"Saint-Martin FR","I resultati di questa comune non sono ancora noti."
 2336,50,0,0,"Semsales FR","I resultati di questa comune non sono ancora noti."
