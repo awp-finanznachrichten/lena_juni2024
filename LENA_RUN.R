@@ -21,9 +21,6 @@ if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
 
-#SRG Hochrechnungen
-#source("SRG_API_Request.R", encoding = "UTF-8")
-
 #Aktualisierungs-Check: Gibt es neue Daten?
 mydb <- connectDB(db_name="sda_votes")
 rs <- dbSendQuery(mydb, paste0("SELECT * FROM timestamps"))
@@ -44,11 +41,6 @@ print("Neue Daten gefunden")
 time_start <- Sys.time()
 
 if (time_check_national == FALSE) {
-###Write Data in DB###
-#source("nationale_abstimmungen_DB_entries.R", encoding = "UTF-8")
-
-###Send Mail if Canton complete###
-#source("nationale_abstimmungen_send_mail.R", encoding = "UTF-8")
     
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")
