@@ -12,11 +12,11 @@ if (sum(grepl(kantone_list$geoLevelname[k],completed_cantons)) == 0) {
   
 data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
 colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")  
-vorlagen <- kantone_list$vorlagen[[k]]
+vorlagen_kantonal <- kantone_list$vorlagen[[k]]
 
 check_counted <- c()
 
-for (i in 1:nrow(vorlagen)) {
+for (i in 1:nrow(vorlagen_kantonal)) {
 check_counted[i] <- FALSE
 results <- get_results_kantonal(json_data_kantone,
                                   k,
@@ -33,7 +33,7 @@ Ja_Stimmen_Kanton <- get_results_kantonal(json_data_kantone,
 #Titel aus Spreadsheet
 titel_all <- Vorlagen_Titel %>%
   filter(Kanton == kantone_list$geoLevelname[k],
-         Vorlage_ID == vorlagen$vorlagenId[i])
+         Vorlage_ID == vorlagen_kantonal$vorlagenId[i])
 
 #Eintrag für Uebersicht
 uebersicht_text_de <- paste0("<b>",titel_all$Vorlage_d[1],"</b><br>",
@@ -122,7 +122,7 @@ dw_edit_chart(datawrapper_ids$ID[d],intro=paste0("Ultimo aggiornamento: ",format
 dw_publish_chart(datawrapper_ids$ID[d])
 }
 
-if (sum(check_counted) == nrow(vorlagen)) {
+if (sum(check_counted) == nrow(vorlagen_kantonal)) {
 cat(paste0("Alle Abstimmungen aus dem Kanton ",kantone_list$geoLevelname[k]," sind ausgezählt!\n\n")) 
 
 #Set mail output to done

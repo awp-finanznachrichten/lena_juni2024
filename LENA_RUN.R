@@ -56,7 +56,6 @@ if (time_check_kantonal == FALSE) {
 }
 
 if (time_check_national == FALSE) {
-  source("CONFIG.R",encoding = "UTF-8")
   
   ###Nationale Abstimmungen###
   source("nationale_abstimmungen.R", encoding="UTF-8")
