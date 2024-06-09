@@ -96,7 +96,7 @@ for (y in 1:nrow(output_dw_kantone)) {
     
     output_dw_kantone$Kanton_color[y] <- output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]
     output_dw_kantone$Text_de[y] <- "Es sind alle Gemeinden ausgezählt."
-    output_dw_kantone$Text_fr[y] <- "Toutes les communes sont connues."
+    output_dw_kantone$Text_fr[y] <- "Les résultats de toutes les communes sont connus."
     output_dw_kantone$Text_it[y] <- "Tutti i comuni sono noti."
 
   }  

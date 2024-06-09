@@ -2030,51 +2030,51 @@
 24,6504,34.951456311,72,134,50.241545894,208,414,206,TRUE,"NE","La Côte-aux-Fées","La Côte-aux-Fées","La Côte-aux-Fées","La Côte-aux-Fées NE","La Côte-aux-Fées (NE)","La Côte-aux-Fées NE","Neuenburg","Neuchâtel","Neuchâtel",69.417859521,FALSE,FALSE
 24,6511,56.626506024,94,72,29.565217391,170,575,166,TRUE,"NE","Les Verrières","Les Verrières","Les Verrières","Les Verrières NE","Les Verrières (NE)","Les Verrières NE","Neuenburg","Neuchâtel","Neuchâtel",69.417859521,FALSE,FALSE
 24,6512,55.8323448,1412,1117,34.260362866,2587,7551,2529,TRUE,"NE","Val-de-Travers","Val-de-Travers","Val-de-Travers","Val-de-Travers NE","Val-de-Travers (NE)","Val-de-Travers NE","Neuenburg","Neuchâtel","Neuchâtel",69.417859521,FALSE,FALSE
-25,6601,,,,,,,,FALSE,"GE","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville GE","Aire-la-Ville (GE)","Aire-la-Ville GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6602,,,,,,,,FALSE,"GE","Anières","Anières","Anières","Anières GE","Anières (GE)","Anières GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6603,,,,,,,,FALSE,"GE","Avully","Avully","Avully","Avully GE","Avully (GE)","Avully GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6604,,,,,,,,FALSE,"GE","Avusy","Avusy","Avusy","Avusy GE","Avusy (GE)","Avusy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6605,,,,,,,,FALSE,"GE","Bardonnex","Bardonnex","Bardonnex","Bardonnex GE","Bardonnex (GE)","Bardonnex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6606,,,,,,,,FALSE,"GE","Bellevue","Bellevue","Bellevue","Bellevue GE","Bellevue (GE)","Bellevue GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6607,,,,,,,,FALSE,"GE","Bernex","Bernex","Bernex","Bernex GE","Bernex (GE)","Bernex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6608,,,,,,,,FALSE,"GE","Carouge","Carouge (GE)","Carouge","Carouge GE","Carouge (GE)","Carouge GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6609,,,,,,,,FALSE,"GE","Cartigny","Cartigny","Cartigny","Cartigny GE","Cartigny (GE)","Cartigny GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6610,,,,,,,,FALSE,"GE","Céligny","Céligny","Céligny","Céligny GE","Céligny (GE)","Céligny GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6611,,,,,,,,FALSE,"GE","Chancy","Chancy","Chancy","Chancy GE","Chancy (GE)","Chancy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6612,,,,,,,,FALSE,"GE","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries GE","Chêne-Bougeries (GE)","Chêne-Bougeries GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6613,,,,,,,,FALSE,"GE","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg GE","Chêne-Bourg (GE)","Chêne-Bourg GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6614,,,,,,,,FALSE,"GE","Choulex","Choulex","Choulex","Choulex GE","Choulex (GE)","Choulex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6615,,,,,,,,FALSE,"GE","Collex-Bossy","Collex-Bossy","Collex-Bossy","Collex-Bossy GE","Collex-Bossy (GE)","Collex-Bossy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6616,,,,,,,,FALSE,"GE","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive GE","Collonge-Bellerive (GE)","Collonge-Bellerive GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6617,,,,,,,,FALSE,"GE","Cologny","Cologny","Cologny","Cologny GE","Cologny (GE)","Cologny GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6618,,,,,,,,FALSE,"GE","Confignon","Confignon","Confignon","Confignon GE","Confignon (GE)","Confignon GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6619,,,,,,,,FALSE,"GE","Corsier GE","Corsier (GE)","Corsier GE","Corsier GE","Corsier (GE)","Corsier GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6620,,,,,,,,FALSE,"GE","Dardagny","Dardagny","Dardagny","Dardagny GE","Dardagny (GE)","Dardagny GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6621,,,,,,,,FALSE,"GE","Genf","Genève","Ginevra","Genf GE","Genève (GE)","Ginevra GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6622,,,,,,,,FALSE,"GE","Genthod","Genthod","Genthod","Genthod GE","Genthod (GE)","Genthod GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6623,,,,,,,,FALSE,"GE","Le Grand-Saconnex","Le Grand-Saconnex","Le Grand-Saconnex","Le Grand-Saconnex GE","Le Grand-Saconnex (GE)","Le Grand-Saconnex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6624,,,,,,,,FALSE,"GE","Gy","Gy","Gy","Gy GE","Gy (GE)","Gy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6625,,,,,,,,FALSE,"GE","Hermance","Hermance","Hermance","Hermance GE","Hermance (GE)","Hermance GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6626,,,,,,,,FALSE,"GE","Jussy","Jussy","Jussy","Jussy GE","Jussy (GE)","Jussy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6627,,,,,,,,FALSE,"GE","Laconnex","Laconnex","Laconnex","Laconnex GE","Laconnex (GE)","Laconnex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6628,,,,,,,,FALSE,"GE","Lancy","Lancy","Lancy","Lancy GE","Lancy (GE)","Lancy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6629,,,,,,,,FALSE,"GE","Meinier","Meinier","Meinier","Meinier GE","Meinier (GE)","Meinier GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6630,,,,,,,,FALSE,"GE","Meyrin","Meyrin","Meyrin","Meyrin GE","Meyrin (GE)","Meyrin GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6631,,,,,,,,FALSE,"GE","Onex","Onex","Onex","Onex GE","Onex (GE)","Onex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6632,,,,,,,,FALSE,"GE","Perly-Certoux","Perly-Certoux","Perly-Certoux","Perly-Certoux GE","Perly-Certoux (GE)","Perly-Certoux GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6633,,,,,,,,FALSE,"GE","Plan-les-Ouates","Plan-les-Ouates","Plan-les-Ouates","Plan-les-Ouates GE","Plan-les-Ouates (GE)","Plan-les-Ouates GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6634,,,,,,,,FALSE,"GE","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy GE","Pregny-Chambésy (GE)","Pregny-Chambésy GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6635,,,,,,,,FALSE,"GE","Presinge","Presinge","Presinge","Presinge GE","Presinge (GE)","Presinge GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6636,,,,,,,,FALSE,"GE","Puplinge","Puplinge","Puplinge","Puplinge GE","Puplinge (GE)","Puplinge GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6637,,,,,,,,FALSE,"GE","Russin","Russin","Russin","Russin GE","Russin (GE)","Russin GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6638,,,,,,,,FALSE,"GE","Satigny","Satigny","Satigny","Satigny GE","Satigny (GE)","Satigny GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6639,,,,,,,,FALSE,"GE","Soral","Soral","Soral","Soral GE","Soral (GE)","Soral GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6640,,,,,,,,FALSE,"GE","Thônex","Thônex","Thônex","Thônex GE","Thônex (GE)","Thônex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6641,,,,,,,,FALSE,"GE","Troinex","Troinex","Troinex","Troinex GE","Troinex (GE)","Troinex GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6642,,,,,,,,FALSE,"GE","Vandoeuvres","Vandoeuvres","Vandoeuvres","Vandoeuvres GE","Vandoeuvres (GE)","Vandoeuvres GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6643,,,,,,,,FALSE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6644,,,,,,,,FALSE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
-25,6645,,,,,,,,FALSE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier GE","Genf","Genève","Ginevra",75.194976287,FALSE,FALSE
+25,6601,67.425968109,296,143,59.407216495,461,776,439,TRUE,"GE","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville GE","Aire-la-Ville (GE)","Aire-la-Ville GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6602,75.734355045,593,190,58.550724638,808,1380,783,TRUE,"GE","Anières","Anières","Anières","Anières GE","Anières (GE)","Anières GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6603,73.084479371,372,137,49.356617647,537,1088,509,TRUE,"GE","Avully","Avully","Avully","Avully GE","Avully (GE)","Avully GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6604,73.80952381,403,143,55.2734375,566,1024,546,TRUE,"GE","Avusy","Avusy","Avusy","Avusy GE","Avusy (GE)","Avusy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6605,80.387409201,664,162,57.368421053,872,1520,826,TRUE,"GE","Bardonnex","Bardonnex","Bardonnex","Bardonnex GE","Bardonnex (GE)","Bardonnex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6606,71.500630517,567,226,43.08012487,828,1922,793,TRUE,"GE","Bellevue","Bellevue","Bellevue","Bellevue GE","Bellevue (GE)","Bellevue GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6607,73.094656903,2695,992,57.323158204,3906,6814,3687,TRUE,"GE","Bernex","Bernex","Bernex","Bernex GE","Bernex (GE)","Bernex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6608,73.967086835,4225,1487,53.559654281,6011,11223,5712,TRUE,"GE","Carouge","Carouge (GE)","Carouge","Carouge GE","Carouge (GE)","Carouge GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6609,72.086720867,266,103,58.03030303,383,660,369,TRUE,"GE","Cartigny","Cartigny","Cartigny","Cartigny GE","Cartigny (GE)","Cartigny GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6610,72.307692308,188,72,60.224719101,268,445,260,TRUE,"GE","Céligny","Céligny","Céligny","Céligny GE","Céligny (GE)","Céligny GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6611,67.848699764,287,136,46.528497409,449,965,423,TRUE,"GE","Chancy","Chancy","Chancy","Chancy GE","Chancy (GE)","Chancy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6612,77.023121387,2665,795,50.909349247,3583,7038,3460,TRUE,"GE","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries GE","Chêne-Bougeries (GE)","Chêne-Bougeries GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6613,71.000935454,1518,620,48.947829899,2233,4562,2138,TRUE,"GE","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg GE","Chêne-Bourg (GE)","Chêne-Bourg GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6614,78.99543379,346,92,58.031088083,448,772,438,TRUE,"GE","Choulex","Choulex","Choulex","Choulex GE","Choulex (GE)","Choulex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6615,78.752886836,341,92,50.166852058,451,899,433,TRUE,"GE","Collex-Bossy","Collex-Bossy","Collex-Bossy","Collex-Bossy GE","Collex-Bossy (GE)","Collex-Bossy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6616,70.65845206,1835,762,55.276798673,2666,4823,2597,TRUE,"GE","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive GE","Collonge-Bellerive (GE)","Collonge-Bellerive GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6617,72.674040338,1117,420,52.261472433,1583,3029,1537,TRUE,"GE","Cologny","Cologny","Cologny","Cologny GE","Cologny (GE)","Cologny GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6618,77.332498435,1235,362,55.700871898,1661,2982,1597,TRUE,"GE","Confignon","Confignon","Confignon","Confignon GE","Confignon (GE)","Confignon GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6619,73.958333333,497,175,54.081632653,689,1274,672,TRUE,"GE","Corsier GE","Corsier (GE)","Corsier GE","Corsier GE","Corsier (GE)","Corsier GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6620,69.684210526,331,144,46.962391514,487,1037,475,TRUE,"GE","Dardagny","Dardagny","Dardagny","Dardagny GE","Dardagny (GE)","Dardagny GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6621,77.768946775,30333,8671,47.726713893,40761,85405,39004,TRUE,"GE","Genf","Genève","Ginevra","Genf GE","Genève (GE)","Ginevra GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6622,67.41016109,544,263,54.31372549,831,1530,807,TRUE,"GE","Genthod","Genthod","Genthod","Genthod GE","Genthod (GE)","Genthod GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6623,76.648693488,1848,563,44.923903312,2509,5585,2411,TRUE,"GE","Le Grand-Saconnex","Le Grand-Saconnex","Le Grand-Saconnex","Le Grand-Saconnex GE","Le Grand-Saconnex (GE)","Le Grand-Saconnex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6624,69.154228856,139,62,60.683760684,213,351,201,TRUE,"GE","Gy","Gy","Gy","Gy GE","Gy (GE)","Gy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6625,77.604166667,298,86,56.152758133,397,707,384,TRUE,"GE","Hermance","Hermance","Hermance","Hermance GE","Hermance (GE)","Hermance GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6626,66.41221374,261,132,56.675749319,416,734,393,TRUE,"GE","Jussy","Jussy","Jussy","Jussy GE","Jussy (GE)","Jussy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6627,77.00729927,211,63,59.832635983,286,478,274,TRUE,"GE","Laconnex","Laconnex","Laconnex","Laconnex GE","Laconnex (GE)","Laconnex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6628,74.673328209,5829,1977,45.249366949,8220,18166,7806,TRUE,"GE","Lancy","Lancy","Lancy","Lancy GE","Lancy (GE)","Lancy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6629,73.293768546,494,180,54.08085431,709,1311,674,TRUE,"GE","Meinier","Meinier","Meinier","Meinier GE","Meinier (GE)","Meinier GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6630,73.551421852,3440,1237,43.558065655,4936,11332,4677,TRUE,"GE","Meyrin","Meyrin","Meyrin","Meyrin GE","Meyrin (GE)","Meyrin GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6631,68.875453446,2848,1287,45.487855946,4345,9552,4135,TRUE,"GE","Onex","Onex","Onex","Onex GE","Onex (GE)","Onex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6632,70.779976717,608,251,47.157016171,904,1917,859,TRUE,"GE","Perly-Certoux","Perly-Certoux","Perly-Certoux","Perly-Certoux GE","Perly-Certoux (GE)","Perly-Certoux GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6633,78.05907173,2775,780,51.810237203,3735,7209,3555,TRUE,"GE","Plan-les-Ouates","Plan-les-Ouates","Plan-les-Ouates","Plan-les-Ouates GE","Plan-les-Ouates (GE)","Plan-les-Ouates GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6634,72.051886792,611,237,55.096935585,881,1599,848,TRUE,"GE","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy GE","Pregny-Chambésy (GE)","Pregny-Chambésy GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6635,70.517928287,177,74,55.274261603,262,474,251,TRUE,"GE","Presinge","Presinge","Presinge","Presinge GE","Presinge (GE)","Presinge GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6636,76.696542894,599,182,53.157894737,808,1520,781,TRUE,"GE","Puplinge","Puplinge","Puplinge","Puplinge GE","Puplinge (GE)","Puplinge GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6637,79.425837321,166,43,66.253869969,214,323,209,TRUE,"GE","Russin","Russin","Russin","Russin GE","Russin (GE)","Russin GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6638,70.350609756,923,389,54.216388226,1363,2514,1312,TRUE,"GE","Satigny","Satigny","Satigny","Satigny GE","Satigny (GE)","Satigny GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6639,68,221,104,58.333333333,343,588,325,TRUE,"GE","Soral","Soral","Soral","Soral GE","Soral (GE)","Soral GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6640,70.479610156,2748,1151,48.0018917,4060,8458,3899,TRUE,"GE","Thônex","Thônex","Thônex","Thônex GE","Thônex (GE)","Thônex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6641,77.821393523,793,226,59.359190556,1056,1779,1019,TRUE,"GE","Troinex","Troinex","Troinex","Troinex GE","Troinex (GE)","Troinex GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6642,74.736842105,639,216,55.815423515,883,1582,855,TRUE,"GE","Vandoeuvres","Vandoeuvres","Vandoeuvres","Vandoeuvres GE","Vandoeuvres (GE)","Vandoeuvres GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6643,74.23283771,4693,1629,41.376107017,6681,16147,6322,TRUE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6644,70.099923136,1824,778,44.278283485,2724,6152,2602,TRUE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
+25,6645,77.501309586,2959,859,58.733431517,3988,6790,3818,TRUE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier GE","Genf","Genève","Ginevra",75.208832481,FALSE,FALSE
 26,6702,48.286604361,155,166,43.675099867,328,751,321,TRUE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",60.121664225,FALSE,FALSE
 26,6703,57.009345794,61,46,43.2,108,250,107,TRUE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",60.121664225,FALSE,FALSE
 26,6704,56.451612903,105,81,50,189,378,186,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",60.121664225,FALSE,FALSE
