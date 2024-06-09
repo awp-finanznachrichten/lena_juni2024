@@ -4,9 +4,10 @@ votes_metadata <- DBI::fetch(rs,n=-1)
 dbDisconnectAll()
 completed_votes <- na.omit(unique(votes_metadata$spreadsheet))
 
+
 for (s in 1:length(kantonal_short_special) ) {
 
-  if (sum(grepl(kantonal_short_special[s],completed_votes) == 0)) {
+  if (sum(grepl(kantonal_short_special[s],completed_votes)) == 0) {
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[s],"\n"))
   
   results <- get_results_kantonal(json_data_kantone,
@@ -154,7 +155,7 @@ for (s in 1:length(kantonal_short_special) ) {
   output_dw_de <- get_output_gemeinden(results,language = "de")
   output_dw_fr <- get_output_gemeinden(results,language = "fr")
   output_dw_it <- get_output_gemeinden(results,language = "it")
-  
+
   #Output speichern
   write.csv(output_dw_de,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   write.csv(output_dw_fr,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
