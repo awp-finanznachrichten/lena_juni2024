@@ -1475,112 +1475,112 @@
 20,4941,,,,,,,,FALSE,"TG","Märstetten","Märstetten","Märstetten","Märstetten TG","Märstetten (TG)","Märstetten TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4946,,,,,,,,FALSE,"TG","Weinfelden","Weinfelden","Weinfelden","Weinfelden TG","Weinfelden (TG)","Weinfelden TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4951,,,,,,,,FALSE,"TG","Wigoltingen","Wigoltingen","Wigoltingen","Wigoltingen TG","Wigoltingen (TG)","Wigoltingen TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
-21,5001,31.612446959,447,967,47.69726248,1481,3105,1414,TRUE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5003,37.478991597,223,372,42.354533153,626,1478,595,TRUE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5009,47.887323944,68,74,48.571428571,153,315,142,TRUE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5010,28.213689482,169,430,57.431192661,626,1090,599,TRUE,"TI","Lumino","Lumino","Lumino","Lumino TI","Lumino (TI)","Lumino TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5017,39.263024142,309,478,50.988875155,825,1618,787,TRUE,"TI","Sant'Antonino","Sant'Antonino","Sant'Antonino","Sant'Antonino TI","Sant'Antonino (TI)","Sant'Antonino TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5048,35.687732342,192,346,38.082376772,564,1481,538,TRUE,"TI","Acquarossa","Acquarossa","Acquarossa","Acquarossa TI","Acquarossa (TI)","Acquarossa TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5049,36.859504132,223,382,45.23141655,645,1426,605,TRUE,"TI","Blenio","Blenio","Blenio","Blenio TI","Blenio (TI)","Blenio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5050,36.136662286,275,486,41.741424802,791,1895,761,TRUE,"TI","Serravalle","Serravalle","Serravalle","Serravalle TI","Serravalle (TI)","Serravalle TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5061,32.792792793,182,373,58.494404883,575,983,555,TRUE,"TI","Airolo","Airolo","Airolo","Airolo TI","Airolo (TI)","Airolo TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5063,50.746268657,34,33,63.551401869,68,107,67,TRUE,"TI","Bedretto","Bedretto","Bedretto","Bedretto TI","Bedretto (TI)","Bedretto TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5064,31.279620853,66,145,46.72489083,214,458,211,TRUE,"TI","Bodio","Bodio","Bodio","Bodio TI","Bodio (TI)","Bodio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5071,27.956989247,26,67,63.354037267,102,161,93,TRUE,"TI","Dalpe","Dalpe","Dalpe","Dalpe TI","Dalpe (TI)","Dalpe TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5072,34.468524252,334,635,50.596421471,1018,2012,969,TRUE,"TI","Faido","Faido","Faido","Faido TI","Faido (TI)","Faido TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5073,34.230769231,89,171,52.023121387,270,519,260,TRUE,"TI","Giornico","Giornico","Giornico","Giornico TI","Giornico (TI)","Giornico TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5076,29.545454545,39,93,59.734513274,135,226,132,TRUE,"TI","Personico","Personico","Personico","Personico TI","Personico (TI)","Personico TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5077,44.748858447,98,121,44.356435644,224,505,219,TRUE,"TI","Pollegio","Pollegio","Pollegio","Pollegio TI","Pollegio (TI)","Pollegio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5078,32.374100719,45,94,53.505535055,145,271,139,TRUE,"TI","Prato (Leventina)","Prato (Leventina)","Prato (Leventina)","Prato (Leventina) TI","Prato (Leventina) (TI)","Prato (Leventina) TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5079,33.724340176,115,226,53.393665158,354,663,341,TRUE,"TI","Quinto","Quinto","Quinto","Quinto TI","Quinto (TI)","Quinto TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5091,37.011091652,634,1079,49.132138858,1755,3572,1713,TRUE,"TI","Ascona","Ascona","Ascona","Ascona TI","Ascona (TI)","Ascona TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5096,39.106145251,70,109,53.488372093,184,344,179,TRUE,"TI","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio TI","Brione sopra Minusio (TI)","Brione sopra Minusio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5097,38.009787928,233,380,51.517637408,628,1219,613,TRUE,"TI","Brissago","Brissago","Brissago","Brissago TI","Brissago (TI)","Brissago TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5108,34.035549704,517,1002,47.760290557,1578,3304,1519,TRUE,"TI","Gordola","Gordola","Gordola","Gordola TI","Gordola (TI)","Gordola TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5112,34.237288136,101,194,43.636363636,312,715,295,TRUE,"TI","Lavertezzo","Lavertezzo","Lavertezzo","Lavertezzo TI","Lavertezzo (TI)","Lavertezzo TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5113,37.297160243,1471,2473,43.77190188,4122,9417,3944,TRUE,"TI","Locarno","Locarno","Locarno","Locarno TI","Locarno (TI)","Locarno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5115,35.47008547,664,1208,45.25664528,1975,4364,1872,TRUE,"TI","Losone","Losone","Losone","Losone TI","Losone (TI)","Losone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5117,55.681818182,49,39,54.21686747,90,166,88,TRUE,"TI","Mergoscia","Mergoscia","Mergoscia","Mergoscia TI","Mergoscia (TI)","Mergoscia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5118,33.830044301,840,1643,53.183597775,2581,4853,2483,TRUE,"TI","Minusio","Minusio","Minusio","Minusio TI","Minusio (TI)","Minusio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5120,35.9375,299,533,49.423963134,858,1736,832,TRUE,"TI","Muralto","Muralto","Muralto","Muralto TI","Muralto (TI)","Muralto TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5121,28.571428571,88,220,59.772296015,315,527,308,TRUE,"TI","Orselina","Orselina","Orselina","Orselina TI","Orselina (TI)","Orselina TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5125,35.813953488,77,138,56.234096692,221,393,215,TRUE,"TI","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona TI","Ronco sopra Ascona (TI)","Ronco sopra Ascona TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5131,38.975966562,373,584,47.643979058,1001,2101,957,TRUE,"TI","Tenero-Contra","Tenero-Contra","Tenero-Contra","Tenero-Contra TI","Tenero-Contra (TI)","Tenero-Contra TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5136,39.076923077,127,198,41.336633663,334,808,325,TRUE,"TI","Onsernone","Onsernone","Onsernone","Onsernone TI","Onsernone (TI)","Onsernone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5138,32.778355879,315,646,50.171484566,1024,2041,961,TRUE,"TI","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra TI","Cugnasco-Gerra (TI)","Cugnasco-Gerra TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5141,40.196882691,490,729,47.724708537,1269,2659,1219,TRUE,"TI","Agno","Agno","Agno","Agno TI","Agno (TI)","Agno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5143,37.301587302,47,79,50.381679389,132,262,126,TRUE,"TI","Aranno","Aranno","Aranno","Aranno TI","Aranno (TI)","Aranno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5144,37.535014006,134,223,50.469798658,376,745,357,TRUE,"TI","Arogno","Arogno","Arogno","Arogno TI","Arogno (TI)","Arogno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5146,49.66442953,74,75,55.395683453,154,278,149,TRUE,"TI","Astano","Astano","Astano","Astano TI","Astano (TI)","Astano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5148,35.304347826,203,372,55.763823805,595,1067,575,TRUE,"TI","Bedano","Bedano","Bedano","Bedano TI","Bedano (TI)","Bedano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5149,40.248962656,97,144,48.148148148,247,513,241,TRUE,"TI","Bedigliora","Bedigliora","Bedigliora","Bedigliora TI","Bedigliora (TI)","Bedigliora TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5151,36.920039487,374,639,53.160040775,1043,1962,1013,TRUE,"TI","Bioggio","Bioggio","Bioggio","Bioggio TI","Bioggio (TI)","Bioggio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5154,33.725490196,86,169,52.008032129,259,498,255,TRUE,"TI","Bissone","Bissone","Bissone","Bissone TI","Bissone (TI)","Bissone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5160,42.934782609,79,105,54.597701149,190,348,184,TRUE,"TI","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio TI","Brusino Arsizio (TI)","Brusino Arsizio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5161,38.403041825,101,162,48.324514991,274,567,263,TRUE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5162,36.952380952,194,331,55.724417427,550,987,525,TRUE,"TI","Cadempino","Cadempino","Cadempino","Cadempino TI","Cadempino (TI)","Cadempino TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5167,33.793103448,245,480,51.877133106,760,1465,725,TRUE,"TI","Canobbio","Canobbio","Canobbio","Canobbio TI","Canobbio (TI)","Canobbio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5171,43.802816901,622,798,53.471464922,1471,2751,1420,TRUE,"TI","Caslano","Caslano","Caslano","Caslano TI","Caslano (TI)","Caslano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5176,28.055260361,264,677,61.704834606,970,1572,941,TRUE,"TI","Comano","Comano","Comano","Comano TI","Comano (TI)","Comano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5180,33.913043478,195,380,57.423795477,584,1017,575,TRUE,"TI","Cureglia","Cureglia","Cureglia","Cureglia TI","Cureglia (TI)","Cureglia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5181,40.540540541,90,132,50.746268657,238,469,222,TRUE,"TI","Curio","Curio","Curio","Curio TI","Curio (TI)","Curio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5186,52,65,60,45.263157895,129,285,125,TRUE,"TI","Grancia","Grancia","Grancia","Grancia TI","Grancia (TI)","Grancia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5187,41.849148418,172,239,47.511312217,420,884,411,TRUE,"TI","Gravesano","Gravesano","Gravesano","Gravesano TI","Gravesano (TI)","Gravesano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5189,41.244239631,179,255,47.199170124,455,964,434,TRUE,"TI","Lamone","Lamone","Lamone","Lamone TI","Lamone (TI)","Lamone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5192,,,,,,,,FALSE,"TI","Lugano","Lugano","Lugano","Lugano TI","Lugano (TI)","Lugano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5193,33.149171271,180,363,49.46332737,553,1118,543,TRUE,"TI","Magliaso","Magliaso","Magliaso","Magliaso TI","Magliaso (TI)","Magliaso TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5194,36.61971831,182,315,57.552370452,522,907,497,TRUE,"TI","Manno","Manno","Manno","Manno TI","Manno (TI)","Manno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5196,33.927434755,533,1038,48.236700538,1614,3346,1571,TRUE,"TI","Massagno","Massagno","Massagno","Massagno TI","Massagno (TI)","Massagno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5198,40.688259109,201,293,51.006036217,507,994,494,TRUE,"TI","Melide","Melide","Melide","Melide TI","Melide (TI)","Melide TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5199,34.475806452,171,325,52.843846949,511,967,496,TRUE,"TI","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira TI","Mezzovico-Vira (TI)","Mezzovico-Vira TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5200,43.617021277,41,53,47.906976744,103,215,94,TRUE,"TI","Miglieglia","Miglieglia","Miglieglia","Miglieglia TI","Miglieglia (TI)","Miglieglia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5203,42.016806723,100,138,62.121212121,246,396,238,TRUE,"TI","Morcote","Morcote","Morcote","Morcote TI","Morcote (TI)","Morcote TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5205,33.431085044,114,227,58.347386172,346,593,341,TRUE,"TI","Muzzano","Muzzano","Muzzano","Muzzano TI","Muzzano (TI)","Muzzano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5206,27.00729927,37,100,53.409090909,141,264,137,TRUE,"TI","Neggio","Neggio","Neggio","Neggio TI","Neggio (TI)","Neggio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5207,32.88590604,98,200,46.798780488,307,656,298,TRUE,"TI","Novaggio","Novaggio","Novaggio","Novaggio TI","Novaggio (TI)","Novaggio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5208,35.494327391,219,398,60.663507109,640,1055,617,TRUE,"TI","Origlio","Origlio","Origlio","Origlio TI","Origlio (TI)","Origlio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5210,39.97271487,293,440,44.011627907,757,1720,733,TRUE,"TI","Paradiso","Paradiso","Paradiso","Paradiso TI","Paradiso (TI)","Paradiso TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5212,31.578947368,228,494,57.927300851,749,1293,722,TRUE,"TI","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca TI","Ponte Capriasca (TI)","Ponte Capriasca TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5214,30.917874396,192,429,56.840247132,644,1133,621,TRUE,"TI","Porza","Porza","Porza","Porza TI","Porza (TI)","Porza TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5216,36.767676768,182,313,54.33646813,520,957,495,TRUE,"TI","Pura","Pura","Pura","Pura TI","Pura (TI)","Pura TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5221,32.743362832,222,456,53.49378882,689,1288,678,TRUE,"TI","Savosa","Savosa","Savosa","Savosa TI","Savosa (TI)","Savosa TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5225,30.563380282,217,493,59.032258065,732,1240,710,TRUE,"TI","Sorengo","Sorengo","Sorengo","Sorengo TI","Sorengo (TI)","Sorengo TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5226,34.274952919,910,1745,55.027386541,2813,5112,2655,TRUE,"TI","Capriasca","Capriasca","Capriasca","Capriasca TI","Capriasca (TI)","Capriasca TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5227,37.073707371,337,572,50.398724083,948,1881,909,TRUE,"TI","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne TI","Torricella-Taverne (TI)","Torricella-Taverne TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5230,36.23853211,79,139,50.79006772,225,443,218,TRUE,"TI","Vernate","Vernate","Vernate","Vernate TI","Vernate (TI)","Vernate TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5231,34.984025559,219,407,52.775543041,656,1243,626,TRUE,"TI","Vezia","Vezia","Vezia","Vezia TI","Vezia (TI)","Vezia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5233,44.537815126,53,66,58.373205742,122,209,119,TRUE,"TI","Vico Morcote","Vico Morcote","Vico Morcote","Vico Morcote TI","Vico Morcote (TI)","Vico Morcote TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5236,31.604095563,463,1002,54.310344828,1512,2784,1465,TRUE,"TI","Collina d'Oro","Collina d'Oro","Collina d'Oro","Collina d'Oro TI","Collina d'Oro (TI)","Collina d'Oro TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5237,38.994800693,225,352,54.392191659,613,1127,577,TRUE,"TI","Alto Malcantone","Alto Malcantone","Alto Malcantone","Alto Malcantone TI","Alto Malcantone (TI)","Alto Malcantone TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5238,36.768617021,553,951,49.238420889,1584,3217,1504,TRUE,"TI","Monteceneri","Monteceneri","Monteceneri","Monteceneri TI","Monteceneri (TI)","Monteceneri TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5239,42.079207921,425,585,46.163963174,1053,2281,1010,TRUE,"TI","Tresa","Tresa","Tresa","Tresa TI","Tresa (TI)","Tresa TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5240,36.583101207,394,683,63.114301491,1143,1811,1077,TRUE,"TI","Val Mara","Val Mara","Val Mara","Val Mara TI","Val Mara (TI)","Val Mara TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5242,39.447731755,400,614,48.388561053,1066,2203,1014,TRUE,"TI","Balerna","Balerna","Balerna","Balerna TI","Balerna (TI)","Balerna TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5249,30.594594595,283,642,55.410764873,978,1765,925,TRUE,"TI","Castel San Pietro","Castel San Pietro","Castel San Pietro","Castel San Pietro TI","Castel San Pietro (TI)","Castel San Pietro TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5250,41.709577755,810,1132,48.523106241,2037,4198,1942,TRUE,"TI","Chiasso","Chiasso","Chiasso","Chiasso TI","Chiasso (TI)","Chiasso TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5251,35.802469136,377,676,52.960840497,1109,2094,1053,TRUE,"TI","Coldrerio","Coldrerio","Coldrerio","Coldrerio TI","Coldrerio (TI)","Coldrerio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5254,35.650136665,1826,3296,50.792438419,5320,10474,5122,TRUE,"TI","Mendrisio","Mendrisio","Mendrisio","Mendrisio TI","Mendrisio (TI)","Mendrisio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5257,34.925975774,519,967,53.816660857,1544,2869,1486,TRUE,"TI","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore TI","Morbio Inferiore (TI)","Morbio Inferiore TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5260,33.660130719,309,609,56.194950088,957,1703,918,TRUE,"TI","Novazzano","Novazzano","Novazzano","Novazzano TI","Novazzano (TI)","Novazzano TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5263,35.519125683,325,590,49.325025961,950,1926,915,TRUE,"TI","Riva San Vitale","Riva San Vitale","Riva San Vitale","Riva San Vitale TI","Riva San Vitale (TI)","Riva San Vitale TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5266,38.203753351,570,922,50.228608752,1538,3062,1492,TRUE,"TI","Stabio","Stabio","Stabio","Stabio TI","Stabio (TI)","Stabio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5268,36.540240518,395,686,51.146788991,1115,2180,1081,TRUE,"TI","Vacallo","Vacallo","Vacallo","Vacallo TI","Vacallo (TI)","Vacallo TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5269,36.185819071,296,522,53.144654088,845,1590,818,TRUE,"TI","Breggia","Breggia","Breggia","Breggia TI","Breggia (TI)","Breggia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5281,39.375424304,580,893,45.400238949,1520,3348,1473,TRUE,"TI","Biasca","Biasca","Biasca","Biasca TI","Biasca (TI)","Biasca TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5287,,,,,,,,FALSE,"TI","Riviera","Riviera","Riviera","Riviera TI","Riviera (TI)","Riviera TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5304,15.789473684,3,16,45.283018868,24,53,19,TRUE,"TI","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin TI","Bosco/Gurin (TI)","Bosco/Gurin TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5307,70.37037037,19,8,39.130434783,27,69,27,TRUE,"TI","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia) TI","Campo (Vallemaggia) (TI)","Campo (Vallemaggia) TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5309,73.076923077,19,7,54.166666667,26,48,26,TRUE,"TI","Cerentino","Cerentino","Cerentino","Cerentino TI","Cerentino (TI)","Cerentino TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5310,41.085271318,159,228,50.366748166,412,818,387,TRUE,"TI","Cevio","Cevio","Cevio","Cevio TI","Cevio (TI)","Cevio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5315,50,11,11,61.111111111,22,36,22,TRUE,"TI","Linescio","Linescio","Linescio","Linescio TI","Linescio (TI)","Linescio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5317,33.448275862,291,579,46.336533603,917,1979,870,TRUE,"TI","Maggia","Maggia","Maggia","Maggia TI","Maggia (TI)","Maggia TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5323,40.888888889,92,133,58.695652174,243,414,225,TRUE,"TI","Lavizzara","Lavizzara","Lavizzara","Lavizzara TI","Lavizzara (TI)","Lavizzara TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5324,34.904013962,200,373,52.843394576,604,1143,573,TRUE,"TI","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio TI","Avegno Gordevio (TI)","Avegno Gordevio TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5396,30.727762803,342,771,56.701030928,1155,2037,1113,TRUE,"TI","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte TI","Terre di Pedemonte (TI)","Terre di Pedemonte TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5397,41.687344913,168,235,44.504310345,413,928,403,TRUE,"TI","Centovalli","Centovalli","Centovalli","Centovalli TI","Centovalli (TI)","Centovalli TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5398,36.835278859,568,974,45.859508852,1606,3502,1542,TRUE,"TI","Gambarogno","Gambarogno","Gambarogno","Gambarogno TI","Gambarogno (TI)","Gambarogno TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
-21,5399,40.754716981,108,157,41.260744986,288,698,265,TRUE,"TI","Verzasca","Verzasca","Verzasca","Verzasca TI","Verzasca (TI)","Verzasca TI","Tessin","Tessin","Ticino",36.11343645,FALSE,FALSE
+21,5001,31.612446959,447,967,47.69726248,1481,3105,1414,TRUE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5003,37.478991597,223,372,42.354533153,626,1478,595,TRUE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5009,47.887323944,68,74,48.571428571,153,315,142,TRUE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5010,28.213689482,169,430,57.431192661,626,1090,599,TRUE,"TI","Lumino","Lumino","Lumino","Lumino TI","Lumino (TI)","Lumino TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5017,39.263024142,309,478,50.988875155,825,1618,787,TRUE,"TI","Sant'Antonino","Sant'Antonino","Sant'Antonino","Sant'Antonino TI","Sant'Antonino (TI)","Sant'Antonino TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5048,35.687732342,192,346,38.082376772,564,1481,538,TRUE,"TI","Acquarossa","Acquarossa","Acquarossa","Acquarossa TI","Acquarossa (TI)","Acquarossa TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5049,36.859504132,223,382,45.23141655,645,1426,605,TRUE,"TI","Blenio","Blenio","Blenio","Blenio TI","Blenio (TI)","Blenio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5050,36.136662286,275,486,41.741424802,791,1895,761,TRUE,"TI","Serravalle","Serravalle","Serravalle","Serravalle TI","Serravalle (TI)","Serravalle TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5061,32.792792793,182,373,58.494404883,575,983,555,TRUE,"TI","Airolo","Airolo","Airolo","Airolo TI","Airolo (TI)","Airolo TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5063,50.746268657,34,33,63.551401869,68,107,67,TRUE,"TI","Bedretto","Bedretto","Bedretto","Bedretto TI","Bedretto (TI)","Bedretto TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5064,31.279620853,66,145,46.72489083,214,458,211,TRUE,"TI","Bodio","Bodio","Bodio","Bodio TI","Bodio (TI)","Bodio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5071,27.956989247,26,67,63.354037267,102,161,93,TRUE,"TI","Dalpe","Dalpe","Dalpe","Dalpe TI","Dalpe (TI)","Dalpe TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5072,34.468524252,334,635,50.596421471,1018,2012,969,TRUE,"TI","Faido","Faido","Faido","Faido TI","Faido (TI)","Faido TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5073,34.230769231,89,171,52.023121387,270,519,260,TRUE,"TI","Giornico","Giornico","Giornico","Giornico TI","Giornico (TI)","Giornico TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5076,29.545454545,39,93,59.734513274,135,226,132,TRUE,"TI","Personico","Personico","Personico","Personico TI","Personico (TI)","Personico TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5077,44.748858447,98,121,44.356435644,224,505,219,TRUE,"TI","Pollegio","Pollegio","Pollegio","Pollegio TI","Pollegio (TI)","Pollegio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5078,32.374100719,45,94,53.505535055,145,271,139,TRUE,"TI","Prato (Leventina)","Prato (Leventina)","Prato (Leventina)","Prato (Leventina) TI","Prato (Leventina) (TI)","Prato (Leventina) TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5079,33.724340176,115,226,53.393665158,354,663,341,TRUE,"TI","Quinto","Quinto","Quinto","Quinto TI","Quinto (TI)","Quinto TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5091,37.011091652,634,1079,49.132138858,1755,3572,1713,TRUE,"TI","Ascona","Ascona","Ascona","Ascona TI","Ascona (TI)","Ascona TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5096,39.106145251,70,109,53.488372093,184,344,179,TRUE,"TI","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio TI","Brione sopra Minusio (TI)","Brione sopra Minusio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5097,38.009787928,233,380,51.517637408,628,1219,613,TRUE,"TI","Brissago","Brissago","Brissago","Brissago TI","Brissago (TI)","Brissago TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5108,34.035549704,517,1002,47.760290557,1578,3304,1519,TRUE,"TI","Gordola","Gordola","Gordola","Gordola TI","Gordola (TI)","Gordola TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5112,34.237288136,101,194,43.636363636,312,715,295,TRUE,"TI","Lavertezzo","Lavertezzo","Lavertezzo","Lavertezzo TI","Lavertezzo (TI)","Lavertezzo TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5113,37.297160243,1471,2473,43.77190188,4122,9417,3944,TRUE,"TI","Locarno","Locarno","Locarno","Locarno TI","Locarno (TI)","Locarno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5115,35.47008547,664,1208,45.25664528,1975,4364,1872,TRUE,"TI","Losone","Losone","Losone","Losone TI","Losone (TI)","Losone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5117,55.681818182,49,39,54.21686747,90,166,88,TRUE,"TI","Mergoscia","Mergoscia","Mergoscia","Mergoscia TI","Mergoscia (TI)","Mergoscia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5118,33.830044301,840,1643,53.183597775,2581,4853,2483,TRUE,"TI","Minusio","Minusio","Minusio","Minusio TI","Minusio (TI)","Minusio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5120,35.9375,299,533,49.423963134,858,1736,832,TRUE,"TI","Muralto","Muralto","Muralto","Muralto TI","Muralto (TI)","Muralto TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5121,28.571428571,88,220,59.772296015,315,527,308,TRUE,"TI","Orselina","Orselina","Orselina","Orselina TI","Orselina (TI)","Orselina TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5125,35.813953488,77,138,56.234096692,221,393,215,TRUE,"TI","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona TI","Ronco sopra Ascona (TI)","Ronco sopra Ascona TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5131,38.975966562,373,584,47.643979058,1001,2101,957,TRUE,"TI","Tenero-Contra","Tenero-Contra","Tenero-Contra","Tenero-Contra TI","Tenero-Contra (TI)","Tenero-Contra TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5136,39.076923077,127,198,41.336633663,334,808,325,TRUE,"TI","Onsernone","Onsernone","Onsernone","Onsernone TI","Onsernone (TI)","Onsernone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5138,32.778355879,315,646,50.171484566,1024,2041,961,TRUE,"TI","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra TI","Cugnasco-Gerra (TI)","Cugnasco-Gerra TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5141,40.196882691,490,729,47.724708537,1269,2659,1219,TRUE,"TI","Agno","Agno","Agno","Agno TI","Agno (TI)","Agno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5143,37.301587302,47,79,50.381679389,132,262,126,TRUE,"TI","Aranno","Aranno","Aranno","Aranno TI","Aranno (TI)","Aranno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5144,37.535014006,134,223,50.469798658,376,745,357,TRUE,"TI","Arogno","Arogno","Arogno","Arogno TI","Arogno (TI)","Arogno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5146,49.66442953,74,75,55.395683453,154,278,149,TRUE,"TI","Astano","Astano","Astano","Astano TI","Astano (TI)","Astano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5148,35.304347826,203,372,55.763823805,595,1067,575,TRUE,"TI","Bedano","Bedano","Bedano","Bedano TI","Bedano (TI)","Bedano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5149,40.248962656,97,144,48.148148148,247,513,241,TRUE,"TI","Bedigliora","Bedigliora","Bedigliora","Bedigliora TI","Bedigliora (TI)","Bedigliora TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5151,36.920039487,374,639,53.160040775,1043,1962,1013,TRUE,"TI","Bioggio","Bioggio","Bioggio","Bioggio TI","Bioggio (TI)","Bioggio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5154,33.725490196,86,169,52.008032129,259,498,255,TRUE,"TI","Bissone","Bissone","Bissone","Bissone TI","Bissone (TI)","Bissone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5160,42.934782609,79,105,54.597701149,190,348,184,TRUE,"TI","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio TI","Brusino Arsizio (TI)","Brusino Arsizio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5161,38.403041825,101,162,48.324514991,274,567,263,TRUE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5162,36.952380952,194,331,55.724417427,550,987,525,TRUE,"TI","Cadempino","Cadempino","Cadempino","Cadempino TI","Cadempino (TI)","Cadempino TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5167,33.793103448,245,480,51.877133106,760,1465,725,TRUE,"TI","Canobbio","Canobbio","Canobbio","Canobbio TI","Canobbio (TI)","Canobbio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5171,43.802816901,622,798,53.471464922,1471,2751,1420,TRUE,"TI","Caslano","Caslano","Caslano","Caslano TI","Caslano (TI)","Caslano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5176,28.055260361,264,677,61.704834606,970,1572,941,TRUE,"TI","Comano","Comano","Comano","Comano TI","Comano (TI)","Comano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5180,33.913043478,195,380,57.423795477,584,1017,575,TRUE,"TI","Cureglia","Cureglia","Cureglia","Cureglia TI","Cureglia (TI)","Cureglia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5181,40.540540541,90,132,50.746268657,238,469,222,TRUE,"TI","Curio","Curio","Curio","Curio TI","Curio (TI)","Curio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5186,52,65,60,45.263157895,129,285,125,TRUE,"TI","Grancia","Grancia","Grancia","Grancia TI","Grancia (TI)","Grancia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5187,41.849148418,172,239,47.511312217,420,884,411,TRUE,"TI","Gravesano","Gravesano","Gravesano","Gravesano TI","Gravesano (TI)","Gravesano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5189,41.244239631,179,255,47.199170124,455,964,434,TRUE,"TI","Lamone","Lamone","Lamone","Lamone TI","Lamone (TI)","Lamone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5192,,,,,,,,FALSE,"TI","Lugano","Lugano","Lugano","Lugano TI","Lugano (TI)","Lugano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5193,33.149171271,180,363,49.46332737,553,1118,543,TRUE,"TI","Magliaso","Magliaso","Magliaso","Magliaso TI","Magliaso (TI)","Magliaso TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5194,36.61971831,182,315,57.552370452,522,907,497,TRUE,"TI","Manno","Manno","Manno","Manno TI","Manno (TI)","Manno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5196,33.927434755,533,1038,48.236700538,1614,3346,1571,TRUE,"TI","Massagno","Massagno","Massagno","Massagno TI","Massagno (TI)","Massagno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5198,40.688259109,201,293,51.006036217,507,994,494,TRUE,"TI","Melide","Melide","Melide","Melide TI","Melide (TI)","Melide TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5199,34.475806452,171,325,52.843846949,511,967,496,TRUE,"TI","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira TI","Mezzovico-Vira (TI)","Mezzovico-Vira TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5200,43.617021277,41,53,47.906976744,103,215,94,TRUE,"TI","Miglieglia","Miglieglia","Miglieglia","Miglieglia TI","Miglieglia (TI)","Miglieglia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5203,42.016806723,100,138,62.121212121,246,396,238,TRUE,"TI","Morcote","Morcote","Morcote","Morcote TI","Morcote (TI)","Morcote TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5205,33.431085044,114,227,58.347386172,346,593,341,TRUE,"TI","Muzzano","Muzzano","Muzzano","Muzzano TI","Muzzano (TI)","Muzzano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5206,27.00729927,37,100,53.409090909,141,264,137,TRUE,"TI","Neggio","Neggio","Neggio","Neggio TI","Neggio (TI)","Neggio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5207,32.88590604,98,200,46.798780488,307,656,298,TRUE,"TI","Novaggio","Novaggio","Novaggio","Novaggio TI","Novaggio (TI)","Novaggio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5208,35.494327391,219,398,60.663507109,640,1055,617,TRUE,"TI","Origlio","Origlio","Origlio","Origlio TI","Origlio (TI)","Origlio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5210,39.97271487,293,440,44.011627907,757,1720,733,TRUE,"TI","Paradiso","Paradiso","Paradiso","Paradiso TI","Paradiso (TI)","Paradiso TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5212,31.578947368,228,494,57.927300851,749,1293,722,TRUE,"TI","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca TI","Ponte Capriasca (TI)","Ponte Capriasca TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5214,30.917874396,192,429,56.840247132,644,1133,621,TRUE,"TI","Porza","Porza","Porza","Porza TI","Porza (TI)","Porza TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5216,36.767676768,182,313,54.33646813,520,957,495,TRUE,"TI","Pura","Pura","Pura","Pura TI","Pura (TI)","Pura TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5221,32.743362832,222,456,53.49378882,689,1288,678,TRUE,"TI","Savosa","Savosa","Savosa","Savosa TI","Savosa (TI)","Savosa TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5225,30.563380282,217,493,59.032258065,732,1240,710,TRUE,"TI","Sorengo","Sorengo","Sorengo","Sorengo TI","Sorengo (TI)","Sorengo TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5226,34.274952919,910,1745,55.027386541,2813,5112,2655,TRUE,"TI","Capriasca","Capriasca","Capriasca","Capriasca TI","Capriasca (TI)","Capriasca TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5227,37.073707371,337,572,50.398724083,948,1881,909,TRUE,"TI","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne TI","Torricella-Taverne (TI)","Torricella-Taverne TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5230,36.23853211,79,139,50.79006772,225,443,218,TRUE,"TI","Vernate","Vernate","Vernate","Vernate TI","Vernate (TI)","Vernate TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5231,34.984025559,219,407,52.775543041,656,1243,626,TRUE,"TI","Vezia","Vezia","Vezia","Vezia TI","Vezia (TI)","Vezia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5233,44.537815126,53,66,58.373205742,122,209,119,TRUE,"TI","Vico Morcote","Vico Morcote","Vico Morcote","Vico Morcote TI","Vico Morcote (TI)","Vico Morcote TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5236,31.604095563,463,1002,54.310344828,1512,2784,1465,TRUE,"TI","Collina d'Oro","Collina d'Oro","Collina d'Oro","Collina d'Oro TI","Collina d'Oro (TI)","Collina d'Oro TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5237,38.994800693,225,352,54.392191659,613,1127,577,TRUE,"TI","Alto Malcantone","Alto Malcantone","Alto Malcantone","Alto Malcantone TI","Alto Malcantone (TI)","Alto Malcantone TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5238,36.768617021,553,951,49.238420889,1584,3217,1504,TRUE,"TI","Monteceneri","Monteceneri","Monteceneri","Monteceneri TI","Monteceneri (TI)","Monteceneri TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5239,42.079207921,425,585,46.163963174,1053,2281,1010,TRUE,"TI","Tresa","Tresa","Tresa","Tresa TI","Tresa (TI)","Tresa TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5240,36.583101207,394,683,63.114301491,1143,1811,1077,TRUE,"TI","Val Mara","Val Mara","Val Mara","Val Mara TI","Val Mara (TI)","Val Mara TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5242,39.447731755,400,614,48.388561053,1066,2203,1014,TRUE,"TI","Balerna","Balerna","Balerna","Balerna TI","Balerna (TI)","Balerna TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5249,30.594594595,283,642,55.410764873,978,1765,925,TRUE,"TI","Castel San Pietro","Castel San Pietro","Castel San Pietro","Castel San Pietro TI","Castel San Pietro (TI)","Castel San Pietro TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5250,41.709577755,810,1132,48.523106241,2037,4198,1942,TRUE,"TI","Chiasso","Chiasso","Chiasso","Chiasso TI","Chiasso (TI)","Chiasso TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5251,35.802469136,377,676,52.960840497,1109,2094,1053,TRUE,"TI","Coldrerio","Coldrerio","Coldrerio","Coldrerio TI","Coldrerio (TI)","Coldrerio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5254,35.650136665,1826,3296,50.792438419,5320,10474,5122,TRUE,"TI","Mendrisio","Mendrisio","Mendrisio","Mendrisio TI","Mendrisio (TI)","Mendrisio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5257,34.925975774,519,967,53.816660857,1544,2869,1486,TRUE,"TI","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore TI","Morbio Inferiore (TI)","Morbio Inferiore TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5260,33.660130719,309,609,56.194950088,957,1703,918,TRUE,"TI","Novazzano","Novazzano","Novazzano","Novazzano TI","Novazzano (TI)","Novazzano TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5263,35.519125683,325,590,49.325025961,950,1926,915,TRUE,"TI","Riva San Vitale","Riva San Vitale","Riva San Vitale","Riva San Vitale TI","Riva San Vitale (TI)","Riva San Vitale TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5266,38.203753351,570,922,50.228608752,1538,3062,1492,TRUE,"TI","Stabio","Stabio","Stabio","Stabio TI","Stabio (TI)","Stabio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5268,36.540240518,395,686,51.146788991,1115,2180,1081,TRUE,"TI","Vacallo","Vacallo","Vacallo","Vacallo TI","Vacallo (TI)","Vacallo TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5269,36.185819071,296,522,53.144654088,845,1590,818,TRUE,"TI","Breggia","Breggia","Breggia","Breggia TI","Breggia (TI)","Breggia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5281,39.375424304,580,893,45.400238949,1520,3348,1473,TRUE,"TI","Biasca","Biasca","Biasca","Biasca TI","Biasca (TI)","Biasca TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5287,36.070381232,369,654,43.214862682,1070,2476,1023,TRUE,"TI","Riviera","Riviera","Riviera","Riviera TI","Riviera (TI)","Riviera TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5304,15.789473684,3,16,45.283018868,24,53,19,TRUE,"TI","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin TI","Bosco/Gurin (TI)","Bosco/Gurin TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5307,70.37037037,19,8,39.130434783,27,69,27,TRUE,"TI","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia) TI","Campo (Vallemaggia) (TI)","Campo (Vallemaggia) TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5309,73.076923077,19,7,54.166666667,26,48,26,TRUE,"TI","Cerentino","Cerentino","Cerentino","Cerentino TI","Cerentino (TI)","Cerentino TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5310,41.085271318,159,228,50.366748166,412,818,387,TRUE,"TI","Cevio","Cevio","Cevio","Cevio TI","Cevio (TI)","Cevio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5315,50,11,11,61.111111111,22,36,22,TRUE,"TI","Linescio","Linescio","Linescio","Linescio TI","Linescio (TI)","Linescio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5317,33.448275862,291,579,46.336533603,917,1979,870,TRUE,"TI","Maggia","Maggia","Maggia","Maggia TI","Maggia (TI)","Maggia TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5323,40.888888889,92,133,58.695652174,243,414,225,TRUE,"TI","Lavizzara","Lavizzara","Lavizzara","Lavizzara TI","Lavizzara (TI)","Lavizzara TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5324,34.904013962,200,373,52.843394576,604,1143,573,TRUE,"TI","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio TI","Avegno Gordevio (TI)","Avegno Gordevio TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5396,30.727762803,342,771,56.701030928,1155,2037,1113,TRUE,"TI","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte TI","Terre di Pedemonte (TI)","Terre di Pedemonte TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5397,41.687344913,168,235,44.504310345,413,928,403,TRUE,"TI","Centovalli","Centovalli","Centovalli","Centovalli TI","Centovalli (TI)","Centovalli TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5398,36.835278859,568,974,45.859508852,1606,3502,1542,TRUE,"TI","Gambarogno","Gambarogno","Gambarogno","Gambarogno TI","Gambarogno (TI)","Gambarogno TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
+21,5399,40.754716981,108,157,41.260744986,288,698,265,TRUE,"TI","Verzasca","Verzasca","Verzasca","Verzasca TI","Verzasca (TI)","Verzasca TI","Tessin","Tessin","Ticino",36.112876573,FALSE,FALSE
 22,5401,25.264677575,525,1553,28.201725282,2125,7535,2078,TRUE,"VD","Aigle","Aigle","Aigle","Aigle VD","Aigle (VD)","Aigle VD","Waadt","Vaud","Vaud",22.967927283,FALSE,FALSE
 22,5402,26.996625422,480,1298,40.518962076,1827,4509,1778,TRUE,"VD","Bex","Bex","Bex","Bex VD","Bex (VD)","Bex VD","Waadt","Vaud","Vaud",22.967927283,FALSE,FALSE
 22,5403,25.874125874,37,106,47.266881029,147,311,143,TRUE,"VD","Chessel","Chessel","Chessel","Chessel VD","Chessel (VD)","Chessel VD","Waadt","Vaud","Vaud",22.967927283,FALSE,FALSE
