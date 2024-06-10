@@ -26,7 +26,7 @@ datum_fr <- "9 juin 2024"
 datum_it <- "9 giugno 2024"
 
 for (i in 1:length(vorlagen_short) ) {
-
+  
 #Nationale Ergebnisse holen
 results_national <- get_results(json_data,i,level="national")
 Ja_Anteil <- round(results_national$jaStimmenInProzent,1)
@@ -151,7 +151,7 @@ metadata <- paste0("i5_object_name=SCHWEIZ ABSTIMMUNGEN ",toupper(titel),"\n",
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politik\n",
                    "i25_keywords=\n",
                    "i40_special_instructions=Die Infografik kann im Grafikformat EPS und SVG bezogen werden. Diese Infografik wurde automatisiert vom Schreibroboter Lena erstellt.\n",
                    "i110_credit=KEYSTONE\n",
@@ -159,7 +159,9 @@ metadata <- paste0("i5_object_name=SCHWEIZ ABSTIMMUNGEN ",toupper(titel),"\n",
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1"))) 
+close(con)
 
 #Zip-File erstellen
 zip::zip(zipfile = paste0('LENA_Kantone_',vorlagen_short[i],'_DEU.zip'), 
@@ -178,7 +180,7 @@ new_chart <-dw_copy_chart(vorlage_gemeinde[1])
 dw_edit_chart(new_chart$id,title=titel,
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_de.csv")),
               axes=list("values"="Gemeinde_color"),
               folderId = folder_de)
 
@@ -210,7 +212,7 @@ metadata <- paste0("i5_object_name=SCHWEIZ ABSTIMMUNGEN GEMEINDEN ",toupper(tite
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politik\n",
                    "i25_keywords=\n",
                    "i40_special_instructions=Die Infografik kann im Grafikformat EPS und SVG bezogen werden. Diese Infografik wurde automatisiert vom Schreibroboter Lena erstellt.\n",
                    "i110_credit=KEYSTONE\n",
@@ -218,7 +220,9 @@ metadata <- paste0("i5_object_name=SCHWEIZ ABSTIMMUNGEN GEMEINDEN ",toupper(tite
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1"))) 
+close(con)
 
 #Zip-File erstellen
 zip::zip(zipfile = paste0('LENA_Gemeinden_',vorlagen_short[i],'_DEU.zip'), 
@@ -335,7 +339,7 @@ metadata <- paste0("i5_object_name=SUISSE VOTATION POPULAIRE ",toupper(titel),"\
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politique\n",
                    "i25_keywords=\n",
                    "i40_special_instructions=L'infographie peut être obtenue aux formats graphiques EPS et SVG. Cette infographie a été réalisée de manière automatisée par le robot d'écriture Lena.\n",
                    "i110_credit=KEYSTONE\n",
@@ -343,7 +347,9 @@ metadata <- paste0("i5_object_name=SUISSE VOTATION POPULAIRE ",toupper(titel),"\
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1"))) 
+close(con)
 
 #Zip-File erstellen
 zip::zip(zipfile = paste0('LENA_Kantone_',vorlagen_short[i],'_FR.zip'), 
@@ -364,7 +370,7 @@ dw_edit_chart(new_chart$id,title=titel,
               language="fr-CH",
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_fr.csv")),
               axes=list("values"="Gemeinde_color"),
               visualize = list("legend"=list("title"="pourcentage de oui")),
               folderId = folder_fr)
@@ -397,14 +403,16 @@ metadata <- paste0("i5_object_name=SUISSE VOTATION POPULAIRE COMMUNES ",toupper(
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politique\n",
                    "i40_special_instructions=L'infographie peut être obtenue aux formats graphiques EPS et SVG. Cette infographie a été réalisée de manière automatisée par le robot d'écriture Lena.\n",
                    "i110_credit=KEYSTONE\n",
                    "i115_source=KEYSTONE\n",
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1"))) 
+close(con)
 
 #Zip-File erstellen
 
@@ -532,14 +540,16 @@ metadata <- paste0("i5_object_name=SVIZZERA VOTATZIONE POPOLARE ",toupper(titel)
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politica\n",
                    "i40_special_instructions=L'infografica può essere ottenuta nei formati grafici EPS e SVG. Questa infografica è stata creata automaticamente dal robot di scrittura Lena.\n",
                    "i110_credit=KEYSTONE\n",
                    "i115_source=KEYSTONE\n",
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1"))) 
+close(con)
 
 #Zip-File erstellen
 zip::zip(zipfile = paste0('LENA_Kantone_',vorlagen_short[i],'_IT.zip'), 
@@ -561,7 +571,7 @@ dw_edit_chart(new_chart$id,title=titel,
               language="it-CH",
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_it.csv")),
               axes=list("values"="Gemeinde_color"),
               visualize = list("legend"=list("title"="percentuale sì")),
               folderId = folder_it)
@@ -596,14 +606,17 @@ metadata <- paste0("i5_object_name=SVIZZERA VOTATZIONE POPOLARE COMUNI ",toupper
                    "i90_city=\n",
                    "i100_country_code=CHE\n",
                    "i15_category=N\n",
-                   "i105_headline=Politik, Wirtschaft\n",
+                   "i105_headline=Politica\n",
                    "i40_special_instructions=L'infografica può essere ottenuta nei formati grafici EPS e SVG. Questa infografica è stata creata automaticamente dal robot di scrittura Lena.\n",
                    "i110_credit=KEYSTONE\n",
                    "i115_source=KEYSTONE\n",
                    "i80_byline=Lena\n",
                    "i122_writer=Lena\n")
 
-cat(metadata,file="metadata.properties")
+filename <- "metadata.properties"
+cat(metadata, file= (con <- file(filename,"w",encoding="latin1")))
+close(con)
+
 
 #Zip-File erstellen
 zip::zip(zipfile = paste0('LENA_Gemeinden_',vorlagen_short[i],'_IT.zip'), 
