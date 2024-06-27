@@ -315,7 +315,7 @@ for (v in 1:length(vorlagen_short)) {
   if (grepl("de",cantons_overview$languages[c]) == TRUE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[1])
     dw_edit_chart(data_chart$id,
-                  title=Vorlagen_Titel$Vorlage_d[v],
+                  title=paste0(cantons_overview$area_ID[c],": ",Vorlagen_Titel$Vorlage_d[v]),
                   intro = "&nbsp;",
                   annotate = "&nbsp;",
                   folderId = folder_kanton$id,
@@ -340,7 +340,7 @@ for (v in 1:length(vorlagen_short)) {
   if (grepl("fr",cantons_overview$languages[c]) == TRUE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[2])
     dw_edit_chart(data_chart$id,
-                  title=Vorlagen_Titel$Vorlage_f[v],
+                  title=paste0(cantons_overview$area_ID[c],": ",Vorlagen_Titel$Vorlage_f[v]),
                   intro = "&nbsp;",
                   annotate = "&nbsp;",
                   folderId = folder_kanton$id,
@@ -365,7 +365,7 @@ for (v in 1:length(vorlagen_short)) {
   if (grepl("it",cantons_overview$languages[c]) == TRUE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[3])
     dw_edit_chart(data_chart$id,
-                  title=Vorlagen_Titel$Vorlage_i[v],
+                  title=paste0(cantons_overview$area_ID[c],": ",Vorlagen_Titel$Vorlage_i[v]),
                   intro = "&nbsp;",
                   annotate = "&nbsp;",
                   folderId = folder_kanton$id,
@@ -391,7 +391,6 @@ for (v in 1:length(vorlagen_short)) {
 }
 }
 
-View(grafiken_uebersicht)
 #Daten Speichern
 grafiken_uebersicht <- grafiken_uebersicht[-1,]
 library(xlsx)
