@@ -1,5 +1,6 @@
 get_output_gemeinden <- function(dta,
-                                 language) {
+                                 language,
+                                 type = "normal") {
 
   if (language == "de") {
   output_dw <- dta %>%
@@ -28,6 +29,7 @@ get_output_gemeinden <- function(dta,
   output_dw$Ja_Stimmen_In_Prozent <- round(output_dw$Ja_Stimmen_In_Prozent,1)
   output_dw$Nein_Stimmen_In_Prozent <- round(output_dw$Nein_Stimmen_In_Prozent,1)
   output_dw$Gemeinde_color <- round(output_dw$Gemeinde_color,1)
+  }
   
 return(output_dw)  
 }  

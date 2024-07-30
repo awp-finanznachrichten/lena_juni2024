@@ -100,7 +100,7 @@ for (s in 1:length(kantonal_short_special) ) {
                        results$Gebiet_Ausgezaehlt_Stichentscheid == TRUE,]
   
   
-
+View(results)
   #Sind schon Daten vorhanden?
   if (nrow(results) > 0) {
     
@@ -109,7 +109,7 @@ for (s in 1:length(kantonal_short_special) ) {
     
     #Texte generieren
     results <- special_intro(results)
-    
+  
     #Textvorlagen laden
     Textbausteine <- as.data.frame(read_excel(paste0("Texte/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
                                               sheet = kantonal_short_special[s]))
@@ -137,7 +137,7 @@ for (s in 1:length(kantonal_short_special) ) {
       arrange(Gemeinde_Nr)
     
   }
-  
+
 #Texte speichern
   #texts <- results %>%
   #  select(Gemeinde_KT_d,
@@ -149,18 +149,49 @@ for (s in 1:length(kantonal_short_special) ) {
   
 #library(xlsx)
 #write.xlsx(texts,paste0("./Texte/",kantonal_short_special[s],"_texte.xlsx"))
-  
+
   ###Output generieren für Datawrapper
+
+  ###OUTPUT INITIATIVE
   #Output Abstimmungen Gemeinde
   output_dw_de <- get_output_gemeinden(results,language = "de")
   output_dw_fr <- get_output_gemeinden(results,language = "fr")
   output_dw_it <- get_output_gemeinden(results,language = "it")
 
   #Output speichern
-  write.csv(output_dw_de,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  write.csv(output_dw_fr,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  write.csv(output_dw_it,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_de,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_de_initiative.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_fr,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_fr_initiative.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_it,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_it_initiative.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
+  ###OUTPUT GEGENVORSCHLAG
+  results$Gemeinde_color <- results$Ja_Prozent_Gegenvorschlag
+  results$Ja_Stimmen_In_Prozent <- results$Ja_Prozent_Gegenvorschlag
+  results$Nein_Stimmen_In_Prozent <- results$Nein_Prozent_Gegenvorschlag
+  
+  #Output Abstimmungen Gemeinde
+  output_dw_de_gegenvorschlag <- get_output_gemeinden(results,language = "de")
+  output_dw_fr_gegenvorschlag <- get_output_gemeinden(results,language = "fr")
+  output_dw_it_gegenvorschlag <- get_output_gemeinden(results,language = "it")
+  
+  #Output speichern
+  write.csv(output_dw_de_gegenvorschlag,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_de_gegenvorschlag.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_fr_gegenvorschlag,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_fr_gegenvorschlag.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_it_gegenvorschlag,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_it_gegenvorschlag.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  
+  ###OUTPUT STICHENTSCHEIDUG
+  results$Gemeinde_color <- results$Stichentscheid_Zustimmung_Hauptvorlage
+  results$Ja_Stimmen_In_Prozent <- results$Stichentscheid_Zustimmung_Hauptvorlage
+  results$Nein_Stimmen_In_Prozent <- results$Stichentscheid_Zustimmung_Gegenvorschlag
+  
+  #Output Abstimmungen Gemeinde
+  output_dw_de_stichentscheid <- get_output_gemeinden(results,language = "de")
+  output_dw_fr_stichentscheid <- get_output_gemeinden(results,language = "fr")
+  output_dw_it_stichentscheid <- get_output_gemeinden(results,language = "it")
+  
+  #Output speichern
+  write.csv(output_dw_de_stichentscheid,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_de_stichentscheid.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_fr_stichentscheid,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_fr_stichentscheid.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_it_stichentscheid,paste0("Output_Cantons/",kantonal_short_special[s],"_dw_it_stichentscheid.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short_special[s],"\n"))
   
